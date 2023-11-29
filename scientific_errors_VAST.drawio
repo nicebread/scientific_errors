@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T06:49:18.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="ClYMLu6fWBKA8l-c8BRt" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:21:11.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="1AvthafeVH_86IAS9TDF" version="22.1.4" type="github">
   <diagram name="Seite-1" id="EcgJo7NvLU2FG93w8Emp">
-    <mxGraphModel dx="1487" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="76aKxamO274pQpdvTyFx-1" value="Plausibility of current effect size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-2" value="FIMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-4" value="Decision to search for bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-10" target="76aKxamO274pQpdvTyFx-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="570" as="sourcePoint" />
+            <mxPoint x="564" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-6" value="Available resources (e.g., time, money)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-6" target="76aKxamO274pQpdvTyFx-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="390" as="sourcePoint" />
+            <mxPoint x="534" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-8" value="Prior distribution: Expectation about plausible effect sizes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-8" target="76aKxamO274pQpdvTyFx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="570" as="sourcePoint" />
+            <mxPoint x="564" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-10" value="Probability of an additional bug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="76aKxamO274pQpdvTyFx-1" parent="1" target="76aKxamO274pQpdvTyFx-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="674" y="580" as="sourcePoint" />
+            <mxPoint x="684" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-13" value="Individual cost-benefit analysis (ignoring (?) costs and benefits for society)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-13" target="76aKxamO274pQpdvTyFx-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="450" as="sourcePoint" />
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

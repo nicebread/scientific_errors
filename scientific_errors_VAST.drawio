@@ -1,14 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:21:11.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="1AvthafeVH_86IAS9TDF" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:37:49.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="qZgRHr4yPr1UDcax8_dt" version="22.1.4" type="github">
   <diagram name="Seite-1" id="EcgJo7NvLU2FG93w8Emp">
-    <mxGraphModel dx="689" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="76aKxamO274pQpdvTyFx-27" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="270" width="670" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="76aKxamO274pQpdvTyFx-27">
+          <mxGeometry width="670" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-26" value="The researcher&#39;s mind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="76aKxamO274pQpdvTyFx-27">
+          <mxGeometry x="20" width="190" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-1" value="Plausibility of current effect size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-2" value="FIMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-4" target="76aKxamO274pQpdvTyFx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="584" y="610" />
+              <mxPoint x="300" y="610" />
+              <mxPoint x="300" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-38" value="decreases" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="76aKxamO274pQpdvTyFx-32">
+          <mxGeometry x="-0.8163" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-4" value="Decision to search for bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524" y="410" width="120" height="60" as="geometry" />
@@ -54,6 +77,52 @@
             <mxPoint x="320" y="450" as="sourcePoint" />
             <mxPoint x="370" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-15" value="Result of debugging&lt;br&gt;(bug found / not found)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-4" target="76aKxamO274pQpdvTyFx-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="610" as="sourcePoint" />
+            <mxPoint x="560" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-17" value="DGP of actual bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-17" target="76aKxamO274pQpdvTyFx-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="710" as="sourcePoint" />
+            <mxPoint x="560" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-19" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-15" target="76aKxamO274pQpdvTyFx-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="740" as="sourcePoint" />
+            <mxPoint x="830" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-21" value="Current result (Cohen&#39;s &lt;i&gt;d&lt;/i&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-21" target="76aKxamO274pQpdvTyFx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="520" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-23" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-17" target="76aKxamO274pQpdvTyFx-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="520" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="240" />
+              <mxPoint x="450" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76aKxamO274pQpdvTyFx-30" value="The prior has no input parameter: It is assumed to be fixed" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

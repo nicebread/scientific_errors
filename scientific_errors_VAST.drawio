@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T14:22:01.724Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="hEzjIXkDQwODtLgJ6F-U" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T01:06:43.173Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="SeXDn5e7jbN2wA9Pkapu" version="22.1.8" type="github">
   <diagram name="Seite-1" id="EcgJo7NvLU2FG93w8Emp">
-    <mxGraphModel dx="1434" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-4" value="Decision to search for bugs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-4" value="Decision to search for faults" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="76aKxamO274pQpdvTyFx-10" target="76aKxamO274pQpdvTyFx-4" edge="1">
@@ -60,7 +60,7 @@
             <mxPoint x="564" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-10" value="Belief about an additional bug" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-10" value="Belief about a remaining error" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-1" target="76aKxamO274pQpdvTyFx-10" edge="1">
@@ -78,7 +78,7 @@
             <mxPoint x="370" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-15" value="Result of debugging&lt;br&gt;(bug found / not found)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-15" value="Result of fault search&lt;br&gt;(fault found / not found)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-42" target="76aKxamO274pQpdvTyFx-15" edge="1">
@@ -92,10 +92,10 @@
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVMgi2vGPqKL68FWYyV5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-17" target="qVMgi2vGPqKL68FWYyV5-1">
+        <mxCell id="qVMgi2vGPqKL68FWYyV5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="76aKxamO274pQpdvTyFx-17" target="qVMgi2vGPqKL68FWYyV5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-17" value="DGP of actual bugs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-17" value="DGP of actual errors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-17" target="76aKxamO274pQpdvTyFx-15" edge="1">
@@ -161,10 +161,10 @@
         <mxCell id="76aKxamO274pQpdvTyFx-48" value="&lt;br&gt;published record" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="720" y="200" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qVMgi2vGPqKL68FWYyV5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVMgi2vGPqKL68FWYyV5-1" target="76aKxamO274pQpdvTyFx-10">
+        <mxCell id="qVMgi2vGPqKL68FWYyV5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qVMgi2vGPqKL68FWYyV5-1" target="76aKxamO274pQpdvTyFx-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qVMgi2vGPqKL68FWYyV5-1" value="Belief about DGP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qVMgi2vGPqKL68FWYyV5-1" value="Belief about DGP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

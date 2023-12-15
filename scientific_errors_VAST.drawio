@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T15:43:09.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="yyYv5S--c94-qx9mv-b6" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T11:18:07.261Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="PRklZyyy_Ma3-rioDF2g" version="22.1.9" type="github">
   <diagram name="Seite-1" id="EcgJo7NvLU2FG93w8Emp">
-    <mxGraphModel dx="1026" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
             <mxPoint x="370" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-15" target="1HgEfkmHuxszHKYWTJBr-2">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="76aKxamO274pQpdvTyFx-15" target="1HgEfkmHuxszHKYWTJBr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-15" value="Result of fault search&lt;br&gt;(fault found / not found)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -92,19 +92,19 @@
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-17" target="qVMgi2vGPqKL68FWYyV5-1">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="76aKxamO274pQpdvTyFx-17" target="qVMgi2vGPqKL68FWYyV5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-17" target="76aKxamO274pQpdvTyFx-15">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="76aKxamO274pQpdvTyFx-17" target="76aKxamO274pQpdvTyFx-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="76aKxamO274pQpdvTyFx-17" target="1HgEfkmHuxszHKYWTJBr-1">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="76aKxamO274pQpdvTyFx-17" target="1HgEfkmHuxszHKYWTJBr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-17" value="DGP of actual errors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-21" value="Current result (Cohen&#39;s &lt;i&gt;d&lt;/i&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-21" value="Current result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-21" target="76aKxamO274pQpdvTyFx-1" edge="1">
@@ -161,16 +161,16 @@
         <mxCell id="qVMgi2vGPqKL68FWYyV5-1" value="Belief about DGP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HgEfkmHuxszHKYWTJBr-1" target="1HgEfkmHuxszHKYWTJBr-2">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1HgEfkmHuxszHKYWTJBr-1" target="1HgEfkmHuxszHKYWTJBr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-1" value="Initial count of faults" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-1" value="Initial count of faults" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HgEfkmHuxszHKYWTJBr-2" target="76aKxamO274pQpdvTyFx-21">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1HgEfkmHuxszHKYWTJBr-2" target="76aKxamO274pQpdvTyFx-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HgEfkmHuxszHKYWTJBr-2" value="Current count of faults" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1HgEfkmHuxszHKYWTJBr-2" value="Current count of faults" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

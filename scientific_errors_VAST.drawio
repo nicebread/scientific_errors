@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T11:18:07.261Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="PRklZyyy_Ma3-rioDF2g" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T01:35:37.618Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="t_Yrq3Vb4bdUSTtinekH" version="22.1.11" type="github">
   <diagram name="Seite-1" id="EcgJo7NvLU2FG93w8Emp">
-    <mxGraphModel dx="1674" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
         <mxCell id="76aKxamO274pQpdvTyFx-15" value="Result of fault search&lt;br&gt;(fault found / not found)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-42" target="76aKxamO274pQpdvTyFx-15" edge="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-42" target="Q5QC9ocEZP4uTF0eglxp-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="610" as="sourcePoint" />
             <mxPoint x="560" y="560" as="targetPoint" />
@@ -136,14 +136,14 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76aKxamO274pQpdvTyFx-43" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="76aKxamO274pQpdvTyFx-4" target="76aKxamO274pQpdvTyFx-42" edge="1">
+        <mxCell id="76aKxamO274pQpdvTyFx-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="76aKxamO274pQpdvTyFx-4" target="76aKxamO274pQpdvTyFx-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584" y="410" as="sourcePoint" />
             <mxPoint x="584" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-42" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="574" y="220" width="20" height="20" as="geometry" />
+          <mxGeometry x="603" y="220" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76aKxamO274pQpdvTyFx-44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -172,6 +172,17 @@
         </mxCell>
         <mxCell id="1HgEfkmHuxszHKYWTJBr-2" value="Current count of faults" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5QC9ocEZP4uTF0eglxp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5QC9ocEZP4uTF0eglxp-5" target="76aKxamO274pQpdvTyFx-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="80" />
+              <mxPoint x="613" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5QC9ocEZP4uTF0eglxp-5" value="Search activities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="104" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

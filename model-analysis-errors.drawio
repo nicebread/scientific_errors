@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T13:22:05.404Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="LP_jbgtanzVx5luxefAk" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T13:22:58.699Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="fW_rxABoXx11YZ-02Eil" version="24.0.2" type="github">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="1883" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mfvt5SFf4x34KGhcreXI-263" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2845" y="-640" width="525" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-260" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2491" y="-80" width="939" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-250" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1825.5" y="-1260" width="494.5" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-22" value="article" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
           <mxGeometry x="330" y="-580" width="333" height="380" as="geometry" />
         </mxCell>
@@ -19,7 +28,7 @@
           <mxGeometry x="863.38" y="25" width="167.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="1361" width="380" height="300" as="geometry" />
+          <mxGeometry x="1240" y="-1360" width="380" height="300" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="-560" width="730" height="180" as="geometry" />
@@ -160,10 +169,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-26" value="s1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390.5" y="1265.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1279.5" y="-1455.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-28" value="&quot;a particular specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390.5" y="1121" width="120" height="60" as="geometry" />
+          <mxGeometry x="1279.5" y="-1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-38" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-35" target="CN0c7sCui0MEg__w1s-X-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -477,10 +486,7 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-33" value="d1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1231" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-141" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-36" target="npsLAXFu691l5lNTcMtJ-139" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-36" value="&quot;reported code conforms to specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-36" value="&quot;Code is correct if it conforms to a specification.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2100.5" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-37" value="c1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -492,14 +498,14 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-41" value="&quot;a particular description&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1231" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-43" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-44" target="npsLAXFu691l5lNTcMtJ-45" edge="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-43" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-44" target="npsLAXFu691l5lNTcMtJ-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-44" value="compatible_transformations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1300" width="611" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-45" value="&quot;data-analytic transformations are compatible with respect to a specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1500.5" y="1170" width="150" height="60" as="geometry" />
+        <mxCell id="npsLAXFu691l5lNTcMtJ-45" value="&quot;Transformations are compatible if they can be predicted by the same specification, only differing in unspecified details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1491" y="1150" width="169" height="80" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="npsLAXFu691l5lNTcMtJ-48" target="npsLAXFu691l5lNTcMtJ-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -621,7 +627,7 @@
           <mxGeometry x="2110.5" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-102" value="Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="2855" y="-360" width="100" height="60" as="geometry" />
+          <mxGeometry x="2855" y="-170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-105" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1694" y="-473" width="120" height="60" as="geometry" />
@@ -636,7 +642,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-106" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2835" y="-240" width="120" height="60" as="geometry" />
+          <mxGeometry x="2894.5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-107" value="data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="npsLAXFu691l5lNTcMtJ-106" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -648,7 +654,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-109" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2690" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="2749.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-110" value="utilised_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="npsLAXFu691l5lNTcMtJ-109" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -660,7 +666,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-112" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2970" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3029.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-113" value="reported_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="npsLAXFu691l5lNTcMtJ-112" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -674,36 +680,36 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-115" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-113" target="npsLAXFu691l5lNTcMtJ-107" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3030" y="-210" />
+              <mxPoint x="3089.5" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-116" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-110" target="npsLAXFu691l5lNTcMtJ-107" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2750" y="-210" />
+              <mxPoint x="2809.5" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-117" value="&quot;Empirical data that were utilised during a data-analytic transformation&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2480.5" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-120" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-110" target="npsLAXFu691l5lNTcMtJ-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-121" value="&quot;Empirical data that were published alongside an article&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3210" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3269.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-122" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-113" target="npsLAXFu691l5lNTcMtJ-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-125" value="&quot;Empirical data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2585.5" y="-300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2645" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-126" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-107" target="npsLAXFu691l5lNTcMtJ-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2900" y="-270" />
+              <mxPoint x="2959.5" y="-20" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -750,12 +756,6 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-136" value="Note: filled details are usually commonly accepted standards if they are refelcted, e.g. the &quot;best&quot; optimizer." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="385.13" y="1240.5" width="169" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-138" value="Transformations are compatible if they can be predicted by the same specification, only differing in unspecified details." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="1490" y="1690" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-139" value="&quot;reported code is correct with respect to a specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2270" y="1290" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-148" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-146" target="PQwBD4DDwZsJVSDzbPhe-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -794,16 +794,7 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-157" value="&quot;the result of a data-analytic transformation that is&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2190" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-2" value="The code shared by authors is not necessarily the one that was used to obtain the result: Even with version control one might accidently use a different version." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="3660" y="-875" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-3" value="The data shared by authors is not necessarily the same which was used to obtain the result: Authors might only share a preprocessed version." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="3080" y="-230" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-4" value="Code is correct if it conforms to a specification. Equivalently, it is correct if transformations that follow from specification and code are compatible with respect to the specification." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="2798" y="1700" width="212" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-5" value="The methods section in an article and auxiliary assets created during the data analysis (such as the source code) can both be treated as a description of a data-analytic transformation that has been performed." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="mfvt5SFf4x34KGhcreXI-5" value="The methods section in an article and auxiliary assets created during the data analysis (such as the source code) can both be treated as a description of a data-analytic transformation." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="710.25" y="283" width="220" height="79" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-6" value="A description typically does not specify everything that is necessary to perform a data-analytic transformation. Everything that is not mentioned has to be assumed with sensible settings." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
@@ -892,22 +883,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-78" value="specification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390.5" y="1401" width="120" height="60" as="geometry" />
+          <mxGeometry x="1279.5" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-84" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-79" target="mfvt5SFf4x34KGhcreXI-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-79" value="implementation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-206.5" y="1401" width="120" height="60" as="geometry" />
+          <mxGeometry x="1463.5" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-83" value="description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-300.5" y="1543" width="120" height="60" as="geometry" />
+          <mxGeometry x="1369.5" y="-1178" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-88" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-87" target="mfvt5SFf4x34KGhcreXI-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-87" value="&quot;A specification is a description of a data-analytic transformation from which an implementation is derived by reasoning&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="1771" width="260" height="80" as="geometry" />
+        <mxCell id="mfvt5SFf4x34KGhcreXI-87" value="&quot;A specification is description of a data-analytic transformation from which an implementation is derived by reasoning&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="-950" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-92" value="Which direction is appropriate for this &quot;reasoning&quot; relationship?&lt;br&gt;&lt;br&gt;Aren&#39;t the methods a post-hoc summary of the data-analytic transformation?&lt;br&gt;&lt;br&gt;The assumption that the reasoning only goes in one direction is core to our model!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1090" y="918" width="205" height="169" as="geometry" />
@@ -920,9 +911,6 @@
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-122" value="&quot;Materials created as a byproduct during the data analysis&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3060" y="-1020" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3180" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-126" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="mfvt5SFf4x34KGhcreXI-125" target="mfvt5SFf4x34KGhcreXI-120" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1062,9 +1050,6 @@
         <mxCell id="mfvt5SFf4x34KGhcreXI-181" value="methods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160.13" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-189" value="A data-analytic transformation turns data into a result." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="1285" y="-545" width="310" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-192" value="result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="351.75" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1130,6 +1115,65 @@
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-240" value="executed_code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2020" y="-473" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-242" value="Data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="-1380" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-243" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" parent="1" vertex="1">
+          <mxGeometry x="2080.25" y="-1230" width="200.25" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-245" value="executed_code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2120.37" y="-1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-247" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-246" target="mfvt5SFf4x34KGhcreXI-245" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2020.25" y="-1150" />
+              <mxPoint x="2020.25" y="-1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-249" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-246" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2080.25" y="-1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2000.25" y="-1170" />
+              <mxPoint x="2000.25" y="-1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-256" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-246" target="mfvt5SFf4x34KGhcreXI-255" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-246" value="description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="-1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-252" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-251" target="mfvt5SFf4x34KGhcreXI-250" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-251" value="&quot;During data analysis, a description of a data-analytic transformation &lt;br/&gt;is used to perform a data-analytic transformation, possibly producing &lt;br/&gt;code that is executed&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1975.37" y="-900" width="194.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-255" value="auxiliary_asset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-258" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-257" target="npsLAXFu691l5lNTcMtJ-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-257" value="&quot;Code is correct if transformations that follow from specification and code are compatible with respect to the specification.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2818" y="1161" width="180" height="89.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-261" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-259" target="mfvt5SFf4x34KGhcreXI-260" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-259" value="&quot;The data shared by authors is not necessarily the same which was used to obtain the result (e.g. authors might only share a preprocessed version).&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3600" y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-264" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-262" target="mfvt5SFf4x34KGhcreXI-263" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfvt5SFf4x34KGhcreXI-262" value="&quot;The code shared by authors is not necessarily the one that was used to obtain the result. Even with version control one might accidently use a different version.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3139.5" y="-380" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

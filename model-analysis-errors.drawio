@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T13:20:33.622Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="4H2JcQaowqYN1CEVIfuH" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T13:22:05.404Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="LP_jbgtanzVx5luxefAk" version="24.0.2" type="github">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="1883" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-185" value="da_process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=right;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="mfvt5SFf4x34KGhcreXI-185" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="863.38" y="25" width="167.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -42,7 +42,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-227" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-218" target="CN0c7sCui0MEg__w1s-X-211" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-218" value="compatible_processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-218" value="compatible_transformations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
           <mxGeometry x="1181" y="1920" width="700" height="380" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-133" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-128" target="CN0c7sCui0MEg__w1s-X-132" edge="1">
@@ -60,7 +60,7 @@
         <mxCell id="PQwBD4DDwZsJVSDzbPhe-2" value="m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-744" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQwBD4DDwZsJVSDzbPhe-3" value="&quot;human action that potentially prevents a correct data-analytic process&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PQwBD4DDwZsJVSDzbPhe-3" value="&quot;human action that potentially prevents a correct data-analytic transformation&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1084" y="190" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQwBD4DDwZsJVSDzbPhe-10" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PQwBD4DDwZsJVSDzbPhe-8" target="PQwBD4DDwZsJVSDzbPhe-9" edge="1">
@@ -142,7 +142,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-12" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-10" target="CN0c7sCui0MEg__w1s-X-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-10" value="da_process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-10" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285.13" y="1380.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-11" value="&quot;taking data to calculate a result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -359,7 +359,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-204" value="&quot;Code as published with the article&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3420" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-209" value="&quot;Code that was used during data-analytic process (and is thus responsible for the result reported in the article)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-209" value="&quot;Code that was used during data-analytic transformation (and is thus responsible for the result reported in the article)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2600.5" y="-635" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-211" value="&quot;data-analytic transformation are compatible with respect to a description&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -429,7 +429,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-228" value="p2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2450" y="457" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-1" value="&quot;a low-level description of a data-analytic process that can be executed by a computer&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-1" value="&quot;a low-level description of a data-analytic transformation that can be executed by a computer&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3035.5" y="-492.5" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="npsLAXFu691l5lNTcMtJ-17" target="npsLAXFu691l5lNTcMtJ-19" edge="1">
@@ -495,10 +495,10 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-43" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="npsLAXFu691l5lNTcMtJ-44" target="npsLAXFu691l5lNTcMtJ-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-44" value="compatible_processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-44" value="compatible_transformations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1300" width="611" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-45" value="&quot;data-analytic transformation are compatible with respect to a specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-45" value="&quot;data-analytic transformations are compatible with respect to a specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1500.5" y="1170" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="npsLAXFu691l5lNTcMtJ-48" target="npsLAXFu691l5lNTcMtJ-54" edge="1">
@@ -608,8 +608,8 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-81" value="Note: the &quot;r&quot; relationship between two descriptions effectively makes them more specific, reducing the required amount of additional details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="2045.5" y="1560" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-82" value="Compatible processes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="1050" width="400" height="60" as="geometry" />
+        <mxCell id="npsLAXFu691l5lNTcMtJ-82" value="Compatible transformations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
+          <mxGeometry x="1375" y="1050" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-83" value="Conforming code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="2450" y="1060" width="310" height="60" as="geometry" />
@@ -750,7 +750,7 @@
         <mxCell id="npsLAXFu691l5lNTcMtJ-136" value="Note: filled details are usually commonly accepted standards if they are refelcted, e.g. the &quot;best&quot; optimizer." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="385.13" y="1240.5" width="169" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-138" value="Processes are compatible if they can be predicted by the same specification, only differing in unspecified details." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-138" value="Transformations are compatible if they can be predicted by the same specification, only differing in unspecified details." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1490" y="1690" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-139" value="&quot;reported code is correct with respect to a specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -870,7 +870,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-37" value="da_process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mfvt5SFf4x34KGhcreXI-37" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="-455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.365;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mfvt5SFf4x34KGhcreXI-42" target="mfvt5SFf4x34KGhcreXI-40" edge="1">

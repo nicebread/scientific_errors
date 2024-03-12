@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T13:16:17.892Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="mF_bGCbeSd0T7ZQ1ye9d" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T13:17:16.866Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="vlYpIgbkLjB6aCrK85kW" version="24.0.2" type="github">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="1883" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CN0c7sCui0MEg__w1s-X-218" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-227" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-218" target="CN0c7sCui0MEg__w1s-X-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CN0c7sCui0MEg__w1s-X-218" value="compatible_processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
           <mxGeometry x="990" y="1680" width="611" height="270" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-162" value="specification_and_code_describe_process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
@@ -314,19 +317,27 @@
           <mxGeometry x="1840" y="1432.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-109" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-107" target="CN0c7sCui0MEg__w1s-X-108" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2280" y="1450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-111" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-107" target="CN0c7sCui0MEg__w1s-X-110" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2280" y="1118" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-107" value="p1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2250" y="1252.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2218.75" y="1252.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-108" value="&quot;a particular data-analytic process&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2250" y="1427.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2330" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-110" value="da_process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2250" y="1087.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2320" y="1087.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-115" value="Analysis mistake" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="-774" y="60" width="310" height="60" as="geometry" />
@@ -534,10 +545,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-209" value="&quot;Code that was used during data-analytic process&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2470" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-219" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-211" target="CN0c7sCui0MEg__w1s-X-218" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-211" value="compatible_processes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-211" value="&quot;data-analytic processes are compatible with respect to a specification&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220.5" y="1550" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-212" value="amount_of_underspecification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -546,25 +554,25 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-216" value="p 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-213" target="CN0c7sCui0MEg__w1s-X-214" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="1730" />
+              <mxPoint x="1100" y="1760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-217" value="p 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-213" target="CN0c7sCui0MEg__w1s-X-215" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="1870" />
+              <mxPoint x="1100" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-213" value="specification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="1760" width="120" height="60" as="geometry" />
+        <mxCell id="CN0c7sCui0MEg__w1s-X-213" value="s1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-214" value="da_process1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1362.5" y="1700" width="120" height="60" as="geometry" />
+        <mxCell id="CN0c7sCui0MEg__w1s-X-214" value="p1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1332.5" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-215" value="da_process2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1362.5" y="1840" width="120" height="60" as="geometry" />
+        <mxCell id="CN0c7sCui0MEg__w1s-X-215" value="p2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1332.5" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CN0c7sCui0MEg__w1s-X-220" target="CN0c7sCui0MEg__w1s-X-221" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -583,6 +591,23 @@
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-225" value="&quot;Everything that needs to be assumed to do a process that conforms to the description&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="761.5" y="150" width="169" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="CN0c7sCui0MEg__w1s-X-229" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-228" target="CN0c7sCui0MEg__w1s-X-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2490" y="1118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CN0c7sCui0MEg__w1s-X-230" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-228" target="CN0c7sCui0MEg__w1s-X-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2490" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CN0c7sCui0MEg__w1s-X-228" value="p2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="1252.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

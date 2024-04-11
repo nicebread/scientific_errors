@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T14:59:57.583Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="BmLXI3azWcdyZh0-vb1-" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-11T15:46:56.287Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="dgATY2-Ar82_Ew2bQBGh" version="24.2.3" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
-    <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7854" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
           <mxGeometry x="-3074.25" y="-434.9999999999999" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-139" value="Data-analytic transformation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-1950" y="-1140" width="500" height="60" as="geometry" />
+          <mxGeometry x="-1884.5" y="-1225" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-140" value="&quot;A process during which data is transformed into a result, optionally in a specific computational environment and/or using code. For example if the mean of a variable is calculated using a hand calculator.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1905" y="-815" width="220" height="90" as="geometry" />
@@ -262,6 +262,14 @@
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-195" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-184" target="CN0c7sCui0MEg__w1s-X-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnuP-C071pw-Gry_amuv-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CN0c7sCui0MEg__w1s-X-184" target="WnuP-C071pw-Gry_amuv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1275" y="-1020" />
+              <mxPoint x="-1411" y="-1020" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-184" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1305" y="-870" width="120" height="60" as="geometry" />
@@ -1234,8 +1242,8 @@
         <mxCell id="42q9qqVYHl1CzOxwrYSO-65" value="&quot;Incompatible descriptions can be reconciled to one coherent description by giving preference to only one for every conflict when taken together.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3006" y="2352" width="272" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="42q9qqVYHl1CzOxwrYSO-72" value="Correct data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="85.00000000000006" y="-380" width="380" height="60" as="geometry" />
+        <mxCell id="42q9qqVYHl1CzOxwrYSO-72" value="Correctness of a data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
+          <mxGeometry x="10.000000000000057" y="-380" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="42q9qqVYHl1CzOxwrYSO-73" value="&quot;A data analysis is correct if it implements a correct data-analytical transformation following a coherent article.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="-240" width="245.25" height="100" as="geometry" />
@@ -1898,7 +1906,7 @@
         <mxCell id="LLUiGZ_v_eVDPKGoO8ZT-8" value="&quot;The result obtained during the data-analytic transformation pertaining to an original article.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="1358" width="150" height="92" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;An article is a compilation of statements about certain methods, data and a result. Other parts, such as research question, hypotheses, theories, description of data collection, or interpretation of results, are currently ignored.&quot;" tags="" id="2AB9cGjdwp_ffjIxllG7-1">
+        <UserObject label="&quot;An article is a compilation of statements about certain data-analytic methods, data and a result. Other parts, such as research questions, hypotheses, theories, description of data collection, or interpretation of results, are currently ignored.&quot;" tags="" id="2AB9cGjdwp_ffjIxllG7-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-3360.25" y="-320" width="178" height="120" as="geometry" />
           </mxCell>
@@ -1929,6 +1937,9 @@
         </mxCell>
         <mxCell id="ZoCv7Ro_4dQpILHq-7rR-7" value="&quot;The method section in an article, auxiliary assets created during the data analysis (such as the source code), the preregistration (if available), and the (latent) intent of a researcher can all be treated as a description of a data-analytic transformation. Also, the consolidation of (1) preregistration, (2) method description and (3) auxiliary assets in an article can be treated as such a description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2480" y="-112.75" width="317.12" height="135.51" as="geometry" />
+        </mxCell>
+        <mxCell id="WnuP-C071pw-Gry_amuv-1" value="&quot;hardware and software environment, for example versions and parameters of utilised software and hardware architecture&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="-1130" width="178" height="89.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T14:56:24.561Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="6UeJ5xvlEYiFrgZotCCG" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-11T14:56:55.854Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="MDAI1NDPwP3xYFf61k5n" version="24.2.3" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2068,7 +2068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="Article">
-    <mxGraphModel dx="-1780" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1624" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2077,6 +2077,12 @@
             <mxGeometry x="2490" y="-970" width="780" height="570" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Pb_pmZ8bssueoNHnppx8-28" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pb_pmZ8bssueoNHnppx8-21" target="Pb_pmZ8bssueoNHnppx8-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb_pmZ8bssueoNHnppx8-30" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pb_pmZ8bssueoNHnppx8-21" target="Pb_pmZ8bssueoNHnppx8-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="mistake" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-21">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=right;verticalAlign=top;" vertex="1" parent="1">
             <mxGeometry x="2490" y="-990" width="390" height="610" as="geometry" />
@@ -2087,12 +2093,6 @@
             <mxGeometry x="2665.31" y="-690" width="149.88" height="280" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="yrJLzXoseopjtiNfFKk5-1" value="Original and repeating article" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="-1130" width="510" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dAbIhyc2YpFESYu89Auw-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yrJLzXoseopjtiNfFKk5-1">
-          <mxGeometry x="265" y="21" width="50" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="original_article" tags="original_article" id="yrJLzXoseopjtiNfFKk5-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" vertex="1" parent="1">
             <mxGeometry x="2880" y="-950" width="200" height="533" as="geometry" />
@@ -2229,9 +2229,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="yrJLzXoseopjtiNfFKk5-41" value="Note: This is one configuration of an article, not all articles need to look like this." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2862.25" y="-1030" width="240" height="56.94" as="geometry" />
-        </mxCell>
+        <UserObject label="Note: This is one configuration of an article, not all articles need to look like this." tags="annotations" id="yrJLzXoseopjtiNfFKk5-41">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+            <mxGeometry x="2862.25" y="-1030" width="240" height="56.94" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Pb_pmZ8bssueoNHnppx8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yrJLzXoseopjtiNfFKk5-42" target="yrJLzXoseopjtiNfFKk5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2523,11 +2525,20 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Pb_pmZ8bssueoNHnppx8-32" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb_pmZ8bssueoNHnppx8-24" target="Pb_pmZ8bssueoNHnppx8-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb_pmZ8bssueoNHnppx8-36" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb_pmZ8bssueoNHnppx8-24" target="Pb_pmZ8bssueoNHnppx8-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="fault" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-24">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="2710.25" y="-630" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Pb_pmZ8bssueoNHnppx8-38" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb_pmZ8bssueoNHnppx8-26" target="Pb_pmZ8bssueoNHnppx8-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="failure" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-26">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" vertex="1" parent="1">
             <mxGeometry x="2670" y="-500" width="200" height="80" as="geometry" />
@@ -2543,6 +2554,29 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&quot;A human action that causes a fault.&quot;" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-27">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2723" y="-1120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;Mistake&quot;" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-29">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2528" y="-1120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;A manifestation of a mistake.&quot;" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-31">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2350" y="-650" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;Fault&quot;" tags="incorrect" id="Pb_pmZ8bssueoNHnppx8-35">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2528" y="-750" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Pb_pmZ8bssueoNHnppx8-37" value="&quot;Failure&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710.25" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

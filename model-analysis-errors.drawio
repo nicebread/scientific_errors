@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T14:48:22.492Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="5cnWdAeqRi_s50KW-WH7" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T14:50:18.963Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="ViR9VWXUFUasnBkM0rCF" version="24.2.3" type="github">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tvFMJHgRatgAc4t0fHjy-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1720.5" y="1830" width="420.5" height="180" as="geometry" />
+          <mxGeometry x="-1720.5" y="1830" width="420.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="zFcz-C3NXDBQkK0YIIqr-47" value="reported_parts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
           <mxGeometry x="-2150" y="2750" width="440" height="395" as="geometry" />
@@ -70,6 +70,9 @@
           <mxGeometry x="-4780.25" y="-1100.06" width="939" height="340" as="geometry" />
         </mxCell>
         <mxCell id="cCpTQMi2O1VusYKRESy9-58" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-250" target="mfvt5SFf4x34KGhcreXI-251" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-152" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-250" target="MhnjOR5AC59zmjkfGHs0-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-250" value="data_analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=right;verticalAlign=top;" parent="1" vertex="1">
@@ -220,13 +223,16 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-139" value="Data-analytic transformation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="-1950" y="-1140" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-140" value="&quot;An act during which data is transformed into a result, optionally in a specific computational environment and/or using code. For example if the mean of a variable is calculated using a hand calculator.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-140" value="&quot;A process during which data is transformed into a result, optionally in a specific computational environment and/or using code. For example if the mean of a variable is calculated using a hand calculator.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1905" y="-815" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cCpTQMi2O1VusYKRESy9-59" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-141" target="CN0c7sCui0MEg__w1s-X-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-149" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-143" target="CN0c7sCui0MEg__w1s-X-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-150" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-143" target="MhnjOR5AC59zmjkfGHs0-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CN0c7sCui0MEg__w1s-X-143" value="result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -864,8 +870,8 @@
         <mxCell id="mfvt5SFf4x34KGhcreXI-246" value="article" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40.00000000000006" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-251" value="&quot;Data analysis involves two steps: First, a data-analytic transformation that follows from an article and possible necessary details is prepared, potentially by creating auxiliary assets such as handwritten notes. Second, the transformation is performed on data, producing a result.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140.00000000000006" y="-540" width="274.51" height="90" as="geometry" />
+        <mxCell id="mfvt5SFf4x34KGhcreXI-251" value="&quot;A process involving two activities: First, a data-analytic transformation that follows by reasoning from all descriptions that later form an article and from necessary details is prepared, potentially by creating auxiliary assets, especially code. Second, the transformation is performed on data, producing a result.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="138" y="-540" width="274.51" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-255" value="auxiliary_asset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="178.00000000000006" y="-733" width="120" height="60" as="geometry" />
@@ -1296,10 +1302,15 @@
           <mxGeometry x="-1500" y="1860" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tvFMJHgRatgAc4t0fHjy-8" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tvFMJHgRatgAc4t0fHjy-6" target="tvFMJHgRatgAc4t0fHjy-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1533" y="1960" />
+              <mxPoint x="-1533" y="1940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="tvFMJHgRatgAc4t0fHjy-6" value="coherent_description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1685" y="1895" width="120" height="60" as="geometry" />
+        <mxCell id="tvFMJHgRatgAc4t0fHjy-6" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1685" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tvFMJHgRatgAc4t0fHjy-9" value="&quot;A data-analytic transformation is correct with respect to a description (1) if the description is coherent, (2) the transformation follows by reasoning from it, (3) the transformation uses the primary data, and (4) the filled details follow accepted standards of the field.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1660.5" y="1640" width="300.5" height="100" as="geometry" />
@@ -1407,7 +1418,7 @@
           <mxGeometry x="100.75000000000006" y="-410" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="42q9qqVYHl1CzOxwrYSO-73" value="&quot;A data analysis is correct if it implements a correct data-analytical transformation following a coherent version of the descriptions in an article.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="145" y="-260" width="245.25" height="100" as="geometry" />
+          <mxGeometry x="145" y="-240" width="245.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cCpTQMi2O1VusYKRESy9-57" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="42q9qqVYHl1CzOxwrYSO-74" target="42q9qqVYHl1CzOxwrYSO-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2008,7 +2019,7 @@
         <mxCell id="MhnjOR5AC59zmjkfGHs0-122" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-2440.02" y="-1000" width="300.02" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MhnjOR5AC59zmjkfGHs0-126" value="&quot;A description may be used to perform a data-analytic transformation on a set of data where the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or source code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-126" value="&quot;A description may be used to perform a data-analytic transformation on a set of data where the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2400.01" y="-730" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MhnjOR5AC59zmjkfGHs0-129" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2068,6 +2079,23 @@
         </mxCell>
         <mxCell id="MhnjOR5AC59zmjkfGHs0-140" value="AND" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="197.49" y="-860.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-149" value="&quot;The output of a data-analytic transformation (and, by extension, of a data analysis).&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-940" y="-640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-151" value="&quot;Data analysis&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-154" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MhnjOR5AC59zmjkfGHs0-153" target="tvFMJHgRatgAc4t0fHjy-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1533" y="1880" />
+              <mxPoint x="-1533" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-153" value="coherent_description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1685" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

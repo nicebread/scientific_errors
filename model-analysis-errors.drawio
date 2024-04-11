@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T14:57:34.350Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="6FBpEMRDck8azT1SMcCz" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-11T14:58:35.128Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="qsz_hKff9g9QCw6TfQCZ" version="24.2.3" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1974,30 +1974,6 @@
         <mxCell id="zNhd55zKUkes4Fp62ajZ-5" value="article" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2850" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-9" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zNhd55zKUkes4Fp62ajZ-6" target="zNhd55zKUkes4Fp62ajZ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-13" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zNhd55zKUkes4Fp62ajZ-6" target="zNhd55zKUkes4Fp62ajZ-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-6" value="original_article" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2671.75" y="-540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-8" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zNhd55zKUkes4Fp62ajZ-7" target="zNhd55zKUkes4Fp62ajZ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-11" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zNhd55zKUkes4Fp62ajZ-7" target="zNhd55zKUkes4Fp62ajZ-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-7" value="repeating_article" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3050" y="-540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-10" value="&quot;Article that repeats some parts of an original article.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3050" y="-426.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zNhd55zKUkes4Fp62ajZ-12" value="&quot;Article that reports original research.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2671.75" y="-406.5" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OYIkVFOobp0ZY1qXVCXF-1" value="Results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="205.49000000000007" y="1087" width="150" height="60" as="geometry" />
         </mxCell>
@@ -2072,7 +2048,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="Article">
-    <mxGraphModel dx="-664" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-904" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2097,7 +2073,7 @@
             <mxGeometry x="2665.31" y="-690" width="149.88" height="280" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="original_article" tags="original_article" id="yrJLzXoseopjtiNfFKk5-4">
+        <UserObject label="article" tags="original_article" id="yrJLzXoseopjtiNfFKk5-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" vertex="1" parent="1">
             <mxGeometry x="2880" y="-950" width="200" height="533" as="geometry" />
           </mxCell>
@@ -2597,6 +2573,9 @@
         </UserObject>
         <mxCell id="SrjgeahHb1IVhvOO6RVg-1" value="&quot;The result of a fault.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2570" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktyyu9Xwhli0SwLEBbil-1" value="Filled details can be wrong!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="-870" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T09:47:03.234Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="gDtCxxCR-xTZe5kWhFhC" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T09:49:55.140Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="p1lBJga_gBU_RGsR1gch" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1805,6 +1805,18 @@
         </mxCell>
         <mxCell id="bBhWl6vWUs5LduEA7k2q-1" value="coherent_description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOvoBhlHUPgzSDo4NLpM-2" value="&quot;Primary data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4655.13" y="-710.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOvoBhlHUPgzSDo4NLpM-3" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhnjOR5AC59zmjkfGHs0-26" target="FOvoBhlHUPgzSDo4NLpM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOvoBhlHUPgzSDo4NLpM-4" value="&quot;Raw data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4110" y="-710.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOvoBhlHUPgzSDo4NLpM-5" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhnjOR5AC59zmjkfGHs0-15" target="FOvoBhlHUPgzSDo4NLpM-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

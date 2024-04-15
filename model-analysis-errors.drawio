@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T13:20:32.046Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="_DfVSjInX6qcegQFe_Dx" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T13:29:06.317Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="mmehtpNdM9eXSoYgUSK_" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
-    <mxGraphModel dx="7940" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7736" dy="2421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-263" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-5655.5" y="-575" width="525" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MNmlVbueIH7K6Sq7IVZK-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mfvt5SFf4x34KGhcreXI-260" target="mfvt5SFf4x34KGhcreXI-259">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-260" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-4780.25" y="-1100.06" width="939" height="340" as="geometry" />
@@ -816,9 +819,6 @@
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-257" value="&quot;Code is correct if transformations that follow from description and code are compatible with respect to the description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1247.5" y="661" width="180" height="89.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-261" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-259" target="mfvt5SFf4x34KGhcreXI-260" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-259" value="&quot;The data shared by authors is not necessarily the same which was used to obtain the result (e.g. authors might only share a preprocessed version).&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3671.25" y="-980.06" width="200" height="100" as="geometry" />

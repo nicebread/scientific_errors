@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T22:40:44.873Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="u4wxeZT1rYWabcMA6NK1" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T22:54:39.307Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="la2nnoQC2fMwq13n5TkE" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7940" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1702,8 +1702,8 @@
         <mxCell id="WnuP-C071pw-Gry_amuv-4" value="preregistration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5" y="-854.5" width="90" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="YIb1i4afOLKp0flU0VRA-1" value="&quot;All analytical choices that are not prescribed by the description (and therefore assumed to be irrelevant for the conclusion) pose forking paths that need to be chosen to be able to perform a transformation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3270" y="-1260" width="180" height="122" as="geometry" />
+        <mxCell id="YIb1i4afOLKp0flU0VRA-1" value="&quot;All analytical choices between forking paths that are not prescribed by the description (and therefore assumed to be irrelevant for the conclusion).&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-3270" y="-1230" width="180" height="92" as="geometry" />
         </mxCell>
         <mxCell id="YIb1i4afOLKp0flU0VRA-4" value="&quot;Filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3073.37" y="-1070" width="120" height="60" as="geometry" />

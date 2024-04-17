@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T22:24:57.591Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="J8jZam_8rmoW7VGuxqsZ" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T22:29:12.095Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="m7jn2GvTnRDbQPcJXQ0i" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
-    <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="8900" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1444,8 +1444,8 @@
         <mxCell id="MhnjOR5AC59zmjkfGHs0-110" value="&quot;particular filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-4286.25" y="3365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MhnjOR5AC59zmjkfGHs0-113" value="&quot;A description (or multiple descriptions together) may be used&amp;nbsp;to predict a transformation of data that has already been performed. (Everything that is not specified by the description but necessary for the transformation to be performed has to be&lt;br&gt; assumed with sensible settings as filled details. As a consequence, the prediction will get worse if there are many necessary filled details that influence the transformation.)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2604.24" y="-510" width="294.24" height="135" as="geometry" />
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-113" value="&quot;A description (or multiple descriptions together, including the source code) may be used&amp;nbsp;to predict a transformation of data that has already been performed. (Everything that is not specified by the description but necessary for the transformation to be performed has to be&lt;br&gt; assumed with sensible settings as filled details. As a consequence, the prediction will get worse if there are many necessary filled details that influence the transformation.)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2604.24" y="-510" width="294.24" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MhnjOR5AC59zmjkfGHs0-115" value="&quot;Intent&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3507" y="-15.629999999999995" width="120" height="60" as="geometry" />
@@ -1465,8 +1465,8 @@
         <mxCell id="MhnjOR5AC59zmjkfGHs0-122" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-3410.0200000000004" y="-870" width="300.02" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MhnjOR5AC59zmjkfGHs0-126" value="&quot;A description (or multiple descriptions together) may be used to perform a data-analytic transformation on a set of data where the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3380.02" y="-610" width="240.02" height="140" as="geometry" />
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-126" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the data-analytic method description) may be used to perform a data-analytic transformation on a set of data where the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-3390.02" y="-610" width="260.02" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MhnjOR5AC59zmjkfGHs0-129" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3400" y="-789" width="120" height="60" as="geometry" />

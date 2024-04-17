@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T22:10:09.973Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="rnlRclfUYtMLovd4kMv8" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T22:24:57.591Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="J8jZam_8rmoW7VGuxqsZ" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
-    <mxGraphModel dx="7940" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,7 +724,7 @@
         <mxCell id="mfvt5SFf4x34KGhcreXI-162" value="da_method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2874.12" y="-15.629999999999882" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-163" value="&quot;A high-level description of a data-analytic transformation in the method section of a paper.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mfvt5SFf4x34KGhcreXI-163" value="&quot;A high-level description of a data-analytic transformation of a paper (e.g., in the methods section).&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2904.12" y="114.49000000000012" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-165" value="&quot;A (latent) idea about how to analyse a particular dataset for a given research question, potentially obtained by personal communication.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1453,7 +1453,7 @@
         <mxCell id="MhnjOR5AC59zmjkfGHs0-117" value="&quot;Preregistration&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3141.75" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MhnjOR5AC59zmjkfGHs0-119" value="&quot;Data-analytical method&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-119" value="&quot;Data-analytical method description&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2874" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MhnjOR5AC59zmjkfGHs0-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MhnjOR5AC59zmjkfGHs0-121" target="MhnjOR5AC59zmjkfGHs0-135" edge="1">
@@ -1678,13 +1678,13 @@
         <mxCell id="mF6sTC7TUq5xVNGz3lKB-1" value="AND" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2840" y="1919" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZoCv7Ro_4dQpILHq-7rR-2" value="&quot;The intent drives all further descriptions of the data-analytic transformation, such as the preregistration, the method description and any auxiliary assets. The preregistration informs the method description and auxiliary assets (but of course is not supposed to be informed the other way round). The method description may both be a description of the planned data-analytic transformation (which was conducted accordingly) or a hindsight description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZoCv7Ro_4dQpILHq-7rR-2" value="&quot;The intent drives all further descriptions of the data-analytic transformation, such as the preregistration, the data-analytic method description and any auxiliary assets. The preregistration informs the method description and auxiliary assets (but of course is not supposed to be informed the other way round). The method description may both be a description of the planned data-analytic transformation (which was conducted accordingly) or a hindsight description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2815" y="900" width="340" height="122" as="geometry" />
         </mxCell>
         <mxCell id="ZoCv7Ro_4dQpILHq-7rR-5" value="Relationships between descriptions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="-3290.13" y="382" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZoCv7Ro_4dQpILHq-7rR-7" value="&quot;The data-analytic method section in an article, auxiliary assets created during the data analysis (such as the source code), the preregistration (if available), and the (latent) intent of a researcher can all be treated as a description of a data-analytic transformation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZoCv7Ro_4dQpILHq-7rR-7" value="&quot;The data-analytic method description in an article, auxiliary assets created during the data analysis (such as the source code), the preregistration (if available), and the (latent) intent of a researcher can all be treated as a description of a data-analytic transformation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2480" y="-99.99" width="290" height="109.99" as="geometry" />
         </mxCell>
         <mxCell id="WnuP-C071pw-Gry_amuv-1" value="&quot;hardware and software environment, for example versions and parameters of utilised software and hardware architecture&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1693,7 +1693,7 @@
         <mxCell id="JIwvwr1RMZIZRO9zwKFo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnuP-C071pw-Gry_amuv-3" target="MhnjOR5AC59zmjkfGHs0-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WnuP-C071pw-Gry_amuv-3" value="da_methods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WnuP-C071pw-Gry_amuv-3" value="da_method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5" y="-812.44" width="80" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JIwvwr1RMZIZRO9zwKFo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnuP-C071pw-Gry_amuv-4" target="MhnjOR5AC59zmjkfGHs0-140" edge="1">
@@ -1731,7 +1731,7 @@
         <mxCell id="bBhWl6vWUs5LduEA7k2q-3" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o6PG6CRAIK9vu5B2KMWM-1" target="bBhWl6vWUs5LduEA7k2q-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o6PG6CRAIK9vu5B2KMWM-1" value="da_methods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="o6PG6CRAIK9vu5B2KMWM-1" value="da_method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15" y="140" width="80" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JIwvwr1RMZIZRO9zwKFo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o6PG6CRAIK9vu5B2KMWM-2" target="MhnjOR5AC59zmjkfGHs0-170" edge="1">

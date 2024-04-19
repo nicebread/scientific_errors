@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T07:47:09.984Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="QhIg5_aKxCH-suOntcJg" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-19T17:12:55.478Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="2cWDAbsUqBTOOLQZHCem" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
-    <mxGraphModel dx="7940" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1819,13 +1819,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="Article">
-    <mxGraphModel dx="-243" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-455" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-22">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-990" width="830" height="610" as="geometry" />
+            <mxGeometry x="2320" y="-990" width="950" height="610" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="da_transformation1" tags="03-original_author 04-repeater 07-incorrect" id="yrJLzXoseopjtiNfFKk5-10">
@@ -2363,7 +2363,7 @@
         </mxCell>
         <UserObject label="&quot;The transformation may not follow from the description(s) by (correct) reasoning, either because the description(s) are incoherent or incompatible, or because the reasoning logic is flawed.&quot;" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-23">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3220" y="-740" width="210" height="110" as="geometry" />
+            <mxGeometry x="3350" y="-740" width="210" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;An article comprises descriptions of data-analytic transformations, data and a result. Other parts, such as research questions, &lt;br&gt;hypotheses, theories, description of data collection, or interpretation &lt;br&gt;of results, are currently ignored.&quot;" tags="01-original_article" id="owC4xl7506kZshst-ZgV-1">

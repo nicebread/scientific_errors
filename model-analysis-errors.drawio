@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T17:12:55.478Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="2cWDAbsUqBTOOLQZHCem" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-22T17:22:30.397Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="pl5CRGOK2Z0O6YMv5XeK" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-139" value="Data-analytic transformation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="-1884.5" y="-1250.06" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN0c7sCui0MEg__w1s-X-140" value="&quot;A process during which data is transformed into a result, optionally in a specific computational environment and/or using code. For example if the mean of a variable is calculated using a hand calculator.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CN0c7sCui0MEg__w1s-X-140" value="&quot;A process during which data is transformed into a result, optionally in a specific computational environment and/or using code. &quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1905" y="-815" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cCpTQMi2O1VusYKRESy9-59" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CN0c7sCui0MEg__w1s-X-141" target="CN0c7sCui0MEg__w1s-X-140" edge="1">
@@ -644,8 +644,8 @@
         <mxCell id="mfvt5SFf4x34KGhcreXI-120" value="auxiliary_asset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5440.5" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-122" value="&quot;Material created as a byproduct during the data analysis, describing the data-analytic transformation. For example, a piece of paper with notes.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5549.37" y="-1130" width="149.74" height="110" as="geometry" />
+        <mxCell id="mfvt5SFf4x34KGhcreXI-122" value="&quot;An auxiliary asset is material created as a byproduct during the data analysis, describing the data-analytic transformation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5549.37" y="-1120" width="149.74" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-132" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-129" target="mfvt5SFf4x34KGhcreXI-131" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T12:21:56.897Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="KJ2d6TJZSPsR6H6vdY2Y" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-24T13:24:16.563Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="bwXvck6cAhfdZFH5B2Y2" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -357,8 +357,8 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-221" value="AND" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2490.5" y="-854" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-1" value="&quot;a low-level description of a data-analytic transformation that can be executed by a computer&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5579.5" y="-427.5" width="170" height="85" as="geometry" />
+        <mxCell id="npsLAXFu691l5lNTcMtJ-1" value="&quot;A low-level description of a data-analytic transformation that can be executed by a computer and that has been written (implemented) by the researcher.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5579.5" y="-427.5" width="170" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-36" value="&quot;Code is correct with respect to a description if it follows by correct reasoning from it. It is often as specific or more specific than the description from which it follows, thus reducing the required amount of filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2010" y="740" width="210" height="110" as="geometry" />

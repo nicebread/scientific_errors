@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T13:24:16.563Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="bwXvck6cAhfdZFH5B2Y2" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-24T13:25:25.835Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Hkfhb4zHULpU07RvXoFl" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1687,7 +1687,7 @@
         <mxCell id="ZoCv7Ro_4dQpILHq-7rR-7" value="&quot;The data-analytic method description in an article, auxiliary assets created during the data analysis (such as the source code), the preregistration (if available), and the (latent) intent of a researcher can all be treated as a description of a data-analytic transformation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2480" y="-99.99" width="290" height="109.99" as="geometry" />
         </mxCell>
-        <mxCell id="WnuP-C071pw-Gry_amuv-1" value="&quot;The hardware and software setup in which source code is executed, for example versions and parameters of utilised software, states of random number generators and the architecture of hardware. Often involves filled details such as defaults.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WnuP-C071pw-Gry_amuv-1" value="&quot;The hardware and software setup in which source code is executed, for example versions and parameters of utilised software (dependencies), states of random number generators and the architecture of hardware. Often involves filled details such as defaults.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-1180" width="178" height="139.88" as="geometry" />
         </mxCell>
         <mxCell id="JIwvwr1RMZIZRO9zwKFo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnuP-C071pw-Gry_amuv-3" target="MhnjOR5AC59zmjkfGHs0-140" edge="1">

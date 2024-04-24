@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T13:25:25.835Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Hkfhb4zHULpU07RvXoFl" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-24T13:27:07.800Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="qMGk1tcYulnnbsbH_OW_" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -730,8 +730,8 @@
         <mxCell id="mfvt5SFf4x34KGhcreXI-165" value="&quot;A (latent) idea about how to analyse a particular dataset for a given research question, potentially obtained by personal communication.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3353.75" y="122.37000000000012" width="165" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="mfvt5SFf4x34KGhcreXI-166" value="&quot;The preregistered description of the data-analysis&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3141.75" y="127.37000000000012" width="120" height="60" as="geometry" />
+        <mxCell id="mfvt5SFf4x34KGhcreXI-166" value="&quot;The preregistered description of the data-analytic transformation&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-3141.75" y="127.37" width="120" height="72.63" as="geometry" />
         </mxCell>
         <mxCell id="mfvt5SFf4x34KGhcreXI-176" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mfvt5SFf4x34KGhcreXI-174" target="mfvt5SFf4x34KGhcreXI-175" edge="1">
           <mxGeometry relative="1" as="geometry" />

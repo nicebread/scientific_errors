@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:09:44.899Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="95QT2SSr-6GNI8DAd-NI" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:21:55.266Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="B55_yI6-u62o5kFg02Ya" version="24.3.0" type="github" pages="3">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="8688" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1819,7 +1819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="toKlXgSBRFOgYpURWRct" name="Article-Landing">
-    <mxGraphModel dx="265" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-455" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1866,11 +1866,16 @@
             <mxGeometry x="3630" y="-830" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_article&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-annotations&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-repeater&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-executor&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementor&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-incorrect&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-correct&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="x5yEm_BSNFMt_wAQmNL--1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="3630" y="-190" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="Article">
-    <mxGraphModel dx="518" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="800" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2583,6 +2588,11 @@
         <UserObject label="" tags="disable-01 disable-02 disable-03 disable-04 disable-05 disable-06 disable-07" id="QUoOZGlp5lnhboiUv0TK-16">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" vertex="1" parent="1">
             <mxGeometry x="3620" y="-840" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_article&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-annotations&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-repeater&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-executor&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementor&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-incorrect&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-correct&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="svjLb76wFN5MYeLJTsbR-1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="3630" y="-190" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

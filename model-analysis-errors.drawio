@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T07:16:15.710Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="JMKlsoWJLEeeIPSqWG4Y" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T09:03:48.105Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="UrXhiNU0LQxy0ZAjt3-R" version="24.3.0" type="github" pages="2">
   <diagram name="Page-1" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="7728" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1819,10 +1819,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="Article">
-    <mxGraphModel dx="-455" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-664" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+            <mxGeometry x="2490" y="-970" width="780" height="570" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-22">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
             <mxGeometry x="2320" y="-990" width="950" height="610" as="geometry" />
@@ -1849,11 +1854,6 @@
         <UserObject label="" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
             <mxGeometry x="2900" y="-930" width="350" height="180" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-            <mxGeometry x="2490" y="-970" width="780" height="570" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="0fMEboVt1tomcqNoBkXh-5" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pb_pmZ8bssueoNHnppx8-21" target="0fMEboVt1tomcqNoBkXh-4" edge="1">
@@ -2184,7 +2184,7 @@
             <mxGeometry x="2490" y="-600" width="160" height="250" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="01-original_article 08-correct 07-incorrect" id="yrJLzXoseopjtiNfFKk5-35">
+        <UserObject label="" tags="08-correct 07-incorrect 02-annotations 03-original_author 04-repeater" id="yrJLzXoseopjtiNfFKk5-35">
           <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="2510" y="-567" width="120" height="60" as="geometry" />
           </mxCell>

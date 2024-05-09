@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T09:50:32.813Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="4D7tyqK5_MKsPNWjyTuT" version="24.3.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-05-09T11:01:30.226Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Nhe2aURwjAX-I001qLRz" version="24.3.1" type="github" pages="17">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -690,7 +690,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X1yaROQ72RmCwlZJwBGQ" name="02-description-prediction">
-    <mxGraphModel dx="3772" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2812" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -709,8 +709,8 @@
         <mxCell id="Ui3tE-jd9NSbbM8nK2up-5" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ui3tE-jd9NSbbM8nK2up-6" target="Ui3tE-jd9NSbbM8nK2up-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ui3tE-jd9NSbbM8nK2up-6" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1770" y="-394" width="120" height="60" as="geometry" />
+        <mxCell id="Ui3tE-jd9NSbbM8nK2up-6" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" parent="1" vertex="1">
+          <mxGeometry x="-1800" y="-440" width="180" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Ui3tE-jd9NSbbM8nK2up-7" value="p" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ui3tE-jd9NSbbM8nK2up-8" target="Ui3tE-jd9NSbbM8nK2up-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -736,7 +736,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ui3tE-jd9NSbbM8nK2up-13" value="&quot;Data-analytic transformation&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2150" y="-394" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2150" y="-417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ui3tE-jd9NSbbM8nK2up-14" value="&quot;A description (or multiple descriptions together, including the source code) may be used&amp;nbsp;to predict a transformation of data that has already been performed. (Everything that is not specified by the description but necessary for the transformation to be performed has to be&lt;br&gt; assumed with sensible settings as filled details. As a consequence, the prediction will get worse if there are many necessary filled details that influence the transformation.)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1863.7399999999998" y="-260" width="294.24" height="150" as="geometry" />
@@ -744,11 +744,14 @@
         <mxCell id="Ui3tE-jd9NSbbM8nK2up-15" value="Note: A description has the indicative function of describing a data-analytic transformation that has been previously performed. It can be used to verify the correctness of that transformation." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-1933.37" y="-740" width="230.5" height="79.94" as="geometry" />
         </mxCell>
+        <mxCell id="FOtKUN-rRkpDgEmtN4yq-1" value="result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1774.75" y="-410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="o5dqXMAJGD1AqmbXPInq" name="03-description-types">
-    <mxGraphModel dx="3772" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3052" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2004,7 +2007,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="article">
-    <mxGraphModel dx="265" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-695" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

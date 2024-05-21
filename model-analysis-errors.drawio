@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T17:16:57.612Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Xtzx5Eh1SvMiTVgWaa07" version="24.4.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-05-21T17:18:20.649Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="v3BLNHyUfjYHkwdessf7" version="24.4.4" type="github" pages="17">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1780,71 +1780,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ArtzJrD6eYKek1qWBeOA" name="14-analysis-correct">
-    <mxGraphModel dx="1434" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-1" value="Correct data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="475.00000000000006" y="-530" width="380" height="60" as="geometry" />
+          <mxGeometry x="415.00000000000006" y="-770" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-2" value="&quot;A data analysis is correct if (1) all descriptions in the scope are coherent and compatible with each other, (2) the transformation follows by correct reasoning from them, (3) the transformation uses the primary data, and (4) the filled details are valid.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="403" y="-390" width="245.25" height="100" as="geometry" />
+          <mxGeometry x="343" y="-630" width="245.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-3" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-10" target="IOFqWRf_oZgu_N7uAUCT-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="657.8749999999982" y="-205" as="sourcePoint" />
+            <mxPoint x="597.8749999999982" y="-445" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-4" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-10" target="IOFqWRf_oZgu_N7uAUCT-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="880" y="260" />
-              <mxPoint x="880" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-5" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-10" target="IOFqWRf_oZgu_N7uAUCT-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="395" y="230" />
-              <mxPoint x="395" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-6" value="(Range of) correct results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="415.00000000000006" y="281.13" width="450" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-7" value="&quot;a result of a data analysis is correct if the data analysis is correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-8" value="&quot;The range of correct results follows from [all possible coherent descriptions that can be (correctly) created from an article and] all data-analytic transformations that are sensible given one coherent description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="388.38" width="210" height="111.62" as="geometry" />
-        </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-9" value="Note: Maybe there should be no correct result defined in the case of an incoherent description." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="310" y="517.88" width="144.24" height="72.12" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-10" value="data_analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=right;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-187.5" width="733" height="360" as="geometry" />
+          <mxGeometry x="100" y="-427.5" width="733" height="360" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-11" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" parent="1" vertex="1">
-          <mxGeometry x="703" y="-117.5" width="160" height="277" as="geometry" />
+          <mxGeometry x="643" y="-357.5" width="160" height="277" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-12" value="executed_code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="725.3699999999999" y="-67.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="665.3699999999999" y="-307.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-14" target="IOFqWRf_oZgu_N7uAUCT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-14" value="auxiliary_asset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="541" y="39.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="481" y="-200.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-15" value="result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="725.3699999999999" y="79.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="665.3699999999999" y="-160.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="725.38" y="4.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="665.38" y="-235.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-17" value="primary_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="IOFqWRf_oZgu_N7uAUCT-16" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -1862,21 +1832,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-21" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540.49" y="-177.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="480.49" y="-417.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-22" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-25" target="IOFqWRf_oZgu_N7uAUCT-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="672" y="-48.5" />
-              <mxPoint x="672" y="-80.5" />
+              <mxPoint x="612" y="-288.5" />
+              <mxPoint x="612" y="-320.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-23" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-25" target="IOFqWRf_oZgu_N7uAUCT-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="673" y="-48.5" />
-              <mxPoint x="673" y="-20.5" />
+              <mxPoint x="613" y="-288.5" />
+              <mxPoint x="613" y="-260.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1884,21 +1854,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-25" value="AND" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560.49" y="-88" width="80" height="80" as="geometry" />
+          <mxGeometry x="500.49" y="-328" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QcOnAhisXyXvnHfV9QOc-3" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IOFqWRf_oZgu_N7uAUCT-26" target="QcOnAhisXyXvnHfV9QOc-2">
+        <mxCell id="QcOnAhisXyXvnHfV9QOc-3" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-26" target="QcOnAhisXyXvnHfV9QOc-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QcOnAhisXyXvnHfV9QOc-4" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOFqWRf_oZgu_N7uAUCT-26" target="QcOnAhisXyXvnHfV9QOc-1">
+        <mxCell id="QcOnAhisXyXvnHfV9QOc-4" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-26" target="QcOnAhisXyXvnHfV9QOc-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="-140" />
-              <mxPoint x="250" y="-140" />
+              <mxPoint x="350" y="-380" />
+              <mxPoint x="190" y="-380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-26" value="description_scope" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-126" width="120" height="156" as="geometry" />
+          <mxGeometry x="320" y="-366" width="120" height="156" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-27" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-29" target="IOFqWRf_oZgu_N7uAUCT-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1908,14 +1878,14 @@
         </mxCell>
         <UserObject label="valid_filled_details" tags="" id="IOFqWRf_oZgu_N7uAUCT-29">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="740.75" y="-267.32" width="140" height="60" as="geometry" />
+            <mxGeometry x="680.75" y="-507.32" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-30" value="&quot;Filled details are valid if they follow commonly accepted standards in the field, e.g. the &#39;best&#39; optimizer.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="745.25" y="-400" width="131" height="78" as="geometry" />
+          <mxGeometry x="685.25" y="-640" width="131" height="78" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-31" value="&quot;Valid filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="965.75" y="-267.32" width="120" height="60" as="geometry" />
+          <mxGeometry x="905.75" y="-507.32" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-34" target="IOFqWRf_oZgu_N7uAUCT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1924,7 +1894,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-34" value="da_method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="-10" width="80" height="28" as="geometry" />
+          <mxGeometry x="345" y="-250" width="80" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-38" target="IOFqWRf_oZgu_N7uAUCT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1936,16 +1906,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-38" value="preregistration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="395" y="-100" width="90" height="28" as="geometry" />
+          <mxGeometry x="335" y="-340" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-39" value="coherent_description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-78" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="-318" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QcOnAhisXyXvnHfV9QOc-1" value="&quot;The descriptions which serve as specification for the data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="-322" width="150" height="90" as="geometry" />
+        <mxCell id="QcOnAhisXyXvnHfV9QOc-1" value="&quot;The descriptions which serve as specification for the data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="-562" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QcOnAhisXyXvnHfV9QOc-2" value="&quot;Description scope&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-267.32" width="120" height="60" as="geometry" />
+        <mxCell id="QcOnAhisXyXvnHfV9QOc-2" value="&quot;Description scope&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-507.32" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

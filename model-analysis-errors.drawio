@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T08:38:21.501Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="eRdiDrtTaCKra3G-hdz7" version="24.4.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-22T11:15:20.897Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Kla2wZb8Kz24IVKZZj24" version="24.4.4" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1976,42 +1976,42 @@
         </UserObject>
         <UserObject label="" tags="disable-02 disable-03 disable-04 disable-08 disable-07 disable-06 disable-05" id="QUoOZGlp5lnhboiUv0TK-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1190" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-1184" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-03 disable-04 disable-05 disable-06 disable-07 disable-08" id="QUoOZGlp5lnhboiUv0TK-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1140" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-1134" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-04 disable-05 disable-06 disable-07 disable-08 disable-02" id="QUoOZGlp5lnhboiUv0TK-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1090" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-1084" width="160" height="49" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-05 disable-06 disable-07 disable-08 disable-02 disable-03" id="QUoOZGlp5lnhboiUv0TK-12">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1040" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-1034" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-06 disable-07 disable-08 disable-02 disable-03" id="QUoOZGlp5lnhboiUv0TK-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-990" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-984" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-07 disable-08 disable-02 disable-03 disable-05" id="QUoOZGlp5lnhboiUv0TK-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-940" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-934" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-08 disable-02 disable-03 disable-04 disable-05 disable-06" id="QUoOZGlp5lnhboiUv0TK-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-890" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-884" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="disable-01 disable-02 disable-03 disable-04 disable-05 disable-06 disable-07" id="QUoOZGlp5lnhboiUv0TK-16">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-840" width="160" height="60" as="geometry" />
+            <mxGeometry x="3620" y="-834" width="160" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_article&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-annotations&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-repeater&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-executor&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementor&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-incorrect&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-correct&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="svjLb76wFN5MYeLJTsbR-1">
@@ -2146,11 +2146,6 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="The utilised data may differ from the primary data, for example, if by accident data from a different survey are used." tags="02-annotations" id="yrJLzXoseopjtiNfFKk5-21">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-            <mxGeometry x="2496.81" y="-670" width="153.19" height="83" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Note: The reported data may differ from the utilised data because the reported data may already be preprocessed." tags="02-annotations" id="yrJLzXoseopjtiNfFKk5-22">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
             <mxGeometry x="2895.63" y="-741.5" width="160" height="85" as="geometry" />
@@ -2269,7 +2264,7 @@
             <mxGeometry x="2490" y="-600" width="160" height="250" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="08-correct 07-incorrect 02-annotations 03-original_author 04-repeater" id="yrJLzXoseopjtiNfFKk5-35">
+        <UserObject label="" tags="08-correct 07-incorrect 03-original_author 04-repeater" id="yrJLzXoseopjtiNfFKk5-35">
           <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="2510" y="-567" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2457,7 +2452,7 @@
             <mxGeometry x="3350" y="-740" width="210" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;An article makes one or multiple claims. For each claim, an article comprises descriptions (of data-analytic transformations), data and results. Other parts, such as research questions, hypotheses, theories, a description of the data collection, or interpretation of results, are currently ignored.&quot;" tags="01-original_article" id="owC4xl7506kZshst-ZgV-1">
+        <UserObject label="&quot;An article makes one or multiple claims. For each claim, an article comprises descriptions (of data-analytic transformations), data and results. Other parts, such as research questions, hypotheses, theories, or a description of the data collection are currently ignored.&quot;" tags="01-original_article" id="owC4xl7506kZshst-ZgV-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3010" y="-1170" width="254" height="120" as="geometry" />
           </mxCell>

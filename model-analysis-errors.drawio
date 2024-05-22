@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T21:23:49.373Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="3e2WhU1VtoFbzc6c0Sw-" version="24.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-22T21:27:09.911Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="73W2HfjN02Ar8nAX0FME" version="24.4.6" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1670,7 +1670,7 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-23" value="&quot;Reported results&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-24" value="&quot;The output of a data-analytic transformation (and, by extension, of a data analysis) backing a particular claim. Can be a singular number, a table, a figure, or a set of such elements.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-24" value="&quot;The output of a data-analytic transformation (and, by extension, of a data analysis) backing a particular claim. Can be a singular number, a table, a figure, or a collection of such elements.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5" y="1260" width="160" height="110" as="geometry" />
         </mxCell>
       </root>

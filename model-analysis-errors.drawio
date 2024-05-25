@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T21:56:42.746Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="QZu2SQ4ZpENbmnmlP87E" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T22:00:01.804Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="6G_LxwSJVf555UkCOLC0" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -867,8 +867,8 @@
         <mxCell id="BYGuv7p13rqGANM1tFdr-18" value="&quot;Code pertaining to a claim in a particular article, made available by its authors.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-4950.5" y="-940" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BYGuv7p13rqGANM1tFdr-19" value="&quot;Code created and run during a data-analytic transformation pertaining to a claim in an original article and thus responsible for part of the results reported in the article.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5780" y="-940" width="170" height="90" as="geometry" />
+        <mxCell id="BYGuv7p13rqGANM1tFdr-19" value="&quot;Code created and run during a data-analytic transformation pertaining to a claim in an original article and thus supposedly responsible for part of the results reported in the article.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5790" y="-950" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BYGuv7p13rqGANM1tFdr-20" value="&quot;A low-level description of a data-analytic transformation pertaining to a claim that can be executed by a computer and that has been written (implemented) by the researcher as part of an original study or a repeating activity.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5480" y="-797.5" width="200.5" height="107.5" as="geometry" />

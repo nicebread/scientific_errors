@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T21:27:09.911Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="73W2HfjN02Ar8nAX0FME" version="24.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T07:46:36.921Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="GNghGS_JPgZiPFkT8sY5" version="24.4.6" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1950,7 +1950,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="article">
-    <mxGraphModel dx="265" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-180" dy="2157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -2564,6 +2564,9 @@
             <mxGeometry x="2891.75" y="-944" width="158.25" height="354" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Zo9_b6cYARGSUm2aTXgj-1" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o_CjdL0zJoxdtRaZQlLs-9" target="o_CjdL0zJoxdtRaZQlLs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="" tags="05-re-executor" id="o_CjdL0zJoxdtRaZQlLs-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="2670" y="-674" width="375" height="80" as="geometry" />
@@ -2827,9 +2830,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="o_CjdL0zJoxdtRaZQlLs-11" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-28" target="o_CjdL0zJoxdtRaZQlLs-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="executed_code1" tags="03-original_author 04-repeater 07-incorrect" id="yrJLzXoseopjtiNfFKk5-28">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
             <mxGeometry x="2679.5" y="-660" width="120" height="60" as="geometry" />
@@ -2837,7 +2837,7 @@
         </UserObject>
         <UserObject label="&quot;The code reported by authors may differ from the one that was executed to obtain the result.&quot;" tags="05-re-executor" id="o_CjdL0zJoxdtRaZQlLs-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2500" y="-670" width="130" height="81" as="geometry" />
+            <mxGeometry x="2500" y="-674" width="130" height="81" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T14:05:44.189Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="gM_6SwpGP8xPy_TzCnyJ" version="24.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T14:31:53.688Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="xrvxGpPsKGQsopxB2GJs" version="24.4.6" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
         <mxCell id="L2vp-1R4RSKKNsWMtX0i-17" value="&quot;The (high-level) description of the data-analytic transformation within a manuscript relating to a claim.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1618.24" y="639.49" width="208.24" height="70.51" as="geometry" />
         </mxCell>
-        <mxCell id="L2vp-1R4RSKKNsWMtX0i-18" value="&quot;Clarification by the original authors about their intent on how to analyse a particular dataset for a given research question, potentially obtained by personal communication.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L2vp-1R4RSKKNsWMtX0i-18" value="&quot;Clarification by the original authors about their intent on how to analyse a particular dataset given a claim they made, potentially obtained by personal communication.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2053.75" y="647.37" width="165" height="102.63" as="geometry" />
         </mxCell>
         <mxCell id="L2vp-1R4RSKKNsWMtX0i-19" value="&quot;A description of the data-analytic transformation relating to a particular claim created before data collection.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

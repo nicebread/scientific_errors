@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T12:00:44.477Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="vO9Ahz4YZ0E42LSXu3Fo" version="24.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T14:05:44.189Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="gM_6SwpGP8xPy_TzCnyJ" version="24.4.6" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1865,7 +1865,7 @@
             <mxGeometry x="680.75" y="-507.32" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-30" value="&quot;Filled details are valid if they follow commonly accepted standards in the field, e.g. the &#39;best&#39; optimizer.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOFqWRf_oZgu_N7uAUCT-30" value="&quot;Filled details are valid if they follow commonly accepted standards in the field.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="685.25" y="-640" width="131" height="78" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-31" value="&quot;Valid filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

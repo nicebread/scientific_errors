@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T14:46:03.877Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="RST-HYLWZsyPcDgofXzT" version="24.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T14:48:25.869Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Z1DPxSVqzH0WRZWtjKuT" version="24.4.6" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -560,7 +560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NGQb6gnbNxsKxo_-r6o5" name="01-description-reasoning">
-    <mxGraphModel dx="5181" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,7 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-21" value="AND" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2947.57" y="-580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-22" value="Note: A description has the prescriptive function of describing how a data-analytic transformation should performed. It can be used to deduce one or multiple correct data-analytic transformations." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-22" value="Note: A description has the prescriptive function of describing how a data-analytic transformation should performed. It can be used to deduce one or multiple data-analytic transformations." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-2669.87" y="-441" width="236.63" height="89.94" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-23" value="&quot;All analytical choices between forking paths that are not prescribed by the description (and therefore assumed to be irrelevant for the results).&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T18:57:58.236Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="589mGTS8yQeHlK7yH3l0" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T21:56:42.746Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="QZu2SQ4ZpENbmnmlP87E" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -591,7 +591,7 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-9" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-3057.5800000000004" y="-450.00000000000006" width="300.02" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-10" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the data-analytic method description) may be used to perform a data-analytic transformation on a set of data where the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-10" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the data-analytic method description) may be used to guide a transformation of data such that the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3037.58" y="-190.00000000000003" width="260.02" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-11" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1702,16 +1702,16 @@
         <mxCell id="R3AX-YvabRUuvTWo1GcH-6" value="executed_code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="782.3699999999999" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kR4pfUYyGRcLeZe_ZhOU-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R3AX-YvabRUuvTWo1GcH-7" target="kR4pfUYyGRcLeZe_ZhOU-1">
+        <mxCell id="kR4pfUYyGRcLeZe_ZhOU-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-7" target="kR4pfUYyGRcLeZe_ZhOU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OU4skz2qp1r_51MBkIC4-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R3AX-YvabRUuvTWo1GcH-7" target="OU4skz2qp1r_51MBkIC4-1">
+        <mxCell id="OU4skz2qp1r_51MBkIC4-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-7" target="OU4skz2qp1r_51MBkIC4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-7" value="description_scope" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="400" y="-580.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="R3AX-YvabRUuvTWo1GcH-8" value="&quot;A process relating to a particular claim during which a data-analytic transformation on data follows by reasoning from all descriptions in the scope together and from filled details, potentially by creating auxiliary assets, especially code. By performing the transformation results are produced.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R3AX-YvabRUuvTWo1GcH-8" value="&quot;A process relating to a particular claim during which a data-analytic transformation on data is derived by reasoning from all descriptions in the scope together and from filled details, potentially by creating auxiliary assets, especially code. By performing the transformation results are produced.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="523" y="-240" width="274.51" height="110" as="geometry" />
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-10" target="R3AX-YvabRUuvTWo1GcH-20" edge="1">
@@ -1778,10 +1778,10 @@
         <mxCell id="R3AX-YvabRUuvTWo1GcH-25" value="preregistration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="-554.5" width="90" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="kR4pfUYyGRcLeZe_ZhOU-1" value="&quot;Description scope&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kR4pfUYyGRcLeZe_ZhOU-1" value="&quot;Description scope&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OU4skz2qp1r_51MBkIC4-1" value="&quot;The descriptions which serve as specification for the data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OU4skz2qp1r_51MBkIC4-1" value="&quot;The descriptions which serve as specification for the data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-650.5" width="150" height="90" as="geometry" />
         </mxCell>
       </root>

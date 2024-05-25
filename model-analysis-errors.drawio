@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T11:54:06.961Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ZQrrTbi1rRw_b_HmAsx9" version="24.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-25T12:00:44.477Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="vO9Ahz4YZ0E42LSXu3Fo" version="24.4.6" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -754,7 +754,7 @@
         <mxCell id="L2vp-1R4RSKKNsWMtX0i-16" value="da_method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1574.12" y="509.3700000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2vp-1R4RSKKNsWMtX0i-17" value="&quot;A high-level description (e.g., in the methods section) of the data-analytic transformation relating to a claim.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L2vp-1R4RSKKNsWMtX0i-17" value="&quot;The (high-level) description of the data-analytic transformation within a manuscript relating to a claim.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1618.24" y="639.49" width="208.24" height="70.51" as="geometry" />
         </mxCell>
         <mxCell id="L2vp-1R4RSKKNsWMtX0i-18" value="&quot;Clarification by the original authors about their intent on how to analyse a particular dataset for a given research question, potentially obtained by personal communication.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

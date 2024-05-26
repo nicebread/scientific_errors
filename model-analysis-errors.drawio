@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T10:48:37.557Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="S0ptCj3wqC1O6N-W0b7z" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-26T13:57:03.340Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="6t4eIs3fVI_ouWoIB3I1" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1795,7 +1795,7 @@
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-1" value="Correct data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="415.00000000000006" y="-770" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-2" value="&quot;A data analysis is correct if (1) all descriptions in the scope are coherent and compatible with each other, (2) the transformation follows by correct reasoning from them, (3) the transformation uses the primary data, and (4) the filled details are valid.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOFqWRf_oZgu_N7uAUCT-2" value="&quot;A data analysis is correct if (1) all descriptions in the scope are coherent and compatible with each other, (2) the transformation follows by correct reasoning from them, (3) the transformation uses the (intended) primary data, and (4) the filled details are valid.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="343" y="-630" width="245.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-3" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-10" target="IOFqWRf_oZgu_N7uAUCT-2" edge="1">

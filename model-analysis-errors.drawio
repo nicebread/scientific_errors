@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T15:35:08.524Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="IepJf8P0Il7O7c-8dUA2" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-26T23:10:45.193Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="7CnGOuOvSFbqhtousCW7" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1369,7 +1369,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-36" value="&quot;Collected materials which are transformed during a data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-36" value="&quot;Recordings which are transformed during a data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2809.75" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-37" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-5" target="5etu7LoMtXVBNzSus7yz-36" edge="1">

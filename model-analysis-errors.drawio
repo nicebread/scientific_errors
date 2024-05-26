@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T07:38:21.595Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Q7kBA9RmBN2Iba0mPbdr" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-26T08:06:26.121Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="wAOEEdPeOYNAFYplAcgn" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2864,7 +2864,7 @@
             <mxGeometry x="2500" y="-674" width="130" height="81" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying the correctness of a past data analysis. It entails checking (1) whether all descriptions in the scope are coherent and compatible with each other, (2) whether it’s plausible that the original transformation was derived from these descriptions and (3) that the transformation used the primary data, and (4) whether any known filled details are invalid. Finally, it attempts to create a compatible data-analytic transformation from the descriptions in the scope and compares the results.&quot;" tags="04-repeater" id="Kn93jugu7rp3fwJ-fj6_-3">
+        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying the correctness of a past data analysis&amp;nbsp; by means of doing another. It entails checking (1) whether all descriptions in the scope are coherent and compatible with each other, (2) whether it’s plausible that the original transformation was derived from these descriptions and (3) that the transformation used the primary data, and (4) whether any known filled details are invalid. Finally, it attempts to create a compatible data-analytic transformation from the descriptions in the scope and compares the results.&quot;" tags="04-repeater" id="Kn93jugu7rp3fwJ-fj6_-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2500.25" y="-1191.53" width="280" height="180" as="geometry" />
           </mxCell>

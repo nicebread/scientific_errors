@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T15:30:36.560Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zzGZZPp0w3hN7lWprXJ7" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-26T15:35:08.524Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="IepJf8P0Il7O7c-8dUA2" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1794,7 +1794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ArtzJrD6eYKek1qWBeOA" name="15-analysis-correct">
-    <mxGraphModel dx="1509" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1824,7 +1824,7 @@
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-14" value="auxiliary_asset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="-240.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-4EISJYmp-YUXxOfXbzQ-1" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOFqWRf_oZgu_N7uAUCT-15" target="nMpk_CWs-JdrlUWxck2T-1">
+        <mxCell id="-4EISJYmp-YUXxOfXbzQ-1" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-15" target="nMpk_CWs-JdrlUWxck2T-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-15" value="results" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1907,11 +1907,11 @@
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-39" value="coherent_description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="-358" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nMpk_CWs-JdrlUWxck2T-1" value="claim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nMpk_CWs-JdrlUWxck2T-1" value="claim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665.38" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YSThL_BIw7Pr7BYo09pL-2" value="Note: The claim need not be actually supported by the results for the data analysis to be correct, as that is a matter of choosing appropriate statistical methods. But a data analysis as defined here is specific to one claim (rather than multiple ones)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="850" y="-120" width="190" height="110" as="geometry" />
+        <mxCell id="YSThL_BIw7Pr7BYo09pL-2" value="Note: The claim need not be actually supported by the results for the data analysis to be correct, as that is a matter of choosing appropriate statistical methods. But a data analysis as defined here is specific to one claim (rather than multiple ones) to maintain consistency with instances where one article contains multiple claims that are each supported by an individual data analysis." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="850" y="-130" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

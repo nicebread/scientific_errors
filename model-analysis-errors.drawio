@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T23:10:45.193Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="7CnGOuOvSFbqhtousCW7" version="24.4.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-28T01:45:24.670Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="f5F9lOu2PE4oIMfvTkH6" version="24.4.8" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -785,7 +785,7 @@
         <mxCell id="L2vp-1R4RSKKNsWMtX0i-24" value="&quot;(Data-analytic) Method description&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1574" y="315" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2vp-1R4RSKKNsWMtX0i-25" value="&quot;Parts of a data-analytic method description in an article, the data-analytic preregistration (if available), and any clarifying descriptions can all be  treated as a description of a data-analytic transformation. Same for the auxiliary assets created during the data analysis such as the source code.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L2vp-1R4RSKKNsWMtX0i-25" value="&quot;Parts of a data-analytic method description in an article, the data-analytic preregistration (if available), and any clarifying descriptions can all be  treated as a description of a data-analytic transformation. The same is true for the auxiliary assets created during the data analysis such as the source code.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1810" y="30" width="290" height="109.99" as="geometry" />
         </mxCell>
       </root>

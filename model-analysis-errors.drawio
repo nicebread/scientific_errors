@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T18:15:45.338Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="czOTpFNFQkv8vhcih_P5" version="24.4.9" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-03T18:26:18.609Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Xyh2K5SAzKMAFaOs5_gO" version="24.4.9" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -591,7 +591,7 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-9" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-3057.5800000000004" y="-450.00000000000006" width="300.02" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-10" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the method description) may be used to guide a transformation of data such that the transformation follows from the description by reasoning. Any details that are necessary for the transformation, a potential computational environment, or code have to be decided on via filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-10" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the method description) may be used to guide a transformation of data such that the transformation follows from the description by reasoning. Any unspecified details that are necessary for the transformation, such as the specific computational environment or the source code (if not provided) have to be decided upon by the reproducer.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3037.58" y="-190.00000000000003" width="260.02" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-11" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

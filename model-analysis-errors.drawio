@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T15:14:46.020Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="jzHpI7A2SW_kF0FzKYdB" version="24.4.9" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-03T18:15:45.338Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="czOTpFNFQkv8vhcih_P5" version="24.4.9" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1481,7 +1481,7 @@
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-24" value="IS" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" parent="1" vertex="1">
           <mxGeometry x="-445.75" y="-639.94" width="100" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="f6yL-t6cbpQuHvvc1sfa-26" value="&quot;The hardware and software setup in which source code is executed, for example versions of utilised software (dependencies), invisible state (such as of random number generators or local settings) and the architecture of hardware. Often involves filled details such as defaults.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="f6yL-t6cbpQuHvvc1sfa-26" value="&quot;The hardware and software setup in which source code is executed, for example versions of utilised software (dependencies), invisible states (such as of random number generators or local settings) and the architecture of hardware. Often involves filled details such as defaults.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-727" y="-839.94" width="178" height="149.88" as="geometry" />
         </mxCell>
         <mxCell id="dKMplkSGK0-XcwE6hbrI-1" value="&quot;(Data-analytic) Transformation&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

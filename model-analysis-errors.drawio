@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T15:04:37.810Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="v2x0Yk49QO0lFyXPlknI" version="24.4.9" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-03T15:05:39.855Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="mXVJ1DHMR4EWBKH336pw" version="24.4.9" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1784,7 +1784,7 @@
         <mxCell id="kR4pfUYyGRcLeZe_ZhOU-1" value="&quot;Description scope&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OU4skz2qp1r_51MBkIC4-1" value="&quot;The descriptions which serve as specification for the data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OU4skz2qp1r_51MBkIC4-1" value="&quot;The set of descriptions which serves as specification for the data analysis.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-650.5" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="whMSei95bwjL4Dvrxneo-2" value="claim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T08:28:33.397Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Hl4p9ZVap5o_Su43t77h" version="24.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-12T09:00:06.090Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="TnC_T1XJ2sbybXG0Xkm8" version="24.5.3" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1680,7 +1680,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C81c2EdTdKwRwEhJnHTo" name="14-analysis">
-    <mxGraphModel dx="1434" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1755,8 +1755,8 @@
         <mxCell id="R3AX-YvabRUuvTWo1GcH-18" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-20" target="R3AX-YvabRUuvTWo1GcH-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="-521" />
-              <mxPoint x="730" y="-493" />
+              <mxPoint x="729" y="-520" />
+              <mxPoint x="729" y="-493" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1770,13 +1770,23 @@
           <mxGeometry x="190" y="-460.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-23" target="R3AX-YvabRUuvTWo1GcH-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="-498" />
+              <mxPoint x="564" y="-520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-23" value="da_method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="-512.44" width="80" height="28" as="geometry" />
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-25" target="R3AX-YvabRUuvTWo1GcH-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="-540" />
+              <mxPoint x="564" y="-520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-25" value="da_preregistration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="-554.5" width="100" height="28" as="geometry" />

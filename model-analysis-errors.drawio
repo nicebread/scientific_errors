@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T14:27:54.504Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="sABSRyIXI_2hgyYGd0BT" version="24.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-16T14:48:27.167Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="F3oRJxO7ALDOJda21qy3" version="24.5.4" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
         <mxCell id="FOtKUN-rRkpDgEmtN4yq-1" value="results" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1774.75" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tLW6Lj2YmN9as4ze1emZ-1" value="Note: Everything that is not specified by the description but necessary for the transformation to be performed has to be assumed with sensible settings as unspecified choice. As a consequence, the estimation will get worse if there are many necessary choices that influence the transformation." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="tLW6Lj2YmN9as4ze1emZ-1" value="Note: Everything that is not specified by the description but necessary for the transformation to be performed has to be assumed with sensible settings as unspecified choices. As a consequence, the estimation will get worse if there are many necessary choices that influence the transformation." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-1570" y="-240" width="260" height="110" as="geometry" />
         </mxCell>
       </root>

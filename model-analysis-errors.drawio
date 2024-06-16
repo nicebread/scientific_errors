@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T09:00:06.090Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="TnC_T1XJ2sbybXG0Xkm8" version="24.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-16T14:27:54.504Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="sABSRyIXI_2hgyYGd0BT" version="24.5.3" type="github" pages="18">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="4941" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="CN0c7sCui0MEg__w1s-X-172" value="Particular assets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="-2815.13" y="170" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="npsLAXFu691l5lNTcMtJ-36" value="&quot;Code is correct with respect to a description if it follows by correct reasoning from it. It is often as specific or more specific than the description from which it follows, thus reducing the required amount of filled details.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="npsLAXFu691l5lNTcMtJ-36" value="&quot;Code is correct with respect to a description if it follows by correct reasoning from it. It is often as specific or more specific than the description from which it follows, thus reducing the required amount of unspecified choices.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1588.5" y="680" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="npsLAXFu691l5lNTcMtJ-37" value="c1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -516,8 +516,8 @@
             <mxPoint x="-54" y="157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MhnjOR5AC59zmjkfGHs0-103" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2562.5" y="298" width="112.5" height="60" as="geometry" />
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-103" value="unspecified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2572.5" y="298" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MhnjOR5AC59zmjkfGHs0-104" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MhnjOR5AC59zmjkfGHs0-106" target="MhnjOR5AC59zmjkfGHs0-103" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -553,7 +553,7 @@
         <mxCell id="MhnjOR5AC59zmjkfGHs0-109" value="fd1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2660" y="465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MhnjOR5AC59zmjkfGHs0-110" value="&quot;particular filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MhnjOR5AC59zmjkfGHs0-110" value="&quot;particular unspecified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2566.25" y="635" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -571,7 +571,7 @@
           <mxGeometry x="-3077.56" y="-680" width="339.99" height="400" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-3" value="&quot;Description (of a data-analytic transformation)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3067.5699999999997" y="-794" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3047.5599999999995" y="-794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-4" value="&quot;Instructions on how to perform a data-analytic transformation, possibly detailing steps of calculation and intermediate results.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3260" y="-680" width="150" height="120" as="geometry" />
@@ -591,7 +591,7 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-9" value="da_transformation" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-3057.5800000000004" y="-450.00000000000006" width="300.02" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-10" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the method description) may be used to guide a transformation of data such that the transformation follows from the description by reasoning. Any unspecified details that are necessary for the transformation, such as the specific computational environment or the source code (if not provided) have to be decided upon by the reproducer.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-10" value="&quot;A description (or multiple descriptions together, in particular the preregistration and the method description) may be used to guide a transformation of data such that the transformation follows from the description by reasoning. If the description is underspecified the transformation is only completely determined by additional (unspecified) choices.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3037.58" y="-190.00000000000003" width="260.02" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-11" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -621,7 +621,7 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-18" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2pYcSrkZzibz6DTYDOcz-19" target="2pYcSrkZzibz6DTYDOcz-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-19" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-19" value="unspecified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2887.56" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2pYcSrkZzibz6DTYDOcz-20" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2pYcSrkZzibz6DTYDOcz-21" target="2pYcSrkZzibz6DTYDOcz-9" edge="1">
@@ -633,10 +633,10 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-22" value="Note: A description has the prescriptive function of describing how a data-analytic transformation should be performed. It can be used to deduce one or multiple data-analytic transformations." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-2669.87" y="-441" width="236.63" height="89.94" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-23" value="&quot;All analytical choices between forking paths that are not prescribed by the description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2917.56" y="-780" width="180" height="62" as="geometry" />
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-23" value="&quot;Data-analytic decisions that are not prescribed by the description, filling gaps due to underspecification.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2895.12" y="-800" width="135.12" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="2pYcSrkZzibz6DTYDOcz-24" value="&quot;Filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2pYcSrkZzibz6DTYDOcz-24" value="&quot;Unspecified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2720.93" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -694,7 +694,7 @@
         <mxCell id="FOtKUN-rRkpDgEmtN4yq-1" value="results" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1774.75" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tLW6Lj2YmN9as4ze1emZ-1" value="Note: Everything that is not specified by the description but necessary for the transformation to be performed has to be assumed with sensible settings as filled details. As a consequence, the estimation will get worse if there are many necessary filled details that influence the transformation." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="tLW6Lj2YmN9as4ze1emZ-1" value="Note: Everything that is not specified by the description but necessary for the transformation to be performed has to be assumed with sensible settings as unspecified choice. As a consequence, the estimation will get worse if there are many necessary choices that influence the transformation." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="-1570" y="-240" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
@@ -968,7 +968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aB7PHBv7s1FIYssDWIGk" name="05-description-relationships-general">
-    <mxGraphModel dx="3772" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3772" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -999,10 +999,10 @@
         <mxCell id="ZBEvyAr5KJnNiM8AtXbt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZBEvyAr5KJnNiM8AtXbt-27" target="ZBEvyAr5KJnNiM8AtXbt-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZBEvyAr5KJnNiM8AtXbt-27" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZBEvyAr5KJnNiM8AtXbt-27" value="unspecified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1777.5" y="420.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZBEvyAr5KJnNiM8AtXbt-30" value="&quot;One description (or multiple descriptions together) can follow from (&#39;is informed by&#39;) another description by reasoning, potentially by adding filled details. For example, the resulting description may be equally specific if it is a translation or more specific if it is source code. It can also be less specific, for example if it is derived from a very specific intent.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZBEvyAr5KJnNiM8AtXbt-30" value="&quot;One description (or multiple descriptions together) can follow from (&#39;is informed by&#39;) another description by reasoning, potentially by making choices not specified in the first description. For example, the resulting description may be equally specific if it is a translation or more specific if it is source code. It can also be less specific, for example if it is derived from a very specific intent.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1848.5" y="570" width="258.5" height="130" as="geometry" />
         </mxCell>
       </root>
@@ -1538,7 +1538,7 @@
         <mxCell id="rdkLCRfrGO0T2qsuPMMk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rdkLCRfrGO0T2qsuPMMk-11" target="rdkLCRfrGO0T2qsuPMMk-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdkLCRfrGO0T2qsuPMMk-11" value="filled_details2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rdkLCRfrGO0T2qsuPMMk-11" value="unspecified_choices2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2036" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdkLCRfrGO0T2qsuPMMk-12" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rdkLCRfrGO0T2qsuPMMk-13" target="rdkLCRfrGO0T2qsuPMMk-8" edge="1">
@@ -1556,7 +1556,7 @@
         <mxCell id="rdkLCRfrGO0T2qsuPMMk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rdkLCRfrGO0T2qsuPMMk-17" target="rdkLCRfrGO0T2qsuPMMk-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdkLCRfrGO0T2qsuPMMk-17" value="filled_details1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rdkLCRfrGO0T2qsuPMMk-17" value="unspecified_choices1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2036" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdkLCRfrGO0T2qsuPMMk-18" value="Compatibility of transformations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
@@ -1680,7 +1680,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C81c2EdTdKwRwEhJnHTo" name="14-analysis">
-    <mxGraphModel dx="1195" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1711,7 +1711,7 @@
         <mxCell id="R3AX-YvabRUuvTWo1GcH-7" value="description_scope" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="400" y="-580.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="R3AX-YvabRUuvTWo1GcH-8" value="&quot;A process during which a data-analytic transformation on data is derived by reasoning from all descriptions in the scope together with (ad-hoc) filled details, potentially by creating auxiliary assets, especially code. By performing the transformation results supporting a claim are produced.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R3AX-YvabRUuvTWo1GcH-8" value="&quot;A process during which a data-analytic transformation on data is derived by reasoning from all descriptions in the scope together with unspecified choices, potentially by creating auxiliary assets, especially code. By performing the transformation results supporting a claim are produced.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="523" y="-150" width="274.51" height="110" as="geometry" />
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-10" target="R3AX-YvabRUuvTWo1GcH-20" edge="1">
@@ -1741,7 +1741,7 @@
         <mxCell id="R3AX-YvabRUuvTWo1GcH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R3AX-YvabRUuvTWo1GcH-16" target="R3AX-YvabRUuvTWo1GcH-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R3AX-YvabRUuvTWo1GcH-16" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R3AX-YvabRUuvTWo1GcH-16" value="unspecified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="597.49" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R3AX-YvabRUuvTWo1GcH-17" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3AX-YvabRUuvTWo1GcH-20" target="R3AX-YvabRUuvTWo1GcH-5" edge="1">
@@ -1811,7 +1811,7 @@
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-1" value="Correct data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
           <mxGeometry x="415.00000000000006" y="-810" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-2" value="&quot;A data analysis is correct if (1) all descriptions in the scope are coherent and compatible with each other, (2) the transformation follows by correct reasoning from them, (3) the transformation uses the (intended) primary data, and (4) the filled details are valid.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOFqWRf_oZgu_N7uAUCT-2" value="&quot;A data analysis is correct if (1) all descriptions in the scope are coherent and compatible with each other, (2) the transformation follows by correct reasoning from them, (3) the transformation uses the (intended) primary data, and (4) all unspecified choices are valid.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="343" y="-670" width="245.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-3" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-10" target="IOFqWRf_oZgu_N7uAUCT-2" edge="1">
@@ -1858,7 +1858,7 @@
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-20" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-21" target="IOFqWRf_oZgu_N7uAUCT-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-21" value="filled_details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOFqWRf_oZgu_N7uAUCT-21" value="unspecified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480.49" y="-457.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-22" value="r 1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-25" target="IOFqWRf_oZgu_N7uAUCT-11" edge="1">
@@ -1882,15 +1882,15 @@
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-28" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-29" target="IOFqWRf_oZgu_N7uAUCT-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="valid_filled_details" tags="" id="IOFqWRf_oZgu_N7uAUCT-29">
+        <UserObject label="valid_unspecified_choices" tags="" id="IOFqWRf_oZgu_N7uAUCT-29">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="680.75" y="-547.3199999999999" width="140" height="60" as="geometry" />
+            <mxGeometry x="670" y="-547.32" width="161.5" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-30" value="&quot;Filled details are valid if they follow commonly accepted standards in the field.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685.25" y="-680" width="131" height="78" as="geometry" />
+        <mxCell id="IOFqWRf_oZgu_N7uAUCT-30" value="&quot;If there are commonly accepted standards in the field, unspecified choices are (only) valid if they follow them. Otherwise all reasonable approaches are valid.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="661.5" y="-700" width="178.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="IOFqWRf_oZgu_N7uAUCT-31" value="&quot;Valid filled details&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOFqWRf_oZgu_N7uAUCT-31" value="&quot;Valid unspecified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="905.75" y="-547.3199999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFqWRf_oZgu_N7uAUCT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IOFqWRf_oZgu_N7uAUCT-34" target="IOFqWRf_oZgu_N7uAUCT-25" edge="1">
@@ -2215,7 +2215,7 @@
         <mxCell id="0fMEboVt1tomcqNoBkXh-2" value="i &amp;lt; 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="yrJLzXoseopjtiNfFKk5-15" target="0fMEboVt1tomcqNoBkXh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="filled_details1" tags="03-original_author 07-incorrect" id="yrJLzXoseopjtiNfFKk5-15">
+        <UserObject label="unspecified_choices1" tags="07-incorrect" id="yrJLzXoseopjtiNfFKk5-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2350" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2305,7 +2305,7 @@
         <mxCell id="L-pPdsTP5N5naby_bBEN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-3" target="L-pPdsTP5N5naby_bBEN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="filled_details2" tags="05-re-executor" id="L-pPdsTP5N5naby_bBEN-3">
+        <UserObject label="unspecified_choices2" tags="05-re-executor" id="L-pPdsTP5N5naby_bBEN-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3410" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2321,7 +2321,7 @@
         <mxCell id="L-pPdsTP5N5naby_bBEN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-8" target="L-pPdsTP5N5naby_bBEN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="filled_details3" tags="06-re-implementor" id="L-pPdsTP5N5naby_bBEN-8">
+        <UserObject label="unspecified_choices3" tags="06-re-implementor" id="L-pPdsTP5N5naby_bBEN-8">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3400" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2391,9 +2391,9 @@
         <mxCell id="Pb_pmZ8bssueoNHnppx8-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-6" target="Pb_pmZ8bssueoNHnppx8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="all_valid_filled_details" tags="08-correct" id="Shf7TZzAt9hoyD3ce1p0-6">
+        <UserObject label="all_valid_unspecified_choices" tags="08-correct" id="Shf7TZzAt9hoyD3ce1p0-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2290" y="-713" width="140" height="60" as="geometry" />
+            <mxGeometry x="2270" y="-713" width="180" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Shf7TZzAt9hoyD3ce1p0-10" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-8" target="Shf7TZzAt9hoyD3ce1p0-3" edge="1">
@@ -2423,12 +2423,12 @@
             <mxGeometry x="2720" y="-440" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;All valid filled details.&quot;" tags="08-correct" id="Pb_pmZ8bssueoNHnppx8-1">
+        <UserObject label="&quot;All valid unspecified choices.&quot;" tags="08-correct" id="Pb_pmZ8bssueoNHnppx8-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2030" y="-710" width="140" height="54" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;All results for a particular claim that follow from the description, the primary data and all possible filled details.&quot;" tags="08-correct" id="Pb_pmZ8bssueoNHnppx8-5">
+        <UserObject label="&quot;All results for a particular claim that follow from the description, the primary data and all possible unspecified choices.&quot;" tags="08-correct" id="Pb_pmZ8bssueoNHnppx8-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2220" y="-445" width="180" height="90" as="geometry" />
           </mxCell>
@@ -2469,15 +2469,15 @@
             <mxGeometry x="2350" y="-690" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="valid_filled_details" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-1">
+        <UserObject label="valid_unspecified_choices" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2150" y="-820" width="140" height="60" as="geometry" />
+            <mxGeometry x="2140" y="-820" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="0fMEboVt1tomcqNoBkXh-7" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fMEboVt1tomcqNoBkXh-3" target="0fMEboVt1tomcqNoBkXh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The filled details can be invalid.&quot;" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-4">
+        <UserObject label="&quot;The unspecified choices can be invalid.&quot;" tags="07-incorrect" id="0fMEboVt1tomcqNoBkXh-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1940" y="-825" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2889,7 +2889,7 @@
             <mxGeometry x="2500" y="-674" width="130" height="81" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying the correctness of a past data analysis&amp;nbsp; by means of doing another. It entails checking (1) whether all descriptions in the scope are coherent and compatible with each other, (2) whether it’s plausible that the original transformation was derived from these descriptions and (3) that the transformation used the primary data, and (4) whether any known filled details are invalid. Finally, it attempts to create a compatible data-analytic transformation from the descriptions in the scope and compares the results.&quot;" tags="04-repeater" id="Kn93jugu7rp3fwJ-fj6_-3">
+        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying the correctness of a past data analysis&amp;nbsp; by means of doing another. It entails checking (1) whether all descriptions in the scope are coherent and compatible with each other, (2) whether it’s plausible that the original transformation was derived from these descriptions and (3) that the transformation used the primary data, and (4) whether any known unspecified choices are invalid. Finally, it attempts to create a compatible data-analytic transformation from the descriptions in the scope and compares the results.&quot;" tags="04-repeater" id="Kn93jugu7rp3fwJ-fj6_-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2500.25" y="-1191.53" width="280" height="180" as="geometry" />
           </mxCell>

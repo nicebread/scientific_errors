@@ -1412,7 +1412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="article">
-    <mxGraphModel dx="265" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-455" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -2248,7 +2248,7 @@
         <mxCell id="fw9Gai0r77NJk9W2MTuy-7" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="fw9Gai0r77NJk9W2MTuy-5" target="fw9Gai0r77NJk9W2MTuy-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The reported result, which is referred to in the descriptions, may not correspond to the executed result.&quot;" tags="07-incorrect" id="fw9Gai0r77NJk9W2MTuy-6">
+        <UserObject label="&quot;The reported result, referred to in the descriptions, may not correspond to the executed result.&quot;" tags="07-incorrect" id="fw9Gai0r77NJk9W2MTuy-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2470" y="-500" width="140" height="80" as="geometry" />
           </mxCell>

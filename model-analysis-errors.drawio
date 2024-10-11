@@ -1532,7 +1532,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="article">
-    <mxGraphModel dx="-455" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="743" dy="2693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1755,7 +1755,7 @@
             <mxGeometry x="2631.25" y="-1054" width="100" height="64" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Author of an article" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-19">
+        <UserObject label="Author of a work" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-19">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2459.53" y="-1090" width="120" height="80" as="geometry" />
           </mxCell>
@@ -2603,6 +2603,24 @@
         <UserObject label="description_scope" tags="07-mistakes 08-error" id="k0RrAUo9AxRIpgdfLGfl-26">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="2320" y="-1110" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_6VWNIIDlRynuvwJdlVj-7" style="rounded=0;html=1;" edge="1" parent="1" source="_6VWNIIDlRynuvwJdlVj-4" target="Kn93jugu7rp3fwJ-fj6_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="IS" tags="04-reproducer" id="_6VWNIIDlRynuvwJdlVj-4">
+          <mxCell style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" vertex="1" parent="1">
+            <mxGeometry x="2631.25" y="-1054" width="100" height="64" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Reproducer&lt;br&gt;of a work" tags="04-reproducer" id="_6VWNIIDlRynuvwJdlVj-5">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2459.53" y="-1090" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="" id="_6VWNIIDlRynuvwJdlVj-6">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_6VWNIIDlRynuvwJdlVj-5" target="_6VWNIIDlRynuvwJdlVj-4">
+            <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

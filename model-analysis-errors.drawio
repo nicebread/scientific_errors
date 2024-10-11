@@ -1007,13 +1007,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-15" value="&quot;Data that were used during a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-15" value="&quot;Data used during a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3410" y="-450" width="129" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-16" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-8" target="5etu7LoMtXVBNzSus7yz-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-17" value="&quot;Data that were published alongside or referenced from a scientific work.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-17" value="&quot;Data published alongside or referenced from a scientific work.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2671.5" y="-449.99999999999994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-18" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-11" target="5etu7LoMtXVBNzSus7yz-17" edge="1">
@@ -1164,7 +1164,7 @@
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-698" y="-519.94" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6yL-t6cbpQuHvvc1sfa-19" value="utilised_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="f6yL-t6cbpQuHvvc1sfa-18" vertex="1">
+        <mxCell id="f6yL-t6cbpQuHvvc1sfa-19" value="utilized_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="f6yL-t6cbpQuHvvc1sfa-18" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="f6yL-t6cbpQuHvvc1sfa-18" source="f6yL-t6cbpQuHvvc1sfa-19" target="f6yL-t6cbpQuHvvc1sfa-19" edge="1">
@@ -2071,19 +2071,9 @@
         <mxCell id="oOwLHZyUxoISMJQHFYJr-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-7" target="yrJLzXoseopjtiNfFKk5-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="da_method" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-7">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2912" y="-820" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="oOwLHZyUxoISMJQHFYJr-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-25" target="yrJLzXoseopjtiNfFKk5-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="da_preregistration" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-25">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2912" y="-920" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="f2kiYGqyTdjZBLPAlbII-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-25" target="L-pPdsTP5N5naby_bBEN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2259,7 +2249,7 @@
             <mxGeometry x="2679" y="-567" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="utilised_data" tags="03-original_author 04-reproducer 05-re-execution 06-re-implementation 07-faults" id="yrJLzXoseopjtiNfFKk5-30">
+        <UserObject label="utilized_data" tags="03-original_author 04-reproducer 05-re-execution 06-re-implementation 07-faults" id="yrJLzXoseopjtiNfFKk5-30">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="yrJLzXoseopjtiNfFKk5-29" vertex="1">
             <mxGeometry width="120" height="60" as="geometry" />
           </mxCell>
@@ -2355,7 +2345,7 @@
         <mxCell id="fw9Gai0r77NJk9W2MTuy-3" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="fw9Gai0r77NJk9W2MTuy-1" target="fw9Gai0r77NJk9W2MTuy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The data reported by authors may differ from the data which were utilised to obtain the result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-2">
+        <UserObject label="&quot;The data reported by authors may differ from the data utilized to obtain the result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3110" y="-582" width="140" height="90" as="geometry" />
           </mxCell>
@@ -2621,6 +2611,16 @@
         <UserObject label="" tags="" id="_6VWNIIDlRynuvwJdlVj-6">
           <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_6VWNIIDlRynuvwJdlVj-5" target="_6VWNIIDlRynuvwJdlVj-4" edge="1">
             <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="da_preregistration" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-25">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2920" y="-920" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="da_method" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2920" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

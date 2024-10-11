@@ -633,7 +633,7 @@
         <mxCell id="yWsvTWukybWWVUXNMozO-1" value="&quot;Description (of a computation)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1359.9999999999995" y="-592" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0vODlNUpFb1i8vnUkuay-1" value="&quot;Instructions on how to perform a computation, possibly referring to specific data and results and by mentioning a particular computational environment.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0vODlNUpFb1i8vnUkuay-1" value="&quot;Instructions on performing a computation, possibly referring to specific data and results and mentioning a particular computational environment.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1380" y="-508" width="160" height="88" as="geometry" />
         </mxCell>
         <mxCell id="JiIQbHf08nwC6CmC3hmb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uf6V5KqNYYEhfx-bWjVM" name="04-description-code">
-    <mxGraphModel dx="6559" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7279" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -836,7 +836,7 @@
         <mxCell id="BYGuv7p13rqGANM1tFdr-17" value="executed_code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5490.5" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BYGuv7p13rqGANM1tFdr-20" value="&quot;A low-level description of a computation that can be executed by a computer and which has been written (implemented) for a scientific work.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BYGuv7p13rqGANM1tFdr-20" value="&quot;A low-level description of a computation that can be executed by a computer.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5351" y="-1440" width="201" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="BYGuv7p13rqGANM1tFdr-36" value="&quot;(Source) Code&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -862,7 +862,7 @@
         <mxCell id="BYGuv7p13rqGANM1tFdr-44" value="reimplemented_code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5323" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BYGuv7p13rqGANM1tFdr-45" value="&quot;Code created and used during a repeating activity pertaining to a repeating activity&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BYGuv7p13rqGANM1tFdr-45" value="&quot;Code created and used during a repeating activity&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5343" y="-950" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hkc3Jr7y3lnxbKBcwY0i-1" value="description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1412,7 +1412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="article">
-    <mxGraphModel dx="-455" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">

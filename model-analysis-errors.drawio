@@ -2014,7 +2014,7 @@
         </UserObject>
         <UserObject label="coherent_descriptions" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="nq-KhNVbIXnM8uOJQNoF-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3110" y="-800" width="130" height="60" as="geometry" />
+            <mxGeometry x="3110" y="-880" width="130" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="skEnqM8bomvaakLA3nwP-3" value="i ?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-2" target="nq-KhNVbIXnM8uOJQNoF-2" edge="1">
@@ -2295,12 +2295,22 @@
         </UserObject>
         <UserObject label="i &amp;lt; 1" tags="07-faults" id="skEnqM8bomvaakLA3nwP-8">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="skEnqM8bomvaakLA3nwP-6" target="nq-KhNVbIXnM8uOJQNoF-2" edge="1">
-            <mxGeometry relative="1" as="geometry" />
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="3060" y="-850" />
+                <mxPoint x="3060" y="-850" />
+              </Array>
+            </mxGeometry>
           </mxCell>
         </UserObject>
         <UserObject label="i 1" tags="08-error" id="skEnqM8bomvaakLA3nwP-9">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="skEnqM8bomvaakLA3nwP-6" target="nq-KhNVbIXnM8uOJQNoF-2" edge="1">
-            <mxGeometry relative="1" as="geometry" />
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="3060" y="-850" />
+                <mxPoint x="3060" y="-850" />
+              </Array>
+            </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-10" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="skEnqM8bomvaakLA3nwP-6" target="dvjK3pkZ67rfnZWP6vGj-3" edge="1">

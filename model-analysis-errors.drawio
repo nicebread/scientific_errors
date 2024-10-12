@@ -1474,7 +1474,7 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-23" value="&quot;Reported result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-24" value="&quot;The output of a computation. Can be a singular number, a table, a figure, or a collection of such elements. May be used as support for one or multiple claims.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-24" value="&quot;A product of a computation. Can be a singular number, a table, a figure, or a collection of such elements. May be used as support for one or multiple claims.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5" y="1270" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
@@ -1690,7 +1690,7 @@
         </UserObject>
         <UserObject label="" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-            <mxGeometry x="2886" y="-955" width="364" height="208" as="geometry" />
+            <mxGeometry x="2886" y="-955" width="374" height="369" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="owC4xl7506kZshst-ZgV-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="owC4xl7506kZshst-ZgV-1" edge="1">
@@ -1968,7 +1968,7 @@
         </mxCell>
         <UserObject label="&quot;The descriptions may not be coherent.&quot;" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3320" y="-881" width="150" height="60" as="geometry" />
+            <mxGeometry x="3320" y="-800" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="0fMEboVt1tomcqNoBkXh-24" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fMEboVt1tomcqNoBkXh-22" target="0fMEboVt1tomcqNoBkXh-23" edge="1">
@@ -2014,7 +2014,7 @@
         </UserObject>
         <UserObject label="coherent_descriptions" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="nq-KhNVbIXnM8uOJQNoF-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3110" y="-882" width="130" height="60" as="geometry" />
+            <mxGeometry x="3110" y="-800" width="130" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="skEnqM8bomvaakLA3nwP-3" value="i ?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-2" target="nq-KhNVbIXnM8uOJQNoF-2" edge="1">
@@ -2308,7 +2308,7 @@
         </mxCell>
         <UserObject label="description_scope4" tags="08-error 07-faults" id="skEnqM8bomvaakLA3nwP-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;fillColor=none;" parent="1" vertex="1">
-            <mxGeometry x="2891.75" y="-950" width="158.25" height="196" as="geometry" />
+            <mxGeometry x="2891.75" y="-950" width="158.25" height="360" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-7" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="dvjK3pkZ67rfnZWP6vGj-3" target="dvjK3pkZ67rfnZWP6vGj-5" edge="1">

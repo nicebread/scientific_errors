@@ -560,7 +560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X1yaROQ72RmCwlZJwBGQ" name="01-description-prediction">
-    <mxGraphModel dx="4012" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4012" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,9 +629,6 @@
         <mxCell id="IgVe8UiKTwK6eelrM34I-1" value="IS" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" parent="1" vertex="1">
           <mxGeometry x="-2130" y="-610" width="100" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="kFdk59f3dht74b1VnB0w-1" value="Descriptions describe computations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="-849.9999999999999" width="620" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yWsvTWukybWWVUXNMozO-1" value="&quot;Description (of a computation)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1359.9999999999995" y="-592" width="120" height="60" as="geometry" />
         </mxCell>
@@ -663,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NGQb6gnbNxsKxo_-r6o5" name="02-description-reasoning">
-    <mxGraphModel dx="5181" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -739,9 +736,6 @@
         <mxCell id="2pYcSrkZzibz6DTYDOcz-24" value="&quot;Unspecified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3087.57" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-MQcdlhpPBaFosoNAgTQ-1" value="Inferring computations from descriptions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-3240" y="-899.9999999999999" width="700" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nueeCX7TbASxnOMUdg-6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3130" y="-580" width="140" height="80" as="geometry" />
         </mxCell>
@@ -775,9 +769,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BYGuv7p13rqGANM1tFdr-3" value="Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-5305.5" y="-1580" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XkXwSkhwHETZ9q2eXrS7-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="BYGuv7p13rqGANM1tFdr-7" target="BYGuv7p13rqGANM1tFdr-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -903,9 +894,6 @@
         <mxCell id="8PW5jDdK31SMw5EFmb7O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-3340" y="1151" width="400" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="8PW5jDdK31SMw5EFmb7O-3" value="Coherence of descriptions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-3150" y="940" width="460" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8PW5jDdK31SMw5EFmb7O-4" value="&quot;None of the statements of one or multiple descriptions conflict with each other.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2680" y="1191" width="140" height="80" as="geometry" />
         </mxCell>
@@ -969,9 +957,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5etu7LoMtXVBNzSus7yz-3" value="Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-3086" y="-770" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3046.5" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1145,7 +1130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XwKYzEd_BNxRyWKxryBO" name="11-computation">
-    <mxGraphModel dx="2843" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2843" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1157,9 +1142,6 @@
         </mxCell>
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-710" y="-529.94" width="473" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="f6yL-t6cbpQuHvvc1sfa-3" value="Computation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-591" y="-880" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-4" value="&quot;A particular calculation of one or multiple results that is (if applicable) dependent on (a) specific data, (b) a specific computational environment, and/or (c) specific code.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-496.00000000000006" width="220" height="90" as="geometry" />
@@ -1290,9 +1272,6 @@
         <mxCell id="rdkLCRfrGO0T2qsuPMMk-17" value="unspecified_choices1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2036" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rdkLCRfrGO0T2qsuPMMk-18" value="Compatibility of computations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-1996" y="130" width="520" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rdkLCRfrGO0T2qsuPMMk-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1641.5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1420,9 +1399,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-1" value="Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" parent="1" vertex="1">
-          <mxGeometry x="-44.74999999999994" y="1180" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cSoGiPtwrFlf75Z5mfev-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cSoGiPtwrFlf75Z5mfev-4" target="cSoGiPtwrFlf75Z5mfev-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

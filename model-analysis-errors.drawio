@@ -2321,7 +2321,7 @@
             <mxGeometry x="2740" y="-1170" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The set of descriptions which are used during a reproduction.&quot;" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="dvjK3pkZ67rfnZWP6vGj-6">
+        <UserObject label="&quot;The set of descriptions that are used during a reproduction.&quot;" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="dvjK3pkZ67rfnZWP6vGj-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2740" y="-1073.06" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2699,7 +2699,7 @@
         </UserObject>
         <UserObject label="&quot;Data scope&quot;" tags="01-original_work" id="ybp3HSN7aaGsiSIPHLm5-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3130" y="-330" width="120" height="60" as="geometry" />
+            <mxGeometry x="3130" y="-210" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ybp3HSN7aaGsiSIPHLm5-4" value="n₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="ybp3HSN7aaGsiSIPHLm5-2" target="ybp3HSN7aaGsiSIPHLm5-3" edge="1">
@@ -2710,12 +2710,12 @@
         </mxCell>
         <UserObject label="data_scope" tags="01-original_work" id="ybp3HSN7aaGsiSIPHLm5-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3290" y="-330" width="120" height="60" as="geometry" />
+            <mxGeometry x="3290" y="-210" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;The degree to which data have not already been preprocessed, thus equaling the primary data.&quot;" tags="01-original_work" id="ybp3HSN7aaGsiSIPHLm5-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3450" y="-340" width="160" height="80" as="geometry" />
+            <mxGeometry x="3450" y="-220" width="160" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

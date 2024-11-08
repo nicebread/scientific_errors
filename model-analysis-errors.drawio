@@ -613,7 +613,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ui3tE-jd9NSbbM8nK2up-14" value="&quot;A description (or multiple descriptions together), optionally together with reported data and unspecified choices, implies knowledge about the computation it describes.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1841.37" y="-180" width="253.24" height="60" as="geometry" />
+          <mxGeometry x="-1841.37" y="-180" width="253.24" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mhRyjZnWgDaONbec5W_V-1" value="computation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1774.75" y="-350" width="120" height="60" as="geometry" />

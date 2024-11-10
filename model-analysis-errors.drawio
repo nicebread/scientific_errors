@@ -1522,7 +1522,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="16-article">
-    <mxGraphModel dx="265" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-455" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1670,7 +1670,7 @@
         </UserObject>
         <UserObject label="" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-22">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-990" width="950" height="610" as="geometry" />
+            <mxGeometry x="2320" y="-980" width="950" height="600" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="computation1" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-10">
@@ -1976,9 +1976,9 @@
         <mxCell id="0fMEboVt1tomcqNoBkXh-24" value="n₂₄" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fMEboVt1tomcqNoBkXh-22" target="0fMEboVt1tomcqNoBkXh-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;A computation that does not correspond to its descriptions is a fault.&quot;" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-23">
+        <UserObject label="&quot;The computation may not correspond to its descriptions.&quot;" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-23">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3360" y="-720" width="190" height="70" as="geometry" />
+            <mxGeometry x="3360" y="-715" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;A compilation of descriptions, results, and, potentially, data and claims that relate to each other.&quot;" tags="01-original_work" id="owC4xl7506kZshst-ZgV-1">

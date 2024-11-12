@@ -1402,15 +1402,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D4aiIrudUya6BMGZUvpn" name="13-result">
-    <mxGraphModel dx="2524" dy="-321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="-321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cSoGiPtwrFlf75Z5mfev-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cSoGiPtwrFlf75Z5mfev-4" target="cSoGiPtwrFlf75Z5mfev-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-3" value="n₂" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cSoGiPtwrFlf75Z5mfev-4" target="cSoGiPtwrFlf75Z5mfev-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-3" value="n₂" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cSoGiPtwrFlf75Z5mfev-4" target="VHd7IflvGeeFokTHplmX-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="1370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cSoGiPtwrFlf75Z5mfev-4" value="result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-44.25" y="1440" width="120" height="60" as="geometry" />
@@ -1464,8 +1466,8 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-23" value="&quot;Reported result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-24" value="&quot;A product of a computation. Can be a singular number, a table, a figure, or a collection of such elements. May be used as support for one or multiple claims.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5" y="1270" width="160" height="100" as="geometry" />
+        <mxCell id="VHd7IflvGeeFokTHplmX-1" value="&quot;A product of a computation. May be used as support for one or multiple claims.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

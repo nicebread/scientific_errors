@@ -1211,7 +1211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="snZnUkYIvRoUpAD9kqW7" name="12-computation-compatible">
-    <mxGraphModel dx="5074" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4742" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1402,7 +1402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D4aiIrudUya6BMGZUvpn" name="13-result">
-    <mxGraphModel dx="2284" dy="-321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1466,7 +1466,7 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-23" value="&quot;Reported result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VHd7IflvGeeFokTHplmX-1" value="&quot;A product of a computation. May be used as support for one or multiple claims.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VHd7IflvGeeFokTHplmX-1" value="&quot;A product of a computation. May be used as support for one or multiple claims.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="25" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>

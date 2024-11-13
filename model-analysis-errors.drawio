@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="16-article">
-    <mxGraphModel dx="-455" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -2303,9 +2303,9 @@
             <mxGeometry x="2679.5" y="-670" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation of results corresponds to its descriptions in the scope. It entails (1) checking whether all descriptions in the scope are coherent, (2) performing a second computation inferred from the descriptions and, if applicable, data in the scope and from unspecified choices, and (3) comparing the results for consistency, given how any obstacles were resolved. Optionally, reproductions can also assess whether the original claim is supported. It is possible that one reproduction verifies multiple computations.&quot;" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
+        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation of results corresponds to its descriptions in the scope. It entails (1) checking whether all descriptions in the scope are coherent, (2) performing a second computation inferred from the descriptions in the description scope,using data in the data scope (if applicable), and from unspecified choices, and (3) comparing the results for consistency. The determination of consistency depends on how any obstacles were resolved. Optionally, reproductions can also assess (4) whether the original claim is supported. It is possible that one reproduction verifies multiple computations.&quot;" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2120" y="-860" width="310" height="160" as="geometry" />
+            <mxGeometry x="2120" y="-870" width="310" height="180" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;Reproduction&quot;" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-5">

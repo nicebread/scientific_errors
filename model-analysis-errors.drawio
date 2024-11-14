@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.4" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.6" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1402,7 +1402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D4aiIrudUya6BMGZUvpn" name="13-result">
-    <mxGraphModel dx="2261" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1431,7 +1431,7 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-7" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cSoGiPtwrFlf75Z5mfev-8" target="cSoGiPtwrFlf75Z5mfev-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-8" value="executed_result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-8" value="obtained_result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cSoGiPtwrFlf75Z5mfev-9" value="i 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cSoGiPtwrFlf75Z5mfev-12" target="cSoGiPtwrFlf75Z5mfev-4" edge="1">
@@ -1454,10 +1454,10 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-18" value="&quot;The result given in an original work.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-44.50999999999999" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-19" value="&quot;The result obtained during a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-19" value="&quot;The result that was calculated during a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="1560" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-20" value="&quot;Executed result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-20" value="&quot;Obtained result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-425" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cSoGiPtwrFlf75Z5mfev-22" value="&quot;Result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="16-article">
-    <mxGraphModel dx="265" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="505" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1852,7 +1852,7 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-10" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-13" target="JkbVV35KO2_sO-zLO9ub-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="executed_result3" tags="06-re-implementation" id="L-pPdsTP5N5naby_bBEN-13">
+        <UserObject label="obtained_result3" tags="06-re-implementation" id="L-pPdsTP5N5naby_bBEN-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-567" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2011,7 +2011,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="executed_result1" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-11">
+        <UserObject label="obtained_result1" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2680.25" y="-490" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2128,7 +2128,7 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-111" target="JkbVV35KO2_sO-zLO9ub-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="executed_result2" tags="05-re-execution" id="yrJLzXoseopjtiNfFKk5-111">
+        <UserObject label="obtained_result2" tags="05-re-execution" id="yrJLzXoseopjtiNfFKk5-111">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-580" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2388,7 +2388,7 @@
         <mxCell id="fw9Gai0r77NJk9W2MTuy-7" value="n₂₀" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="fw9Gai0r77NJk9W2MTuy-5" target="fw9Gai0r77NJk9W2MTuy-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The reported result, referred to in the descriptions, may not correspond to the executed result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-6">
+        <UserObject label="&quot;The reported result, referred to in the descriptions, may not correspond to the obtained result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2470" y="-500" width="140" height="80" as="geometry" />
           </mxCell>
@@ -2484,17 +2484,17 @@
         <mxCell id="S-IQLefPComiQnBnMllo-3" value="n₁₃" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S-IQLefPComiQnBnMllo-4" target="S-IQLefPComiQnBnMllo-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="executed_result2" tags="05-re-execution" id="S-IQLefPComiQnBnMllo-4">
+        <UserObject label="obtained_result2" tags="05-re-execution" id="S-IQLefPComiQnBnMllo-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-230" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a particular executed result&quot;" tags="05-re-execution 03-original_author 04-reproducer 07-faults 06-re-implementation" id="S-IQLefPComiQnBnMllo-5">
+        <UserObject label="&quot;a particular obtained result&quot;" tags="05-re-execution 03-original_author 04-reproducer 07-faults 06-re-implementation" id="S-IQLefPComiQnBnMllo-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1970" y="-320" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="executed_result" tags="05-re-execution 03-original_author 04-reproducer 07-faults 06-re-implementation" id="S-IQLefPComiQnBnMllo-6">
+        <UserObject label="obtained_result" tags="05-re-execution 03-original_author 04-reproducer 07-faults 06-re-implementation" id="S-IQLefPComiQnBnMllo-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2310" y="-320" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2668,7 +2668,7 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-19" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-17" target="S-IQLefPComiQnBnMllo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="executed_result1" tags="03-original_author 04-reproducer 07-faults" id="JkbVV35KO2_sO-zLO9ub-17">
+        <UserObject label="obtained_result1" tags="03-original_author 04-reproducer 07-faults" id="JkbVV35KO2_sO-zLO9ub-17">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-320" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2679,7 +2679,7 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-22" value="n₁₇" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-20" target="S-IQLefPComiQnBnMllo-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="executed_result3" tags="06-re-implementation" id="JkbVV35KO2_sO-zLO9ub-20">
+        <UserObject label="obtained_result3" tags="06-re-implementation" id="JkbVV35KO2_sO-zLO9ub-20">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-230" width="120" height="60" as="geometry" />
           </mxCell>

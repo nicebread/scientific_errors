@@ -1988,9 +1988,11 @@
             <mxGeometry x="3110" y="-1150" width="186" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="MpJnlrVxldFMDOUFkw5W-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="MpJnlrVxldFMDOUFkw5W-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
+        <UserObject label="" tags="03-original_author" id="MpJnlrVxldFMDOUFkw5W-7">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="MpJnlrVxldFMDOUFkw5W-3" edge="1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
             <mxGeometry x="2670" y="-495" width="380" height="70" as="geometry" />
@@ -2212,7 +2214,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="inference_rule" tags="03-original_author 04-reproducer" id="MpJnlrVxldFMDOUFkw5W-2">
+        <UserObject label="inference_rule" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2890" y="-390" width="90" height="20" as="geometry" />
           </mxCell>
@@ -2222,22 +2224,22 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="r ?" tags="04-reproducer" id="MpJnlrVxldFMDOUFkw5W-10">
+        <UserObject label="r ?" tags="" id="MpJnlrVxldFMDOUFkw5W-10">
           <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-3" target="gz4YbNvNfWnHZWsrJcfn-4" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="AND" tags="03-original_author 04-reproducer" id="MpJnlrVxldFMDOUFkw5W-3">
+        <UserObject label="AND" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-3">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3010" y="-410" width="60" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Inference rule&quot;" tags="03-original_author 04-reproducer" id="MpJnlrVxldFMDOUFkw5W-11">
+        <UserObject label="&quot;Inference rule&quot;" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2680.25" y="-390" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Reasoning behind making a claim based on a result.&quot;" tags="03-original_author 04-reproducer" id="MpJnlrVxldFMDOUFkw5W-13">
+        <UserObject label="&quot;Reasoning behind making a claim based on a result.&quot;" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2679" y="-320" width="120" height="60" as="geometry" />
           </mxCell>

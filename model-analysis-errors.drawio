@@ -1280,7 +1280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D4aiIrudUya6BMGZUvpn" name="08-result">
-    <mxGraphModel dx="1541" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1332,7 +1332,7 @@
         <mxCell id="cSoGiPtwrFlf75Z5mfev-18" value="&quot;The result given in an original work.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-44.50999999999999" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSoGiPtwrFlf75Z5mfev-19" value="&quot;The result that was calculated during a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cSoGiPtwrFlf75Z5mfev-19" value="&quot;The result calculated during a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="1560" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cSoGiPtwrFlf75Z5mfev-20" value="&quot;Obtained result&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

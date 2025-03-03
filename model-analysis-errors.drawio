@@ -717,7 +717,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n4-cPGc8KIIeVT6Bk1gN" name="03-choices">
-    <mxGraphModel dx="2261" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1541" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -796,7 +796,7 @@
         <mxCell id="S04_w-M0vRDrfWub4jQF-9" value="&quot;Decisions related to a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-1" value="&quot;Computational choices not prescribed by the descriptions, filling gaps due to underspecification.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-1" value="&quot;Computational choices not prescribed by the descriptions in the scope, filling gaps due to underspecification.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350.00000000000006" y="360" width="155.12" height="82" as="geometry" />
         </mxCell>
         <mxCell id="7uMynjpYxRg0fBStoFp5-2" value="&quot;Unspecified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -808,11 +808,11 @@
         <mxCell id="7uMynjpYxRg0fBStoFp5-7" value="&quot;Specified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-9" value="&quot;Computational choices that are mentioned in a description.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-9" value="&quot;Computational choices that are mentioned in a description in the scope.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-11" value="&quot;Computational choices that are at odds with the descriptions.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-11" value="&quot;Computational choices that are at odds with the descriptions in the scope.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

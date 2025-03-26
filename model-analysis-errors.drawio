@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1525,8 +1525,8 @@
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-1" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Kn93jugu7rp3fwJ-fj6_-2" target="Kn93jugu7rp3fwJ-fj6_-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2450" y="-930" />
-              <mxPoint x="2450" y="-930" />
+              <mxPoint x="2430" y="-920" />
+              <mxPoint x="2430" y="-920" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2190,7 +2190,7 @@
         </UserObject>
         <UserObject label="&quot;Reproduction&quot;" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2270" y="-960" width="120" height="60" as="geometry" />
+            <mxGeometry x="2270" y="-950" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="i &amp;lt; 1" tags="07-faults" id="skEnqM8bomvaakLA3nwP-8">
@@ -2392,7 +2392,7 @@
         </UserObject>
         <UserObject label="&quot;particular executed code&quot;" tags="03-original_author 04-reproducer" id="S-IQLefPComiQnBnMllo-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-960" width="120" height="60" as="geometry" />
+            <mxGeometry x="1960" y="-950" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="executed_code" tags="03-original_author 04-reproducer" id="S-IQLefPComiQnBnMllo-11">
@@ -2423,7 +2423,7 @@
         </UserObject>
         <UserObject label="&quot;a particular description scope&quot;" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-12">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="1960" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="k0RrAUo9AxRIpgdfLGfl-13" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-15" target="k0RrAUo9AxRIpgdfLGfl-16" edge="1">
@@ -2434,17 +2434,17 @@
         </mxCell>
         <UserObject label="description_scope2" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2140" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="description_scope" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-16">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2320" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;a particular description scope&quot;" tags="06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-17">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="1960" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="k0RrAUo9AxRIpgdfLGfl-18" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-20" target="k0RrAUo9AxRIpgdfLGfl-21" edge="1">
@@ -2455,17 +2455,17 @@
         </mxCell>
         <UserObject label="description_scope3" tags="06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-20">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2140" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="description_scope" tags="06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-21">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2320" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;a particular description scope&quot;" tags="08-error 07-faults" id="k0RrAUo9AxRIpgdfLGfl-22">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="1960" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="k0RrAUo9AxRIpgdfLGfl-23" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-25" target="k0RrAUo9AxRIpgdfLGfl-26" edge="1">
@@ -2476,12 +2476,12 @@
         </mxCell>
         <UserObject label="description_scope4" tags="08-error 07-faults" id="k0RrAUo9AxRIpgdfLGfl-25">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2140" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="description_scope" tags="08-error 07-faults" id="k0RrAUo9AxRIpgdfLGfl-26">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2320" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="_6VWNIIDlRynuvwJdlVj-7" style="rounded=0;html=1;" parent="1" source="_6VWNIIDlRynuvwJdlVj-4" target="Kn93jugu7rp3fwJ-fj6_-2" edge="1">
@@ -2502,12 +2502,12 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="da_preregistration" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-25">
+        <UserObject label="preregistration" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-25">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2920" y="-920" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="da_method" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-7">
+        <UserObject label="method" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-7">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2920" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2810,24 +2810,63 @@
           </mxCell>
         </UserObject>
         <UserObject label="&quot;particular unspecified choices&quot;" tags="07-faults" id="BIIbry4o6YU3gY4la1iO-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2170" y="-930" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BIIbry4o6YU3gY4la1iO-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="BIIbry4o6YU3gY4la1iO-4" target="BIIbry4o6YU3gY4la1iO-5">
+        <mxCell id="BIIbry4o6YU3gY4la1iO-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="BIIbry4o6YU3gY4la1iO-4" target="BIIbry4o6YU3gY4la1iO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BIIbry4o6YU3gY4la1iO-3" value="n₃₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="BIIbry4o6YU3gY4la1iO-4" target="BIIbry4o6YU3gY4la1iO-1">
+        <mxCell id="BIIbry4o6YU3gY4la1iO-3" value="n₃₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="BIIbry4o6YU3gY4la1iO-4" target="BIIbry4o6YU3gY4la1iO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="unspecified_choices1" tags="07-faults" id="BIIbry4o6YU3gY4la1iO-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2170" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="unspecified_choices" tags="07-faults" id="BIIbry4o6YU3gY4la1iO-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2170" y="-710" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;a description of a computation in a method section of an article&quot;" tags="01-original_work" id="UODisVdpldmVInzmnOGn-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1960" y="-1120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UODisVdpldmVInzmnOGn-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UODisVdpldmVInzmnOGn-8" value="n₃₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="method" tags="01-original_work" id="UODisVdpldmVInzmnOGn-9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2140" y="-1120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="description" tags="01-original_work" id="UODisVdpldmVInzmnOGn-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2320" y="-1120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;a description of a computation in a preregistration&quot;" tags="01-original_work" id="UODisVdpldmVInzmnOGn-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1960" y="-1190" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UODisVdpldmVInzmnOGn-12" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="-1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UODisVdpldmVInzmnOGn-13" value="n₃₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="preregistration" tags="01-original_work" id="UODisVdpldmVInzmnOGn-14">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2140" y="-1190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

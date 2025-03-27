@@ -1402,7 +1402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="09-article">
-    <mxGraphModel dx="265" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="905" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1839,8 +1839,8 @@
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="yrJLzXoseopjtiNfFKk5-11" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="2860" y="-450" />
-                <mxPoint x="2860" y="-450" />
+                <mxPoint x="2860" y="-440" />
+                <mxPoint x="2860" y="-440" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -2831,41 +2831,41 @@
           </mxCell>
         </UserObject>
         <UserObject label="&quot;a description of a computation in a method section of an article&quot;" tags="01-original_work" id="UODisVdpldmVInzmnOGn-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1960" y="-1120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="UODisVdpldmVInzmnOGn-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-10">
+        <mxCell id="UODisVdpldmVInzmnOGn-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UODisVdpldmVInzmnOGn-8" value="n₃₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-6">
+        <mxCell id="UODisVdpldmVInzmnOGn-8" value="n₃₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="method" tags="01-original_work" id="UODisVdpldmVInzmnOGn-9">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-1120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="description" tags="01-original_work" id="UODisVdpldmVInzmnOGn-10">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2320" y="-1120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&quot;a description of a computation in a preregistration&quot;" tags="01-original_work" id="UODisVdpldmVInzmnOGn-11">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1960" y="-1190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="UODisVdpldmVInzmnOGn-12" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-10">
+        <mxCell id="UODisVdpldmVInzmnOGn-12" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2320" y="-1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UODisVdpldmVInzmnOGn-13" value="n₃₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-11">
+        <mxCell id="UODisVdpldmVInzmnOGn-13" value="n₃₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="preregistration" tags="01-original_work" id="UODisVdpldmVInzmnOGn-14">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-1190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>

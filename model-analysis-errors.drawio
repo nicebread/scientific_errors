@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.3" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1006,7 +1006,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KPMlPtTYA3X9ogOWpVQX" name="06-data">
-    <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5581" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1083,12 +1083,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-22" value="&quot;Original records, that is the first non-volatile form of data.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2980" y="-165.88000000000005" width="140" height="70" as="geometry" />
+          <mxGeometry x="-3140" y="-165.88000000000005" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2974.5" y="-289.99999999999994" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-24" value="raw_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="5etu7LoMtXVBNzSus7yz-23" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-24" value="primary_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="5etu7LoMtXVBNzSus7yz-23" vertex="1">
           <mxGeometry x="4" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="5etu7LoMtXVBNzSus7yz-23" source="5etu7LoMtXVBNzSus7yz-24" target="5etu7LoMtXVBNzSus7yz-24" edge="1">
@@ -1097,10 +1097,10 @@
             <mxPoint x="-54" y="157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-26" value="n₅" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-24" target="5etu7LoMtXVBNzSus7yz-22" edge="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-26" value="n₅" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-24" target="5etu7LoMtXVBNzSus7yz-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-27" value="n₄" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-31" target="5etu7LoMtXVBNzSus7yz-29" edge="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-27" value="n₄" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-31" target="5etu7LoMtXVBNzSus7yz-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3070" y="-229.99999999999994" as="sourcePoint" />
           </mxGeometry>
@@ -1115,12 +1115,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-29" value="&quot;First digital representation of the raw data.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3130" y="-164.11999999999983" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2970" y="-165.87999999999982" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-30" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3134" y="-289.99999999999994" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-31" value="primary_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="5etu7LoMtXVBNzSus7yz-30" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-31" value="raw_data" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="5etu7LoMtXVBNzSus7yz-30" vertex="1">
           <mxGeometry x="4" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="5etu7LoMtXVBNzSus7yz-30" source="5etu7LoMtXVBNzSus7yz-31" target="5etu7LoMtXVBNzSus7yz-31" edge="1">
@@ -1157,13 +1157,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-38" value="&quot;Primary data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-38" value="&quot;Raw data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3324.88" y="-289.99999999999994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-39" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-31" target="5etu7LoMtXVBNzSus7yz-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-40" value="&quot;Raw data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-40" value="&quot;Primary data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2779.75" y="-289.99999999999994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-41" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-24" target="5etu7LoMtXVBNzSus7yz-40" edge="1">
@@ -1351,46 +1351,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="toKlXgSBRFOgYpURWRct" name="article-landing">
-    <mxGraphModel dx="-455" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="905" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LkG4QqCJzSwnCHXQJE-b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1900" y="-1200" width="1890" height="1070" as="geometry" />
         </mxCell>
-        <UserObject label="Original Work" link="data:action/json,{&quot;title&quot;: &quot;Show Original Work&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-1">
+        <UserObject label="Original Work" link="data:action/json,{&quot;title&quot;: &quot;Show Original Work&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}}" id="Lp5b1CyZDyOVVe-kU8Lf-1">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-1180" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Original Author" link="data:action/json,{&quot;title&quot;: &quot;Show Original Author&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-3">
+        <UserObject label="Original Author" link="data:action/json,{&quot;title&quot;: &quot;Show Original Author&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-3">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-1130" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Reproducer" link="data:action/json,{&quot;title&quot;: &quot;Show Reproducer&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-4">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
-            <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Re-execution" link="data:action/json,{&quot;title&quot;: &quot;Show Re-execution&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-5">
+        <UserObject label="Reproducer" link="data:action/json,{&quot;title&quot;: &quot;Show Reproducer&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-4">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Re-implementation" link="data:action/json,{&quot;title&quot;: &quot;Show Re-implementation&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-6">
+        <UserObject label="Type 1" link="data:action/json,{&quot;title&quot;: &quot;Show Type 1&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-5">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-980" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Faults" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Faults&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-7">
+        <UserObject label="Type 2" link="data:action/json,{&quot;title&quot;: &quot;Show Type 2&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-6">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-930" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Error" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Error&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-8">
+        <UserObject label="Faults" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Faults&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-7">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
-            <mxGeometry x="3620" y="-880" width="150" height="40" as="geometry" />
+            <mxGeometry x="3620" y="-830" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Error" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Error&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-8">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="3620" y="-780" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="x5yEm_BSNFMt_wAQmNL--1">
@@ -1398,11 +1398,21 @@
             <mxGeometry x="3630" y="-190" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Type 3" link="data:action/json,{&quot;title&quot;: &quot;Show Type 3&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}}]}" id="Ir5ec8LueDV3TyIsZXXP-1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="3620" y="-880" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="in silico" link="data:action/json,{&quot;title&quot;: &quot;Show in silico&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="Ir5ec8LueDV3TyIsZXXP-2">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=2;fontSize=16;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="09-article">
-    <mxGraphModel dx="905" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="259" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1416,34 +1426,34 @@
             <mxGeometry x="3620" y="-1180" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Original Author" link="data:action/json,{&quot;title&quot;: &quot;Show Original Author&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-8">
+        <UserObject label="Original Author" link="data:action/json,{&quot;title&quot;: &quot;Show Original Author&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-8">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-1130" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Reproducer" link="data:action/json,{&quot;title&quot;: &quot;Show Reproducer&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-9">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Re-execution" link="data:action/json,{&quot;title&quot;: &quot;Show Re-execution&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-11">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Re-implementation" link="data:action/json,{&quot;title&quot;: &quot;Show Re-implementation&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-13">
+        <UserObject label="Reproducer" link="data:action/json,{&quot;title&quot;: &quot;Show Reproducer&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-9">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-980" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Faults" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Faults&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-15">
+        <UserObject label="Type 1" link="data:action/json,{&quot;title&quot;: &quot;Show Type 1&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-11">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-930" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Error" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Error&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-17">
+        <UserObject label="Type 2" link="data:action/json,{&quot;title&quot;: &quot;Show Type 2&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-13">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-880" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Faults" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Faults&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-15">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-780" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Error" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Error&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-17">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-730" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Original Work" tags="01-original_work" link="data:action/json,{&quot;title&quot;: &quot;Hide Original Work&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-1">
@@ -1451,69 +1461,69 @@
             <mxGeometry x="3620" y="-1180" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Original Author" tags="03-original_author" link="data:action/json,{&quot;title&quot;: &quot;Hide Original Author&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-3">
+        <UserObject label="Original Author" tags="02-original_author" link="data:action/json,{&quot;title&quot;: &quot;Hide Original Author&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-3">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-1130" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Reproducer" tags="04-reproducer" link="data:action/json,{&quot;title&quot;: &quot;Hide Reproducer&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-4">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Re-execution" tags="05-re-execution" link="data:action/json,{&quot;title&quot;: &quot;Hide Re-execution&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-10">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div&gt;Re-implementation&lt;/div&gt;" tags="06-re-implementation" link="data:action/json,{&quot;title&quot;: &quot;Hide Re-implementation&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-12">
+        <UserObject label="Reproducer" tags="05-reproducer" link="data:action/json,{&quot;title&quot;: &quot;Hide Reproducer&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-4">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-980" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Faults" tags="07-faults" link="data:action/json,{&quot;title&quot;: &quot;Hide Faults&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-14">
+        <UserObject label="&lt;div&gt;Type 1&lt;/div&gt;" tags="06-type_1" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 1&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-10">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-930" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Error" tags="08-error" link="data:action/json,{&quot;title&quot;: &quot;Hide Error&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-16">
+        <UserObject label="Type 2" tags="07-type_2" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 2&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-12">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-880" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-03 disable-04 disable-08 disable-07 disable-06 disable-05" id="QUoOZGlp5lnhboiUv0TK-2">
+        <UserObject label="Faults" tags="09-faults" link="data:action/json,{&quot;title&quot;: &quot;Hide Faults&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-14">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-780" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Error" tags="10-error" link="data:action/json,{&quot;title&quot;: &quot;Hide Error&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-16">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-730" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-1184" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-01 disable-04 disable-05 disable-06 disable-07 disable-08" id="QUoOZGlp5lnhboiUv0TK-11">
+        <UserObject label="" tags="disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-1134" width="170" height="49" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-01 disable-05 disable-06 disable-07 disable-08 disable-03" id="QUoOZGlp5lnhboiUv0TK-12">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3610" y="-1084" width="170" height="48" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="disable-01 disable-06 disable-07 disable-08 disable-03" id="QUoOZGlp5lnhboiUv0TK-13">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
-            <mxGeometry x="3610" y="-1034" width="170" height="48" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="disable-01 disable-07 disable-08 disable-03 disable-05" id="QUoOZGlp5lnhboiUv0TK-14">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-12">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-984" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-01 disable-08 disable-03 disable-04 disable-05 disable-06" id="QUoOZGlp5lnhboiUv0TK-15">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-934" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-01 disable-03 disable-04 disable-05 disable-06 disable-07" id="QUoOZGlp5lnhboiUv0TK-16">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-06 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-884" width="170" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3610" y="-784" width="170" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="disable-if-02 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-16">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3610" y="-734" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="svjLb76wFN5MYeLJTsbR-1">
@@ -1521,12 +1531,42 @@
             <mxGeometry x="3630" y="-190" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="in silico" link="data:action/json,{&quot;title&quot;: &quot;Show in silico&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-6">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=2;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="in silico" tags="04-in_silico" link="data:action/json,{&quot;title&quot;: &quot;Hide in silico&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-5">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=2;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-03" id="-voySNhSQHpRNIaE9XI9-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3610" y="-1034" width="170" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Type 3" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Type 3&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-3">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-830" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Type 3" tags="08-type_3" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 3&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-2">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3620" y="-830" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-07 disable-if-06 disable-if-04" id="-voySNhSQHpRNIaE9XI9-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
+            <mxGeometry x="3610" y="-834" width="170" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="1" parent="0" />
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-1" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Kn93jugu7rp3fwJ-fj6_-2" target="Kn93jugu7rp3fwJ-fj6_-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2430" y="-920" />
-              <mxPoint x="2430" y="-920" />
+              <mxPoint x="2450" y="-930" />
+              <mxPoint x="2450" y="-930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1538,76 +1578,81 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="reproduction" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-2">
+        <UserObject label="reproduction" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
-            <mxGeometry x="2470" y="-970" width="1000" height="720" as="geometry" />
+            <mxGeometry x="2470" y="-1090" width="1000" height="840" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-2">
+        <UserObject label="" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-            <mxGeometry x="2490" y="-970" width="780" height="720" as="geometry" />
+            <mxGeometry x="2490" y="-1090" width="780" height="840" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-22">
+        <UserObject label="" tags="09-faults" id="0fMEboVt1tomcqNoBkXh-22">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-980" width="950" height="600" as="geometry" />
+            <mxGeometry x="2270" y="-980" width="1000" height="620" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="computation1" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-10">
+        <UserObject label="computation1" tags="02-original_author 09-faults 05-reproducer" id="yrJLzXoseopjtiNfFKk5-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
-            <mxGeometry x="2665.31" y="-700" width="174.69" height="290" as="geometry" />
+            <mxGeometry x="2665.31" y="-700" width="174.69" height="280" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-3">
+        <UserObject label="" tags="09-faults" id="0fMEboVt1tomcqNoBkXh-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
             <mxGeometry x="2886" y="-955" width="374" height="363" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="owC4xl7506kZshst-ZgV-2" value="n₁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="owC4xl7506kZshst-ZgV-1" edge="1">
+        <mxCell id="owC4xl7506kZshst-ZgV-2" value="n₁₃" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="Eu9N0RKJ_jUNz708BRhu-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3203" y="-920" />
+              <mxPoint x="3500" y="-1060" />
+            </Array>
+            <mxPoint x="3500" y="-1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6meHIMFjqJ7mQNxPPm8-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="_6meHIMFjqJ7mQNxPPm8-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3030" y="-1100" />
+              <mxPoint x="3310" y="-1100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6meHIMFjqJ7mQNxPPm8-2" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="_6meHIMFjqJ7mQNxPPm8-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2985" y="-1020" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="work" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-4">
+        <UserObject label="work1" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=right;" parent="1" vertex="1">
-            <mxGeometry x="2880" y="-960" width="210" height="700" as="geometry" />
+            <mxGeometry x="2880" y="-1070" width="210" height="810" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="f2kiYGqyTdjZBLPAlbII-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-7" target="Shf7TZzAt9hoyD3ce1p0-8" edge="1">
+        <UserObject label="&lt;div&gt;computation5&lt;/div&gt;" tags="08-type_3" id="j4oGljMI4yO4WdPvj_mn-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
+            <mxGeometry x="2900" y="-1040" width="510" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Shf7TZzAt9hoyD3ce1p0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="Shf7TZzAt9hoyD3ce1p0-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2972" y="-683" />
+              <mxPoint x="2850" y="-460" />
+              <mxPoint x="2850" y="-650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Shf7TZzAt9hoyD3ce1p0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="Shf7TZzAt9hoyD3ce1p0-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="p" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-12">
+        <UserObject label="p" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-12">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-13" target="yrJLzXoseopjtiNfFKk5-10" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="p ?" tags="04-reproducer" id="yrJLzXoseopjtiNfFKk5-43">
+        <UserObject label="p ?" tags="05-reproducer" id="yrJLzXoseopjtiNfFKk5-43">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-13" target="yrJLzXoseopjtiNfFKk5-10" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="p &amp;lt; 0" tags="07-faults" id="Pb_pmZ8bssueoNHnppx8-20">
+        <UserObject label="p &amp;lt; 0" tags="09-faults" id="Pb_pmZ8bssueoNHnppx8-20">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="yrJLzXoseopjtiNfFKk5-13" target="yrJLzXoseopjtiNfFKk5-10" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="AND" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-13">
+        <UserObject label="AND" tags="02-original_author 09-faults 05-reproducer" id="yrJLzXoseopjtiNfFKk5-13">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2713" y="-830" width="80" height="80" as="geometry" />
           </mxCell>
@@ -1617,24 +1662,24 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="unspecified_choices1" tags="07-faults" id="yrJLzXoseopjtiNfFKk5-15">
+        <UserObject label="unspecified_choices1" tags="09-faults" id="yrJLzXoseopjtiNfFKk5-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2350" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="" id="yrJLzXoseopjtiNfFKk5-17">
-          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-18" target="yrJLzXoseopjtiNfFKk5-2" edge="1">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.81;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-18" target="yrJLzXoseopjtiNfFKk5-2" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="IS" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-18">
+        <UserObject label="IS" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-18">
           <mxCell style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" parent="1" vertex="1">
-            <mxGeometry x="2631.25" y="-1054" width="100" height="64" as="geometry" />
+            <mxGeometry x="2600" y="-1170" width="100" height="64" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Author of a work" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-19">
+        <UserObject label="Author of a work" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-19">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2459.53" y="-1090" width="120" height="80" as="geometry" />
+            <mxGeometry x="2450" y="-1190" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="" id="yrJLzXoseopjtiNfFKk5-20">
@@ -1645,22 +1690,27 @@
         <mxCell id="f2kiYGqyTdjZBLPAlbII-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-25" target="Shf7TZzAt9hoyD3ce1p0-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="computation2" tags="05-re-execution" id="yrJLzXoseopjtiNfFKk5-103">
+        <UserObject label="computation2" tags="06-type_1" id="yrJLzXoseopjtiNfFKk5-103">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;verticalAlign=top;align=right;" parent="1" vertex="1">
             <mxGeometry x="2900" y="-680" width="470" height="185" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="computation3" tags="06-re-implementation" id="yrJLzXoseopjtiNfFKk5-105">
+        <UserObject label="computation4" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;verticalAlign=top;align=right;" parent="1" vertex="1">
+            <mxGeometry x="2900" y="-680" width="510" height="185" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="computation3" tags="07-type_2" id="yrJLzXoseopjtiNfFKk5-105">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;verticalAlign=top;align=right;" parent="1" vertex="1">
             <mxGeometry x="2900" y="-600" width="530" height="105" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="data_scope" tags="01-original_work" id="g_vOlQZT4Bbi9FkSCruG-1">
+        <UserObject label="data_scope" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="g_vOlQZT4Bbi9FkSCruG-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
             <mxGeometry x="2905" y="-590" width="140" height="89" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="i 1" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-39">
+        <UserObject label="i 1" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-39">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-33" target="yrJLzXoseopjtiNfFKk5-30" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="2912" y="-537" as="sourcePoint" />
@@ -1672,7 +1722,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i 1" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-40">
+        <UserObject label="i 1" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-40">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-27" target="yrJLzXoseopjtiNfFKk5-28" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -1684,13 +1734,13 @@
         </UserObject>
         <UserObject label="Note: This is one configuration of a work, not all works involve code, data, or a preregistration." tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-41">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-            <mxGeometry x="3210" y="-1040" width="240" height="56.94" as="geometry" />
+            <mxGeometry x="3410" y="-1330" width="175" height="56.94" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s6wDxaXQtTVFRyTiy3fm-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-110" target="s6wDxaXQtTVFRyTiy3fm-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="reimplemented_code" tags="06-re-implementation" id="yrJLzXoseopjtiNfFKk5-110">
+        <UserObject label="reimplemented_code" tags="07-type_2" id="yrJLzXoseopjtiNfFKk5-110">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3070" y="-561" width="120" height="60" as="geometry" />
           </mxCell>
@@ -1698,7 +1748,10 @@
         <mxCell id="L-pPdsTP5N5naby_bBEN-5" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-1" target="yrJLzXoseopjtiNfFKk5-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="AND" tags="05-re-execution" id="L-pPdsTP5N5naby_bBEN-1">
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-12" value="r" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-1" target="1wvx0eJ7fTUcXRKeURI4-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="AND" tags="08-type_3 06-type_1" id="L-pPdsTP5N5naby_bBEN-1">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-830" width="80" height="80" as="geometry" />
           </mxCell>
@@ -1706,7 +1759,7 @@
         <mxCell id="L-pPdsTP5N5naby_bBEN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-3" target="L-pPdsTP5N5naby_bBEN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="unspecified_choices2" tags="05-re-execution" id="L-pPdsTP5N5naby_bBEN-3">
+        <UserObject label="unspecified_choices2" tags="06-type_1" id="L-pPdsTP5N5naby_bBEN-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3340" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
@@ -1714,7 +1767,7 @@
         <mxCell id="L-pPdsTP5N5naby_bBEN-11" value="r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-6" target="yrJLzXoseopjtiNfFKk5-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="AND" tags="06-re-implementation" id="L-pPdsTP5N5naby_bBEN-6">
+        <UserObject label="AND" tags="07-type_2" id="L-pPdsTP5N5naby_bBEN-6">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-830" width="80" height="80" as="geometry" />
           </mxCell>
@@ -1722,7 +1775,7 @@
         <mxCell id="L-pPdsTP5N5naby_bBEN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-8" target="L-pPdsTP5N5naby_bBEN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="unspecified_choices3" tags="06-re-implementation" id="L-pPdsTP5N5naby_bBEN-8">
+        <UserObject label="unspecified_choices3" tags="07-type_2" id="L-pPdsTP5N5naby_bBEN-8">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3340" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
@@ -1730,27 +1783,32 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-10" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="L-pPdsTP5N5naby_bBEN-13" target="JkbVV35KO2_sO-zLO9ub-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="obtained_result3" tags="06-re-implementation" id="L-pPdsTP5N5naby_bBEN-13">
+        <UserObject label="obtained_result3" tags="07-type_2" id="L-pPdsTP5N5naby_bBEN-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-567" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="possible_computations" tags="08-error" id="Shf7TZzAt9hoyD3ce1p0-3">
+        <UserObject label="possible_computations" tags="10-error" id="Shf7TZzAt9hoyD3ce1p0-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
-            <mxGeometry x="2490" y="-600" width="160" height="250" as="geometry" />
+            <mxGeometry x="2500" y="-850" width="160" height="250" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="03-original_author 04-reproducer 08-error" id="yrJLzXoseopjtiNfFKk5-35">
+        <UserObject label="computation0" tags="08-type_3 04-in_silico" id="B5TlTNkNCBut-MFC36E_-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" parent="1" vertex="1">
+            <mxGeometry x="2500" y="-1050" width="180" height="310" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="02-original_author 10-error 05-reproducer" id="yrJLzXoseopjtiNfFKk5-35">
           <mxCell style="group" parent="1" vertex="1" connectable="0">
-            <mxGeometry x="2510" y="-567" width="120" height="60" as="geometry" />
+            <mxGeometry x="2530" y="-820" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="primary_data" tags="" id="yrJLzXoseopjtiNfFKk5-36">
+        <UserObject label="primary_data1" tags="" id="yrJLzXoseopjtiNfFKk5-36">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="yrJLzXoseopjtiNfFKk5-35" vertex="1">
             <mxGeometry width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="01-original_work 08-error" id="yrJLzXoseopjtiNfFKk5-37">
+        <UserObject label="" tags="" id="yrJLzXoseopjtiNfFKk5-37">
           <mxCell style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="yrJLzXoseopjtiNfFKk5-35" source="yrJLzXoseopjtiNfFKk5-36" target="yrJLzXoseopjtiNfFKk5-36" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-104" y="207" as="sourcePoint" />
@@ -1758,9 +1816,13 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i 1" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-38">
+        <UserObject label="i 1" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-38">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-36" target="yrJLzXoseopjtiNfFKk5-30" edge="1">
-            <mxGeometry relative="1" as="geometry" />
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="2590" y="-537" />
+              </Array>
+            </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="Shf7TZzAt9hoyD3ce1p0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-4" target="Shf7TZzAt9hoyD3ce1p0-15" edge="1">
@@ -1769,17 +1831,17 @@
         <mxCell id="Pb_pmZ8bssueoNHnppx8-6" value="n₂₅" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-4" target="Pb_pmZ8bssueoNHnppx8-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ijCPZLDvGZPskSMIlyl--4" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-4" target="ijCPZLDvGZPskSMIlyl--3" edge="1">
+        <mxCell id="sYx0vKv8xSGesNFBUbZD-1" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" edge="1" parent="1" source="Shf7TZzAt9hoyD3ce1p0-4" target="ijCPZLDvGZPskSMIlyl--3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2570" y="-460" />
-              <mxPoint x="2310" y="-460" />
+              <mxPoint x="2570" y="-710" />
+              <mxPoint x="2360" y="-710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="all_correct_results" tags="08-error" id="Shf7TZzAt9hoyD3ce1p0-4">
+        <UserObject label="all_correct_results" tags="10-error" id="Shf7TZzAt9hoyD3ce1p0-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2510" y="-430" width="120" height="60" as="geometry" />
+            <mxGeometry x="2510" y="-680" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Shf7TZzAt9hoyD3ce1p0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-6" target="Shf7TZzAt9hoyD3ce1p0-8" edge="1">
@@ -1788,54 +1850,59 @@
         <mxCell id="Pb_pmZ8bssueoNHnppx8-2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-6" target="Pb_pmZ8bssueoNHnppx8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="all_valid_unspecified_choices" tags="08-error" id="Shf7TZzAt9hoyD3ce1p0-6">
+        <UserObject label="all_valid_unspecified_choices" tags="10-error" id="Shf7TZzAt9hoyD3ce1p0-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2270" y="-713" width="180" height="60" as="geometry" />
+            <mxGeometry x="2270" y="-970" width="180" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Shf7TZzAt9hoyD3ce1p0-10" value="r 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-8" target="Shf7TZzAt9hoyD3ce1p0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="AND" tags="08-error" id="Shf7TZzAt9hoyD3ce1p0-8">
+        <UserObject label="AND" tags="10-error" id="Shf7TZzAt9hoyD3ce1p0-8">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2530" y="-723" width="80" height="80" as="geometry" />
+            <mxGeometry x="2540" y="-980" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Pb_pmZ8bssueoNHnppx8-8" value="n₂₆" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-14" target="Pb_pmZ8bssueoNHnppx8-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2640" y="-545" />
+              <mxPoint x="2640" y="-545" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ijCPZLDvGZPskSMIlyl--2" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-14" target="ijCPZLDvGZPskSMIlyl--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="total_error" tags="08-error" id="Shf7TZzAt9hoyD3ce1p0-14">
+        <UserObject label="total_error" tags="10-error" id="Shf7TZzAt9hoyD3ce1p0-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2700" y="-315" width="120" height="60" as="geometry" />
+            <mxGeometry x="2700" y="-575.5" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Shf7TZzAt9hoyD3ce1p0-18" value="t" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Shf7TZzAt9hoyD3ce1p0-15" target="Shf7TZzAt9hoyD3ce1p0-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="AND" tags="08-error" id="Shf7TZzAt9hoyD3ce1p0-15">
+        <UserObject label="AND" tags="10-error" id="Shf7TZzAt9hoyD3ce1p0-15">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2720" y="-440" width="80" height="80" as="geometry" />
+            <mxGeometry x="2720" y="-690" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;All valid unspecified choices.&quot;" tags="08-error" id="Pb_pmZ8bssueoNHnppx8-1">
+        <UserObject label="&quot;All valid unspecified choices.&quot;" tags="10-error" id="Pb_pmZ8bssueoNHnppx8-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2030" y="-710" width="140" height="54" as="geometry" />
+            <mxGeometry x="2030" y="-967" width="140" height="54" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;All results for a particular claim that follow from the description, the primary data and all possible unspecified choices.&quot;" tags="08-error" id="Pb_pmZ8bssueoNHnppx8-5">
+        <UserObject label="&quot;All results for a particular claim that follow from the description, the primary data and all possible unspecified choices.&quot;" tags="10-error" id="Pb_pmZ8bssueoNHnppx8-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2220" y="-445" width="180" height="90" as="geometry" />
+            <mxGeometry x="2270" y="-695" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;If the result of a computation only consist of one number, the total error is the numerical difference between that number for an incorrect data analysis and the closest margin of the range of correct results of a correct data analysis.&quot;" tags="08-error" id="Pb_pmZ8bssueoNHnppx8-7">
+        <UserObject label="&quot;If the result of a computation only consist of one number, the total error is the numerical difference between that number for an incorrect data analysis and the closest margin of the range of correct results of a correct data analysis.&quot;" tags="10-error" id="Pb_pmZ8bssueoNHnppx8-7">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2390" y="-340" width="220" height="110" as="geometry" />
+            <mxGeometry x="2390" y="-590" width="220" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="i 1" tags="03-original_author" id="yrJLzXoseopjtiNfFKk5-16">
+        <UserObject label="i 1" tags="02-original_author" id="yrJLzXoseopjtiNfFKk5-16">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="yrJLzXoseopjtiNfFKk5-11" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -1848,7 +1915,7 @@
         <mxCell id="0fMEboVt1tomcqNoBkXh-7" value="n₂₃" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fMEboVt1tomcqNoBkXh-3" target="0fMEboVt1tomcqNoBkXh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The descriptions may not be coherent.&quot;" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-6">
+        <UserObject label="&quot;The descriptions may not be coherent.&quot;" tags="09-faults" id="0fMEboVt1tomcqNoBkXh-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3320" y="-803.5" width="150" height="60" as="geometry" />
           </mxCell>
@@ -1856,32 +1923,32 @@
         <mxCell id="0fMEboVt1tomcqNoBkXh-24" value="n₂₄" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fMEboVt1tomcqNoBkXh-22" target="0fMEboVt1tomcqNoBkXh-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The computation may not correspond to its descriptions.&quot;" tags="07-faults" id="0fMEboVt1tomcqNoBkXh-23">
+        <UserObject label="&quot;The computation may not correspond to its descriptions.&quot;" tags="09-faults" id="0fMEboVt1tomcqNoBkXh-23">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3360" y="-715" width="190" height="70" as="geometry" />
+            <mxGeometry x="3360" y="-705" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A compilation of descriptions, results, and, potentially, data and claims that relate to each other.&quot;" tags="01-original_work" id="owC4xl7506kZshst-ZgV-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3110" y="-1150" width="186" height="80" as="geometry" />
+        <UserObject label="" tags="02-original_author 05-reproducer" id="MpJnlrVxldFMDOUFkw5W-7">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="sYx0vKv8xSGesNFBUbZD-3" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="3026.4383561643835" y="-406.43835616438355" as="targetPoint" />
+            </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="03-original_author" id="MpJnlrVxldFMDOUFkw5W-7">
-          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="MpJnlrVxldFMDOUFkw5W-3" edge="1">
-            <mxGeometry relative="1" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-5">
+        <UserObject label="" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
             <mxGeometry x="2670" y="-495" width="380" height="70" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-18" value="i ?" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-9" target="1wvx0eJ7fTUcXRKeURI4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="reported_result1" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2922.25" y="-490" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="i &amp;lt; 1" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-8">
+        <UserObject label="i &amp;lt; 1" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-8">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;fontColor=#FF0000;" parent="1" source="yrJLzXoseopjtiNfFKk5-11" target="yrJLzXoseopjtiNfFKk5-9" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -1891,12 +1958,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="obtained_result1" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-11">
+        <UserObject label="obtained_result1" tags="02-original_author 09-faults 05-reproducer" id="yrJLzXoseopjtiNfFKk5-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2680.25" y="-490" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="coherent_descriptions" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="nq-KhNVbIXnM8uOJQNoF-2">
+        <UserObject label="coherent_descriptions" tags="10-error 09-faults 08-type_3 07-type_2 06-type_1" id="nq-KhNVbIXnM8uOJQNoF-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3110" y="-880" width="130" height="60" as="geometry" />
           </mxCell>
@@ -1912,7 +1979,7 @@
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-9" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-2" target="dvjK3pkZ67rfnZWP6vGj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="description_scope3" tags="06-re-implementation" id="d64iukOMIbFN8zlV8vSq-2">
+        <UserObject label="description_scope3" tags="07-type_2" id="d64iukOMIbFN8zlV8vSq-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="2891.75" y="-944" width="158.25" height="190" as="geometry" />
           </mxCell>
@@ -1931,10 +1998,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dvjK3pkZ67rfnZWP6vGj-4" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-3" target="dvjK3pkZ67rfnZWP6vGj-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="description_scope2" tags="05-re-execution" id="d64iukOMIbFN8zlV8vSq-3">
+        <UserObject label="i 1" tags="07-type_2 06-type_1" id="5iLT35i9nx-Acovq8sm5-10">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-3" target="dvjK3pkZ67rfnZWP6vGj-3" edge="1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="08-type_3" id="Eu9N0RKJ_jUNz708BRhu-3">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-3" target="dvjK3pkZ67rfnZWP6vGj-3" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="2860" y="-930" />
+                <mxPoint x="2860" y="-1100" />
+                <mxPoint x="2971" y="-1100" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="description_scope2" tags="08-type_3 06-type_1" id="d64iukOMIbFN8zlV8vSq-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="2891.75" y="-950" width="158.25" height="355" as="geometry" />
           </mxCell>
@@ -1942,7 +2022,7 @@
         <mxCell id="fw9Gai0r77NJk9W2MTuy-11" value="n₂₁" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="o_CjdL0zJoxdtRaZQlLs-9" target="fw9Gai0r77NJk9W2MTuy-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="07-faults" id="o_CjdL0zJoxdtRaZQlLs-9">
+        <UserObject label="" tags="09-faults" id="o_CjdL0zJoxdtRaZQlLs-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="2670" y="-674" width="375" height="70" as="geometry" />
           </mxCell>
@@ -1972,22 +2052,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="description_scope4" tags="08-error 07-faults" id="skEnqM8bomvaakLA3nwP-6">
+        <UserObject label="description_scope4" tags="10-error 09-faults" id="skEnqM8bomvaakLA3nwP-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="2891.75" y="-950" width="158.25" height="353" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="reported_code" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-27">
+        <UserObject label="reported_code1" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-27">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2920" y="-669.5" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-1">
+        <UserObject label="" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="2670" y="-570" width="380" height="67" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-32">
+        <UserObject label="" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="yrJLzXoseopjtiNfFKk5-32">
           <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="2920" y="-567" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2008,12 +2088,12 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-111" target="JkbVV35KO2_sO-zLO9ub-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="obtained_result2" tags="05-re-execution" id="yrJLzXoseopjtiNfFKk5-111">
+        <UserObject label="obtained_result2" tags="06-type_1" id="yrJLzXoseopjtiNfFKk5-111">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-580" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="05-re-execution" id="yrJLzXoseopjtiNfFKk5-49">
+        <UserObject label="" tags="08-type_3 06-type_1" id="yrJLzXoseopjtiNfFKk5-49">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-27" target="yrJLzXoseopjtiNfFKk5-13" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2023,7 +2103,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="03-original_author 04-reproducer 05-re-execution 06-re-implementation" id="yrJLzXoseopjtiNfFKk5-50">
+        <UserObject label="" tags="07-type_2 06-type_1 05-reproducer 03-not_in_silico" id="yrJLzXoseopjtiNfFKk5-50">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-33" target="yrJLzXoseopjtiNfFKk5-13" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2033,17 +2113,17 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Total error&quot;" tags="08-error" id="ijCPZLDvGZPskSMIlyl--1">
+        <UserObject label="&quot;Total error&quot;" tags="10-error" id="ijCPZLDvGZPskSMIlyl--1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2700" y="-210" width="120" height="60" as="geometry" />
+            <mxGeometry x="2700" y="-480" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;All correct results&quot;" tags="08-error" id="ijCPZLDvGZPskSMIlyl--3">
+        <UserObject label="&quot;All correct results&quot;" tags="10-error" id="ijCPZLDvGZPskSMIlyl--3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2250" y="-550" width="120" height="60" as="geometry" />
+            <mxGeometry x="2300" y="-800" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="i ?" tags="04-reproducer" id="ykwf2O5tN8PDm9J6943y-2">
+        <UserObject label="i ?" tags="07-type_2 06-type_1" id="ykwf2O5tN8PDm9J6943y-2">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-30" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2053,7 +2133,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i ?" tags="05-re-execution" id="ykwf2O5tN8PDm9J6943y-1">
+        <UserObject label="i ?" tags="08-type_3 06-type_1" id="ykwf2O5tN8PDm9J6943y-1">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-28" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2063,71 +2143,62 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="gz4YbNvNfWnHZWsrJcfn-6" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gz4YbNvNfWnHZWsrJcfn-4" target="gz4YbNvNfWnHZWsrJcfn-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-49" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="gz4YbNvNfWnHZWsrJcfn-4" target="Eu9N0RKJ_jUNz708BRhu-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2850" y="-280" />
+              <mxPoint x="2850" y="-280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MpJnlrVxldFMDOUFkw5W-15" value="n₂" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gz4YbNvNfWnHZWsrJcfn-4" target="MpJnlrVxldFMDOUFkw5W-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-50" value="n₁₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="gz4YbNvNfWnHZWsrJcfn-4" target="Eu9N0RKJ_jUNz708BRhu-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2850" y="-320" />
+              <mxPoint x="2850" y="-320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <UserObject label="claim" tags="01-original_work" id="gz4YbNvNfWnHZWsrJcfn-4">
+        <UserObject label="claim1" tags="01-original_work" id="gz4YbNvNfWnHZWsrJcfn-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2923" y="-330" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Claim&quot;" tags="01-original_work" id="gz4YbNvNfWnHZWsrJcfn-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2840" y="-220" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-2" target="MpJnlrVxldFMDOUFkw5W-3" edge="1">
+        <mxCell id="JkbVV35KO2_sO-zLO9ub-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-2" target="sYx0vKv8xSGesNFBUbZD-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3010" y="-390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-47" value="n₁₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-2" target="Eu9N0RKJ_jUNz708BRhu-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-2" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-2" target="MpJnlrVxldFMDOUFkw5W-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-3" value="n₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-2" target="MpJnlrVxldFMDOUFkw5W-13" edge="1">
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-48" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-2" target="Eu9N0RKJ_jUNz708BRhu-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2900" y="-290" />
+              <mxPoint x="2935" y="-340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="inference_rule" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-2">
+        <UserObject label="inference_rule1" tags="01-original_work" id="MpJnlrVxldFMDOUFkw5W-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2890" y="-390" width="90" height="20" as="geometry" />
+            <mxGeometry x="2890" y="-400" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="r 1" tags="03-original_author" id="MpJnlrVxldFMDOUFkw5W-9">
-          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-3" target="gz4YbNvNfWnHZWsrJcfn-4" edge="1">
-            <mxGeometry relative="1" as="geometry" />
+        <UserObject label="r 1" tags="02-original_author" id="MpJnlrVxldFMDOUFkw5W-9">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sYx0vKv8xSGesNFBUbZD-3" target="gz4YbNvNfWnHZWsrJcfn-4" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="3028.3673469387754" y="-371.6326530612246" as="sourcePoint" />
+            </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="r ?" tags="" id="MpJnlrVxldFMDOUFkw5W-10">
-          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MpJnlrVxldFMDOUFkw5W-3" target="gz4YbNvNfWnHZWsrJcfn-4" edge="1">
-            <mxGeometry relative="1" as="geometry" />
+        <UserObject label="r ?" tags="05-reproducer" id="MpJnlrVxldFMDOUFkw5W-10">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sYx0vKv8xSGesNFBUbZD-3" target="gz4YbNvNfWnHZWsrJcfn-4" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="3028.3673469387754" y="-371.6326530612246" as="sourcePoint" />
+            </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="AND" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-3">
-          <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3010" y="-410" width="60" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;Inference rule&quot;" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-11">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2680.25" y="-390" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;Reasoning behind making a claim based on a result (or multiple results).&quot;" tags="03-original_author 05-re-execution 06-re-implementation" id="MpJnlrVxldFMDOUFkw5W-13">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2679" y="-320" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;A conclusion drawn from one or multiple results.&quot;" tags="01-original_work" id="MpJnlrVxldFMDOUFkw5W-14">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2990" y="-220" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="i ?" tags="04-reproducer 05-re-execution 06-re-implementation" id="yrJLzXoseopjtiNfFKk5-47">
+        <UserObject label="i ?" tags="07-type_2 06-type_1 05-reproducer" id="yrJLzXoseopjtiNfFKk5-47">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-11" target="yrJLzXoseopjtiNfFKk5-9" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2137,22 +2208,26 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i ?" tags="04-reproducer" id="yrJLzXoseopjtiNfFKk5-48">
+        <UserObject label="i ?" tags="05-reproducer" id="yrJLzXoseopjtiNfFKk5-48">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-36" target="yrJLzXoseopjtiNfFKk5-30" edge="1">
-            <mxGeometry relative="1" as="geometry" />
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="2590" y="-537" />
+              </Array>
+            </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-29">
+        <UserObject label="" tags="02-original_author 09-faults 05-reproducer" id="yrJLzXoseopjtiNfFKk5-29">
           <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="2679" y="-567" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="utilized_data" tags="03-original_author 04-reproducer 05-re-execution 06-re-implementation 07-faults" id="yrJLzXoseopjtiNfFKk5-30">
+        <UserObject label="utilized_data1" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="yrJLzXoseopjtiNfFKk5-30">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="yrJLzXoseopjtiNfFKk5-29" vertex="1">
             <mxGeometry width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="03-original_author 04-reproducer 05-re-execution 06-re-implementation 07-faults" id="yrJLzXoseopjtiNfFKk5-31">
+        <UserObject label="" tags="" id="yrJLzXoseopjtiNfFKk5-31">
           <mxCell style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="yrJLzXoseopjtiNfFKk5-29" source="yrJLzXoseopjtiNfFKk5-30" target="yrJLzXoseopjtiNfFKk5-30" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-104" y="207" as="sourcePoint" />
@@ -2160,7 +2235,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i &amp;lt; 1" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-9">
+        <UserObject label="i &amp;lt; 1" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-9">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;fontColor=#FF0000;" parent="1" source="yrJLzXoseopjtiNfFKk5-28" target="yrJLzXoseopjtiNfFKk5-27" edge="1">
             <mxGeometry x="0.0091" relative="1" as="geometry">
               <Array as="points">
@@ -2178,22 +2253,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="executed_code1" tags="03-original_author 04-reproducer 07-faults" id="yrJLzXoseopjtiNfFKk5-28">
+        <UserObject label="executed_code1" tags="02-original_author 09-faults 05-reproducer" id="yrJLzXoseopjtiNfFKk5-28">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
             <mxGeometry x="2679.5" y="-670" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation of results corresponds to its descriptions in the scope. It entails (1) checking whether all descriptions in the scope are coherent, (2) performing a second computation inferred from the descriptions in the description scope, using data in the data scope (if applicable), and from unspecified and conflicting choices, and (3) comparing the results. Optionally, reproductions can also assess (4) whether the original claim is supported.&quot;" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
+        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation of results corresponds to its descriptions in the scope. It entails (1) checking whether all descriptions in the scope are coherent, (2) performing a second computation inferred from the descriptions in the description scope, using data in the data scope (if applicable), and from unspecified and conflicting choices, and (3) comparing the results. Optionally, reproductions can also assess (4) whether the original claim is supported.&quot;" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2120" y="-870" width="310" height="180" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Reproduction&quot;" tags="04-reproducer" id="Kn93jugu7rp3fwJ-fj6_-5">
+        <UserObject label="&quot;Reproduction&quot;" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2270" y="-950" width="120" height="60" as="geometry" />
+            <mxGeometry x="2270" y="-960" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="i &amp;lt; 1" tags="07-faults" id="skEnqM8bomvaakLA3nwP-8">
+        <UserObject label="i &amp;lt; 1" tags="09-faults" id="skEnqM8bomvaakLA3nwP-8">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="skEnqM8bomvaakLA3nwP-6" target="nq-KhNVbIXnM8uOJQNoF-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2203,7 +2278,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i 1" tags="08-error" id="skEnqM8bomvaakLA3nwP-9">
+        <UserObject label="i 1" tags="10-error" id="skEnqM8bomvaakLA3nwP-9">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="skEnqM8bomvaakLA3nwP-6" target="nq-KhNVbIXnM8uOJQNoF-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
@@ -2219,48 +2294,48 @@
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-7" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="dvjK3pkZ67rfnZWP6vGj-3" target="dvjK3pkZ67rfnZWP6vGj-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2880" y="-1090" />
-              <mxPoint x="2880" y="-1140" />
+              <mxPoint x="2920" y="-1140" />
+              <mxPoint x="2920" y="-1140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dvjK3pkZ67rfnZWP6vGj-8" value="n₁₀" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="dvjK3pkZ67rfnZWP6vGj-3" target="dvjK3pkZ67rfnZWP6vGj-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2880" y="-1070" />
-              <mxPoint x="2880" y="-1043" />
+              <mxPoint x="3050" y="-1150" />
+              <mxPoint x="3050" y="-1150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="description_scope" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="dvjK3pkZ67rfnZWP6vGj-3">
+        <UserObject label="description_scope" tags="10-error 09-faults 07-type_2 06-type_1 08-type_3" id="dvjK3pkZ67rfnZWP6vGj-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2910.88" y="-1110" width="120" height="60" as="geometry" />
+            <mxGeometry x="2910.88" y="-1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Description scope&quot;" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="dvjK3pkZ67rfnZWP6vGj-5">
+        <UserObject label="&quot;Description scope&quot;" tags="10-error 09-faults 07-type_2 06-type_1 08-type_3" id="dvjK3pkZ67rfnZWP6vGj-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2740" y="-1170" width="120" height="60" as="geometry" />
+            <mxGeometry x="2740" y="-1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The set of descriptions used during a reproduction.&quot;" tags="05-re-execution 08-error 06-re-implementation 07-faults" id="dvjK3pkZ67rfnZWP6vGj-6">
+        <UserObject label="&quot;The set of descriptions used during a reproduction.&quot;" tags="10-error 09-faults 07-type_2 06-type_1 08-type_3" id="dvjK3pkZ67rfnZWP6vGj-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2740" y="-1073.06" width="120" height="60" as="geometry" />
+            <mxGeometry x="3090" y="-1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="fw9Gai0r77NJk9W2MTuy-3" value="n₂₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="fw9Gai0r77NJk9W2MTuy-1" target="fw9Gai0r77NJk9W2MTuy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The data reported by authors may differ from the data utilized to obtain the result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-2">
+        <UserObject label="&quot;The data reported by authors may differ from the data utilized to obtain the result.&quot;" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3110" y="-582" width="140" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="i &amp;lt; 1" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-4">
+        <UserObject label="i &amp;lt; 1" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-4">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;fontColor=#FF0000;" parent="1" source="yrJLzXoseopjtiNfFKk5-30" target="yrJLzXoseopjtiNfFKk5-33" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="2860" y="-550" />
-                <mxPoint x="2860" y="-550" />
+                <mxPoint x="2860" y="-540" />
+                <mxPoint x="2860" y="-540" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -2268,12 +2343,12 @@
         <mxCell id="fw9Gai0r77NJk9W2MTuy-7" value="n₂₀" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="fw9Gai0r77NJk9W2MTuy-5" target="fw9Gai0r77NJk9W2MTuy-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The reported result, referred to in the descriptions, may not correspond to the obtained result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-6">
+        <UserObject label="&quot;The reported result, referred to in the descriptions, may not correspond to the obtained result.&quot;" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2470" y="-500" width="140" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The code reported by authors may differ from the one that was executed to obtain the result.&quot;" tags="07-faults" id="fw9Gai0r77NJk9W2MTuy-10">
+        <UserObject label="&quot;The code reported by authors may differ from the one that was executed to obtain the result.&quot;" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3110" y="-677.5" width="140" height="81" as="geometry" />
           </mxCell>
@@ -2284,57 +2359,19 @@
         <mxCell id="cv6FONSUoYHSZAyJLSKK-5" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-1" target="cv6FONSUoYHSZAyJLSKK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="computation1" tags="03-original_author 04-reproducer" id="cv6FONSUoYHSZAyJLSKK-1">
+        <UserObject label="computation&amp;lt;N&amp;gt;" tags="02-original_author 05-reproducer" id="cv6FONSUoYHSZAyJLSKK-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-533" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-853" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a particular computation&quot;" tags="03-original_author 04-reproducer" id="cv6FONSUoYHSZAyJLSKK-2">
+        <UserObject label="&quot;a particular computation&quot;" tags="02-original_author 05-reproducer" id="cv6FONSUoYHSZAyJLSKK-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-640" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-960" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="computation" tags="03-original_author 04-reproducer" id="cv6FONSUoYHSZAyJLSKK-4">
+        <UserObject label="computation" tags="02-original_author 05-reproducer" id="cv6FONSUoYHSZAyJLSKK-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-423" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="cv6FONSUoYHSZAyJLSKK-7" value="n₁₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-6" target="cv6FONSUoYHSZAyJLSKK-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2170" y="-610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cv6FONSUoYHSZAyJLSKK-8" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-6" target="cv6FONSUoYHSZAyJLSKK-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2170" y="-393" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="computation2" tags="05-re-execution" id="cv6FONSUoYHSZAyJLSKK-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2110" y="-533" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="cv6FONSUoYHSZAyJLSKK-10" value="n₁₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-9" target="cv6FONSUoYHSZAyJLSKK-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2170" y="-610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cv6FONSUoYHSZAyJLSKK-11" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-9" target="cv6FONSUoYHSZAyJLSKK-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2170" y="-393" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="computation3" tags="06-re-implementation" id="cv6FONSUoYHSZAyJLSKK-9">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2110" y="-533" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-743" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="cv6FONSUoYHSZAyJLSKK-15" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-12" target="cv6FONSUoYHSZAyJLSKK-14" edge="1">
@@ -2343,7 +2380,7 @@
         <mxCell id="S-IQLefPComiQnBnMllo-1" value="n₃" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="cv6FONSUoYHSZAyJLSKK-12" target="cv6FONSUoYHSZAyJLSKK-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="reported_result1" tags="01-original_work" id="cv6FONSUoYHSZAyJLSKK-12">
+        <UserObject label="reported_result&amp;lt;N&amp;gt;" tags="01-original_work" id="cv6FONSUoYHSZAyJLSKK-12">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3490" y="-423" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2358,25 +2395,14 @@
             <mxGeometry x="3490" y="-313" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="S-IQLefPComiQnBnMllo-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S-IQLefPComiQnBnMllo-4" target="S-IQLefPComiQnBnMllo-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S-IQLefPComiQnBnMllo-3" value="n₁₃" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S-IQLefPComiQnBnMllo-4" target="S-IQLefPComiQnBnMllo-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="obtained_result2" tags="05-re-execution" id="S-IQLefPComiQnBnMllo-4">
+        <UserObject label="&quot;a particular obtained result&quot;" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="S-IQLefPComiQnBnMllo-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-230" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a particular obtained result&quot;" tags="05-re-execution 03-original_author 04-reproducer 07-faults 06-re-implementation" id="S-IQLefPComiQnBnMllo-5">
+        <UserObject label="obtained_result" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="S-IQLefPComiQnBnMllo-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1970" y="-320" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="obtained_result" tags="05-re-execution 03-original_author 04-reproducer 07-faults 06-re-implementation" id="S-IQLefPComiQnBnMllo-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2310" y="-320" width="120" height="60" as="geometry" />
+            <mxGeometry x="2290" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="S-IQLefPComiQnBnMllo-7" value="n₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S-IQLefPComiQnBnMllo-9" target="S-IQLefPComiQnBnMllo-10" edge="1">
@@ -2385,22 +2411,22 @@
         <mxCell id="S-IQLefPComiQnBnMllo-8" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S-IQLefPComiQnBnMllo-9" target="S-IQLefPComiQnBnMllo-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="executed_code1" tags="03-original_author 04-reproducer" id="S-IQLefPComiQnBnMllo-9">
+        <UserObject label="executed_code&amp;lt;N&amp;gt;" tags="02-original_author 05-reproducer" id="S-IQLefPComiQnBnMllo-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-853" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-534.5" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;particular executed code&quot;" tags="03-original_author 04-reproducer" id="S-IQLefPComiQnBnMllo-10">
+        <UserObject label="&quot;particular executed code&quot;" tags="02-original_author 05-reproducer" id="S-IQLefPComiQnBnMllo-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-950" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-641.5" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="executed_code" tags="03-original_author 04-reproducer" id="S-IQLefPComiQnBnMllo-11">
+        <UserObject label="executed_code" tags="02-original_author 05-reproducer" id="S-IQLefPComiQnBnMllo-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-743" width="120" height="60" as="geometry" />
+            <mxGeometry x="1950" y="-424.5" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;particular unspecified choices&quot;" tags="05-re-execution 06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-1">
+        <UserObject label="&quot;particular unspecified choices&quot;" tags="05-reproducer 09-faults" id="k0RrAUo9AxRIpgdfLGfl-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2290" y="-643" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2411,17 +2437,17 @@
         <mxCell id="k0RrAUo9AxRIpgdfLGfl-5" value="n₁₉" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-2" target="k0RrAUo9AxRIpgdfLGfl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="unspecified_choices2" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-2">
+        <UserObject label="unspecified_choices&amp;lt;N&amp;gt;" tags="05-reproducer 09-faults" id="k0RrAUo9AxRIpgdfLGfl-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2290" y="-533" width="120" height="60" as="geometry" />
+            <mxGeometry x="2280" y="-533" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="unspecified_choices" tags="05-re-execution 06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-3">
+        <UserObject label="unspecified_choices" tags="05-reproducer 09-faults" id="k0RrAUo9AxRIpgdfLGfl-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2290" y="-423" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a particular description scope&quot;" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-12">
+        <UserObject label="&quot;a particular description scope&quot;" tags="06-type_1 07-type_2 09-faults 10-error" id="k0RrAUo9AxRIpgdfLGfl-12">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1960" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2432,69 +2458,27 @@
         <mxCell id="k0RrAUo9AxRIpgdfLGfl-14" value="n₁₁" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-15" target="k0RrAUo9AxRIpgdfLGfl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="description_scope2" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-15">
+        <UserObject label="description_scope&amp;lt;N&amp;gt;" tags="06-type_1 07-type_2 09-faults 10-error" id="k0RrAUo9AxRIpgdfLGfl-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-1050" width="120" height="60" as="geometry" />
+            <mxGeometry x="2130" y="-1050" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="description_scope" tags="05-re-execution" id="k0RrAUo9AxRIpgdfLGfl-16">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-1050" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;a particular description scope&quot;" tags="06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-17">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-1050" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="k0RrAUo9AxRIpgdfLGfl-18" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-20" target="k0RrAUo9AxRIpgdfLGfl-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k0RrAUo9AxRIpgdfLGfl-19" value="n₁₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-20" target="k0RrAUo9AxRIpgdfLGfl-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="description_scope3" tags="06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-20">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-1050" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="description_scope" tags="06-re-implementation" id="k0RrAUo9AxRIpgdfLGfl-21">
+        <UserObject label="description_scope" tags="06-type_1 07-type_2 09-faults 10-error" id="k0RrAUo9AxRIpgdfLGfl-16">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2320" y="-1050" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a particular description scope&quot;" tags="08-error 07-faults" id="k0RrAUo9AxRIpgdfLGfl-22">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1960" y="-1050" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="k0RrAUo9AxRIpgdfLGfl-23" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-25" target="k0RrAUo9AxRIpgdfLGfl-26" edge="1">
+        <mxCell id="_6VWNIIDlRynuvwJdlVj-7" style="rounded=0;html=1;exitX=0.81;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_6VWNIIDlRynuvwJdlVj-4" target="Kn93jugu7rp3fwJ-fj6_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k0RrAUo9AxRIpgdfLGfl-24" value="n₁₈" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="k0RrAUo9AxRIpgdfLGfl-25" target="k0RrAUo9AxRIpgdfLGfl-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="description_scope4" tags="08-error 07-faults" id="k0RrAUo9AxRIpgdfLGfl-25">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-1050" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="description_scope" tags="08-error 07-faults" id="k0RrAUo9AxRIpgdfLGfl-26">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2320" y="-1050" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="_6VWNIIDlRynuvwJdlVj-7" style="rounded=0;html=1;" parent="1" source="_6VWNIIDlRynuvwJdlVj-4" target="Kn93jugu7rp3fwJ-fj6_-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="IS" tags="04-reproducer" id="_6VWNIIDlRynuvwJdlVj-4">
+        <UserObject label="IS" tags="05-reproducer" id="_6VWNIIDlRynuvwJdlVj-4">
           <mxCell style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" parent="1" vertex="1">
-            <mxGeometry x="2631.25" y="-1054" width="100" height="64" as="geometry" />
+            <mxGeometry x="2600" y="-1170" width="100" height="64" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Reproducer&lt;br&gt;of a work" tags="04-reproducer" id="_6VWNIIDlRynuvwJdlVj-5">
+        <UserObject label="Reproducer&lt;br&gt;of a work" tags="05-reproducer" id="_6VWNIIDlRynuvwJdlVj-5">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2459.53" y="-1090" width="120" height="80" as="geometry" />
+            <mxGeometry x="2450" y="-1190" width="120" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="" id="_6VWNIIDlRynuvwJdlVj-6">
@@ -2507,6 +2491,14 @@
             <mxGeometry x="2920" y="-920" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="f2oD4MOdMqccoSPUoHCV-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-7" target="Shf7TZzAt9hoyD3ce1p0-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2700" y="-790" />
+              <mxPoint x="2700" y="-920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="method" tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-7">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2920" y="-820" width="120" height="60" as="geometry" />
@@ -2515,14 +2507,7 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-5" value="i ?" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-4" target="yrJLzXoseopjtiNfFKk5-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-4" target="MpJnlrVxldFMDOUFkw5W-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3280" y="-380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="reported_result2" tags="05-re-execution" id="JkbVV35KO2_sO-zLO9ub-4">
+        <UserObject label="reported_result2" tags="06-type_1" id="JkbVV35KO2_sO-zLO9ub-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-460" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2530,14 +2515,7 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-11" value="i ?" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-9" target="yrJLzXoseopjtiNfFKk5-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-9" target="MpJnlrVxldFMDOUFkw5W-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3280" y="-380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="reported_result3" tags="06-re-implementation" id="JkbVV35KO2_sO-zLO9ub-9">
+        <UserObject label="reported_result3" tags="07-type_2" id="JkbVV35KO2_sO-zLO9ub-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3220" y="-460" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2548,74 +2526,14 @@
         <mxCell id="JkbVV35KO2_sO-zLO9ub-19" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-17" target="S-IQLefPComiQnBnMllo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="obtained_result1" tags="03-original_author 04-reproducer 07-faults" id="JkbVV35KO2_sO-zLO9ub-17">
+        <UserObject label="obtained_result&amp;lt;N&amp;gt;" tags="02-original_author 09-faults 05-reproducer" id="JkbVV35KO2_sO-zLO9ub-17">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-320" width="120" height="60" as="geometry" />
+            <mxGeometry x="2120" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-21" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-20" target="S-IQLefPComiQnBnMllo-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-22" value="n₁₇" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-20" target="S-IQLefPComiQnBnMllo-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="obtained_result3" tags="06-re-implementation" id="JkbVV35KO2_sO-zLO9ub-20">
+        <UserObject label="&quot;Data scope&quot;" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="ybp3HSN7aaGsiSIPHLm5-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2140" y="-230" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="2uAIWrSbU8UR2QMJDXSW-24" value="n₁₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-26" target="k0RrAUo9AxRIpgdfLGfl-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2uAIWrSbU8UR2QMJDXSW-26" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-26" target="k0RrAUo9AxRIpgdfLGfl-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="unspecified_choices3" tags="06-re-implementation" id="JkbVV35KO2_sO-zLO9ub-26">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2290" y="-533" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-29" value="n₃₀" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-28" target="cv6FONSUoYHSZAyJLSKK-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3700" y="-500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-30" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-28" target="cv6FONSUoYHSZAyJLSKK-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3700" y="-283" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="reported_result2" tags="05-re-execution" id="JkbVV35KO2_sO-zLO9ub-28">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3640" y="-423" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-32" value="n₃₁" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-31" target="cv6FONSUoYHSZAyJLSKK-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3700" y="-500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JkbVV35KO2_sO-zLO9ub-33" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="JkbVV35KO2_sO-zLO9ub-31" target="cv6FONSUoYHSZAyJLSKK-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3700" y="-283" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="reported_result3" tags="06-re-implementation" id="JkbVV35KO2_sO-zLO9ub-31">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3640" y="-423" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;Data scope&quot;" tags="01-original_work" id="ybp3HSN7aaGsiSIPHLm5-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3120" y="-220" width="120" height="60" as="geometry" />
+            <mxGeometry x="2960" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ybp3HSN7aaGsiSIPHLm5-4" value="n₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="ybp3HSN7aaGsiSIPHLm5-2" target="ybp3HSN7aaGsiSIPHLm5-3" edge="1">
@@ -2624,14 +2542,14 @@
         <mxCell id="ybp3HSN7aaGsiSIPHLm5-5" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="ybp3HSN7aaGsiSIPHLm5-2" target="ybp3HSN7aaGsiSIPHLm5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="data_scope" tags="01-original_work" id="ybp3HSN7aaGsiSIPHLm5-2">
+        <UserObject label="data_scope" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error 05-reproducer" id="ybp3HSN7aaGsiSIPHLm5-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3270" y="-220" width="120" height="60" as="geometry" />
+            <mxGeometry x="3120" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Data sets commonly go through multiple preprocessing stages. The data scope describes which of these stages are considered during the reproduction. If all stages are considered, this means one has obtained the primary data.&quot;" tags="01-original_work" id="ybp3HSN7aaGsiSIPHLm5-3">
+        <UserObject label="&quot;Data sets commonly go through multiple preprocessing stages. The data scope describes which of these stages are considered during the reproduction. If all stages are considered, this means one has obtained the primary data.&quot;" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="ybp3HSN7aaGsiSIPHLm5-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3430" y="-240" width="190" height="100" as="geometry" />
+            <mxGeometry x="3280" y="-240" width="190" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="gSoXI3ar291KiDH4XYDU-6" value="t" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="gSoXI3ar291KiDH4XYDU-2" target="yrJLzXoseopjtiNfFKk5-11" edge="1">
@@ -2641,7 +2559,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="AND" tags="03-original_author 04-reproducer 07-faults" id="gSoXI3ar291KiDH4XYDU-2">
+        <UserObject label="AND" tags="02-original_author 09-faults 05-reproducer" id="gSoXI3ar291KiDH4XYDU-2">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2804.25" y="-490" width="33" height="33" as="geometry" />
           </mxCell>
@@ -2656,7 +2574,10 @@
         <mxCell id="n4NpimvGxRXqTdGRNQyo-4" value="t" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="n4NpimvGxRXqTdGRNQyo-1" target="yrJLzXoseopjtiNfFKk5-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="AND" tags="05-re-execution" id="n4NpimvGxRXqTdGRNQyo-1">
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-14" value="t" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="n4NpimvGxRXqTdGRNQyo-1" target="1wvx0eJ7fTUcXRKeURI4-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="AND" tags="08-type_3 06-type_1" id="n4NpimvGxRXqTdGRNQyo-1">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3095" y="-627.5" width="80" height="80" as="geometry" />
           </mxCell>
@@ -2672,7 +2593,7 @@
         <mxCell id="s6wDxaXQtTVFRyTiy3fm-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="n4NpimvGxRXqTdGRNQyo-6" target="gSoXI3ar291KiDH4XYDU-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="environment1" tags="03-original_author 04-reproducer 07-faults" id="n4NpimvGxRXqTdGRNQyo-6">
+        <UserObject label="environment1" tags="02-original_author 09-faults 05-reproducer" id="n4NpimvGxRXqTdGRNQyo-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2690.25" y="-596.5" width="100" height="20" as="geometry" />
           </mxCell>
@@ -2680,7 +2601,7 @@
         <mxCell id="s6wDxaXQtTVFRyTiy3fm-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-2" target="n4NpimvGxRXqTdGRNQyo-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="environment2" tags="05-re-execution" id="s6wDxaXQtTVFRyTiy3fm-2">
+        <UserObject label="environment2" tags="06-type_1" id="s6wDxaXQtTVFRyTiy3fm-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3085" y="-670" width="100" height="20" as="geometry" />
           </mxCell>
@@ -2688,7 +2609,7 @@
         <mxCell id="s6wDxaXQtTVFRyTiy3fm-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-4" target="s6wDxaXQtTVFRyTiy3fm-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="environment3" tags="06-re-implementation" id="s6wDxaXQtTVFRyTiy3fm-4">
+        <UserObject label="environment3" tags="07-type_2" id="s6wDxaXQtTVFRyTiy3fm-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3240" y="-590" width="100" height="20" as="geometry" />
           </mxCell>
@@ -2700,7 +2621,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="AND" tags="06-re-implementation" id="s6wDxaXQtTVFRyTiy3fm-5">
+        <UserObject label="AND" tags="07-type_2" id="s6wDxaXQtTVFRyTiy3fm-5">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3186.5" y="-596.5" width="33" height="33" as="geometry" />
           </mxCell>
@@ -2719,52 +2640,30 @@
         <mxCell id="s6wDxaXQtTVFRyTiy3fm-18" value="n₂₇" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-14" target="s6wDxaXQtTVFRyTiy3fm-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="environment1" tags="03-original_author 04-reproducer 07-faults" id="s6wDxaXQtTVFRyTiy3fm-14">
+        <UserObject label="environment&amp;lt;N&amp;gt;" tags="02-original_author 09-faults 05-reproducer" id="s6wDxaXQtTVFRyTiy3fm-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2550" y="-220" width="100" height="20" as="geometry" />
+            <mxGeometry x="2580" y="-235" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="environment" tags="03-original_author 04-reproducer 07-faults" id="s6wDxaXQtTVFRyTiy3fm-15">
+        <UserObject label="environment" tags="02-original_author 09-faults 05-reproducer" id="s6wDxaXQtTVFRyTiy3fm-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2710" y="-220" width="100" height="20" as="geometry" />
+            <mxGeometry x="2720" y="-235" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a particular environment&quot;" tags="03-original_author 04-reproducer 07-faults" id="s6wDxaXQtTVFRyTiy3fm-17">
+        <UserObject label="&quot;a particular environment&quot;" tags="02-original_author 09-faults 05-reproducer" id="s6wDxaXQtTVFRyTiy3fm-17">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2390" y="-230" width="100" height="40" as="geometry" />
+            <mxGeometry x="2430" y="-240" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="s6wDxaXQtTVFRyTiy3fm-21" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-19" target="s6wDxaXQtTVFRyTiy3fm-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s6wDxaXQtTVFRyTiy3fm-23" value="n₂₈" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-19" target="s6wDxaXQtTVFRyTiy3fm-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="environment2" tags="05-re-execution" id="s6wDxaXQtTVFRyTiy3fm-19">
+        <UserObject label="work" tags="01-original_work" id="_6meHIMFjqJ7mQNxPPm8-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2550" y="-170" width="100" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="s6wDxaXQtTVFRyTiy3fm-25" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-24" target="s6wDxaXQtTVFRyTiy3fm-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s6wDxaXQtTVFRyTiy3fm-26" value="n₂₉" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="s6wDxaXQtTVFRyTiy3fm-24" target="s6wDxaXQtTVFRyTiy3fm-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="environment3" tags="06-re-implementation" id="s6wDxaXQtTVFRyTiy3fm-24">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2550" y="-170" width="100" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;(Scientific) Work&quot;" tags="01-original_work" id="_6meHIMFjqJ7mQNxPPm8-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3045" y="-1050" width="120" height="60" as="geometry" />
+            <mxGeometry x="3250" y="-1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2uAIWrSbU8UR2QMJDXSW-3" style="rounded=0;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-2" target="L-pPdsTP5N5naby_bBEN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="conflicting_choices2" tags="05-re-execution" id="2uAIWrSbU8UR2QMJDXSW-2">
+        <UserObject label="conflicting_choices2" tags="06-type_1" id="2uAIWrSbU8UR2QMJDXSW-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3340" y="-930" width="120" height="60" as="geometry" />
           </mxCell>
@@ -2772,14 +2671,14 @@
         <mxCell id="2uAIWrSbU8UR2QMJDXSW-5" style="rounded=0;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-4" target="L-pPdsTP5N5naby_bBEN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="conflicting_choices3" tags="06-re-implementation" id="2uAIWrSbU8UR2QMJDXSW-4">
+        <UserObject label="conflicting_choices3" tags="07-type_2" id="2uAIWrSbU8UR2QMJDXSW-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3340" y="-930" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;particular conflicting choices&quot;" tags="05-re-execution 06-re-implementation" id="2uAIWrSbU8UR2QMJDXSW-14">
+        <UserObject label="&quot;particular conflicting choices&quot;" tags="08-type_3 07-type_2 06-type_1" id="2uAIWrSbU8UR2QMJDXSW-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3490" y="-841" width="120" height="60" as="geometry" />
+            <mxGeometry x="3485" y="-841" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2uAIWrSbU8UR2QMJDXSW-15" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-17" target="2uAIWrSbU8UR2QMJDXSW-18" edge="1">
@@ -2788,85 +2687,375 @@
         <mxCell id="2uAIWrSbU8UR2QMJDXSW-16" value="n₃₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-17" target="2uAIWrSbU8UR2QMJDXSW-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="conficting_choices2" tags="05-re-execution" id="2uAIWrSbU8UR2QMJDXSW-17">
+        <UserObject label="conficting_choices&amp;lt;N&amp;gt;" tags="06-type_1 07-type_2 08-type_3" id="2uAIWrSbU8UR2QMJDXSW-17">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3490" y="-731" width="120" height="60" as="geometry" />
+            <mxGeometry x="3480" y="-731" width="130" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="conflicting_choices" tags="05-re-execution 06-re-implementation" id="2uAIWrSbU8UR2QMJDXSW-18">
+        <UserObject label="conflicting_choices" tags="08-type_3 07-type_2 06-type_1" id="2uAIWrSbU8UR2QMJDXSW-18">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3490" y="-621" width="120" height="60" as="geometry" />
+            <mxGeometry x="3485" y="-621" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="2uAIWrSbU8UR2QMJDXSW-25" value="n₃₃" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-22" target="2uAIWrSbU8UR2QMJDXSW-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2uAIWrSbU8UR2QMJDXSW-27" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-22" target="2uAIWrSbU8UR2QMJDXSW-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="conflicting_choices3" tags="06-re-implementation" id="2uAIWrSbU8UR2QMJDXSW-22">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3490" y="-731" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;particular unspecified choices&quot;" tags="07-faults" id="BIIbry4o6YU3gY4la1iO-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2170" y="-930" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="BIIbry4o6YU3gY4la1iO-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="BIIbry4o6YU3gY4la1iO-4" target="BIIbry4o6YU3gY4la1iO-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BIIbry4o6YU3gY4la1iO-3" value="n₃₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="BIIbry4o6YU3gY4la1iO-4" target="BIIbry4o6YU3gY4la1iO-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="unspecified_choices1" tags="07-faults" id="BIIbry4o6YU3gY4la1iO-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2170" y="-820" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="unspecified_choices" tags="07-faults" id="BIIbry4o6YU3gY4la1iO-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2170" y="-710" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&quot;a description of a computation in a method section of an article&quot;" tags="01-original_work" id="UODisVdpldmVInzmnOGn-6">
+        <UserObject label="&quot;a description of a computation in a method section of an article&quot;" tags="01-original_work" id="rHeImtZ6Lpv3KvZVNVxv-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1960" y="-1120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="UODisVdpldmVInzmnOGn-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-10" edge="1">
+        <mxCell id="rHeImtZ6Lpv3KvZVNVxv-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-4" target="rHeImtZ6Lpv3KvZVNVxv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UODisVdpldmVInzmnOGn-8" value="n₃₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-9" target="UODisVdpldmVInzmnOGn-6" edge="1">
+        <mxCell id="rHeImtZ6Lpv3KvZVNVxv-3" value="n₃₆" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-4" target="rHeImtZ6Lpv3KvZVNVxv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="method" tags="01-original_work" id="UODisVdpldmVInzmnOGn-9">
+        <UserObject label="method" tags="01-original_work" id="rHeImtZ6Lpv3KvZVNVxv-4">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-1120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="description" tags="01-original_work" id="UODisVdpldmVInzmnOGn-10">
+        <UserObject label="description" tags="01-original_work" id="rHeImtZ6Lpv3KvZVNVxv-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2320" y="-1120" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;a description of a computation in a preregistration&quot;" tags="01-original_work" id="UODisVdpldmVInzmnOGn-11">
+        <UserObject label="&quot;a description of a computation in a preregistration&quot;" tags="01-original_work" id="rHeImtZ6Lpv3KvZVNVxv-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1960" y="-1190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="UODisVdpldmVInzmnOGn-12" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-10" edge="1">
+        <mxCell id="rHeImtZ6Lpv3KvZVNVxv-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-9" target="rHeImtZ6Lpv3KvZVNVxv-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2320" y="-1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UODisVdpldmVInzmnOGn-13" value="n₃₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="UODisVdpldmVInzmnOGn-14" target="UODisVdpldmVInzmnOGn-11" edge="1">
+        <mxCell id="rHeImtZ6Lpv3KvZVNVxv-8" value="n₃₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-9" target="rHeImtZ6Lpv3KvZVNVxv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="preregistration" tags="01-original_work" id="UODisVdpldmVInzmnOGn-14">
+        <UserObject label="preregistration" tags="01-original_work" id="rHeImtZ6Lpv3KvZVNVxv-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2140" y="-1190" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="i 1" tags="02-original_author" id="5iLT35i9nx-Acovq8sm5-7">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-11" target="5iLT35i9nx-Acovq8sm5-2" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="2710" y="-1000" />
+                <mxPoint x="2710" y="-1000" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="i ?" tags="08-type_3" id="5iLT35i9nx-Acovq8sm5-8">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-11" target="5iLT35i9nx-Acovq8sm5-2" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="2720" y="-1000" />
+                <mxPoint x="2720" y="-1000" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="j4oGljMI4yO4WdPvj_mn-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="rHeImtZ6Lpv3KvZVNVxv-11" target="j4oGljMI4yO4WdPvj_mn-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3160" y="-983" />
+              <mxPoint x="3160" y="-983" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="reported_code0" tags="08-type_3 04-in_silico" id="rHeImtZ6Lpv3KvZVNVxv-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2920" y="-1030" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5iLT35i9nx-Acovq8sm5-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="5iLT35i9nx-Acovq8sm5-1" target="5iLT35i9nx-Acovq8sm5-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2590" y="-900" />
+              <mxPoint x="2590" y="-900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="environment0" tags="08-type_3 04-in_silico" id="5iLT35i9nx-Acovq8sm5-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2540" y="-930" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5iLT35i9nx-Acovq8sm5-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5iLT35i9nx-Acovq8sm5-2" target="5iLT35i9nx-Acovq8sm5-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2520" y="-980" />
+              <mxPoint x="2520" y="-873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="executed_code0" tags="08-type_3 04-in_silico" id="5iLT35i9nx-Acovq8sm5-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="2530" y="-1020" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5iLT35i9nx-Acovq8sm5-4" value="t" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="5iLT35i9nx-Acovq8sm5-3" target="yrJLzXoseopjtiNfFKk5-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="AND" tags="08-type_3 04-in_silico" id="5iLT35i9nx-Acovq8sm5-3">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2573.5" y="-890" width="33" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="j4oGljMI4yO4WdPvj_mn-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="j4oGljMI4yO4WdPvj_mn-4" target="j4oGljMI4yO4WdPvj_mn-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="environment5" tags="08-type_3" id="j4oGljMI4yO4WdPvj_mn-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3100" y="-1030" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-39" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="j4oGljMI4yO4WdPvj_mn-5" target="1wvx0eJ7fTUcXRKeURI4-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3270" y="-983" />
+              <mxPoint x="3270" y="-983" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="AND" tags="08-type_3" id="j4oGljMI4yO4WdPvj_mn-5">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3210" y="-1000" width="33" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="prim" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-2">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
+            <mxGeometry x="3280" y="-1010" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="primary_data5" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="1wvx0eJ7fTUcXRKeURI4-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="1wvx0eJ7fTUcXRKeURI4-2" vertex="1">
+            <mxGeometry width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="1wvx0eJ7fTUcXRKeURI4-4">
+          <mxCell style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="1wvx0eJ7fTUcXRKeURI4-2" source="1wvx0eJ7fTUcXRKeURI4-3" target="1wvx0eJ7fTUcXRKeURI4-3" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-104" y="138" as="sourcePoint" />
+              <mxPoint x="-54" y="104.66666666666666" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-7" style="rounded=0;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1wvx0eJ7fTUcXRKeURI4-6" target="L-pPdsTP5N5naby_bBEN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="conflicting_choices4" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3340" y="-930" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="1wvx0eJ7fTUcXRKeURI4-8" target="L-pPdsTP5N5naby_bBEN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="unspecified_choices4" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3340" y="-820" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-17" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="1wvx0eJ7fTUcXRKeURI4-13" target="1wvx0eJ7fTUcXRKeURI4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="obtained_result4" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-13">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3220" y="-580" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="reported_result4" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-16">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3220" y="-460" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1wvx0eJ7fTUcXRKeURI4-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="1wvx0eJ7fTUcXRKeURI4-20" target="n4NpimvGxRXqTdGRNQyo-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="environment4" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3085" y="-670" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="08-type_3" id="1wvx0eJ7fTUcXRKeURI4-41">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
+            <mxGeometry x="3220" y="-650" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="utilized_data5" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="1wvx0eJ7fTUcXRKeURI4-42">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" parent="1wvx0eJ7fTUcXRKeURI4-41" vertex="1">
+            <mxGeometry width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="02-original_author 09-faults 07-type_2 06-type_1 05-reproducer" id="1wvx0eJ7fTUcXRKeURI4-43">
+          <mxCell style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" parent="1wvx0eJ7fTUcXRKeURI4-41" source="1wvx0eJ7fTUcXRKeURI4-42" target="1wvx0eJ7fTUcXRKeURI4-42" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-104" y="138" as="sourcePoint" />
+              <mxPoint x="-54" y="104.66666666666666" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="not &lt;i&gt;in silico&lt;/i&gt;" link="data:action/json,{&quot;title&quot;: &quot;Show not in silico&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-not_in_silico&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="f2oD4MOdMqccoSPUoHCV-3">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="not &lt;i&gt;in silico&lt;/i&gt;" tags="03-not_in_silico" link="data:action/json,{&quot;title&quot;: &quot;Hide not in silico&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-not_in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}}]}" id="f2oD4MOdMqccoSPUoHCV-2">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="f2oD4MOdMqccoSPUoHCV-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="1" vertex="1">
+            <mxGeometry x="3610" y="-1084" width="170" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="f2oD4MOdMqccoSPUoHCV-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1wvx0eJ7fTUcXRKeURI4-42" target="n4NpimvGxRXqTdGRNQyo-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3155" y="-630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;startArrow=classic;startFill=1;" parent="1" source="1wvx0eJ7fTUcXRKeURI4-3" target="1wvx0eJ7fTUcXRKeURI4-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3320" y="-880" />
+              <mxPoint x="3320" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-10" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-7" target="Eu9N0RKJ_jUNz708BRhu-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-11" value="n₁₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-7" target="Eu9N0RKJ_jUNz708BRhu-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="reported_code&amp;lt;N&amp;gt;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2120" y="-534.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;particular reported code&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2120" y="-641.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="reported_code" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2120" y="-424.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-15" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-12" target="Eu9N0RKJ_jUNz708BRhu-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-16" value="n₁₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-12" target="Eu9N0RKJ_jUNz708BRhu-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="primary_data&amp;lt;N&amp;gt;" tags="02-original_author 05-reproducer 10-error" id="Eu9N0RKJ_jUNz708BRhu-12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2120" y="-310" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;particular primary data&quot;" tags="02-original_author 05-reproducer 10-error" id="Eu9N0RKJ_jUNz708BRhu-13">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="1950" y="-310" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="primary_data" tags="02-original_author 05-reproducer 10-error" id="Eu9N0RKJ_jUNz708BRhu-14">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2290" y="-310" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-20" value="n₅" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-26" target="Eu9N0RKJ_jUNz708BRhu-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2570.25" y="-170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-21" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-26" target="Eu9N0RKJ_jUNz708BRhu-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2690.25" y="-170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&quot;Inference rule&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-18">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2720" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;Reasoning behind making a claim based on a result (or multiple results).&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2420" y="-200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="inference_rule" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-26">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2585" y="-180" width="90" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;a particular&lt;br&gt;inference rule&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-27">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2700" y="-410" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="inference_rule" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-30">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2705" y="-350" width="90" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;a particular claim&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-33">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2540" y="-350" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="claim" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-34">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="2540" y="-300" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-40" value="n₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-37" target="Eu9N0RKJ_jUNz708BRhu-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-41" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-37" target="Eu9N0RKJ_jUNz708BRhu-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="claim" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-37">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3365" y="-400" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;Claim&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-38">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3365" y="-480" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;A conclusion drawn from one or multiple results.&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-39">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3340" y="-320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-42" value="&quot;(Scientific) Work&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3650" y="-530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-45" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-43" target="Eu9N0RKJ_jUNz708BRhu-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-46" value="n₁" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-43" target="Eu9N0RKJ_jUNz708BRhu-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-43" value="work" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3650" y="-423" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-44" value="&quot;A compilation of descriptions, results, and, potentially, data, claims, and a rule of inference that relate to each other.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3640" y="-313" width="140" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu9N0RKJ_jUNz708BRhu-51" value="&quot;a particular work&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="-1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="AND" tags="02-original_author 05-reproducer" id="sYx0vKv8xSGesNFBUbZD-3">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="3012" y="-406.5" width="33" height="33" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

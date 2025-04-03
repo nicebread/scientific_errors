@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.4" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.5" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1358,7 +1358,7 @@
         <mxCell id="LkG4QqCJzSwnCHXQJE-b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1900" y="-1200" width="1890" height="1070" as="geometry" />
         </mxCell>
-        <UserObject label="Original Work" link="data:action/json,{&quot;title&quot;: &quot;Show Original Work&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-not_in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;10-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-10&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-1">
+        <UserObject label="Original Work" link="data:action/json,{&quot;title&quot;: &quot;Show Original Work&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-not_in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;10-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-10&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}}]}" id="Lp5b1CyZDyOVVe-kU8Lf-1">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-1180" width="150" height="40" as="geometry" />
           </mxCell>
@@ -3035,24 +3035,32 @@
             <mxGeometry x="3340" y="-320" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Eu9N0RKJ_jUNz708BRhu-42" value="&quot;(Scientific) Work&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3650" y="-530" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="&quot;(Scientific) Work&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-42">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3650" y="-530" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Eu9N0RKJ_jUNz708BRhu-45" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-43" target="Eu9N0RKJ_jUNz708BRhu-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eu9N0RKJ_jUNz708BRhu-46" value="n₁" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="Eu9N0RKJ_jUNz708BRhu-43" target="Eu9N0RKJ_jUNz708BRhu-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eu9N0RKJ_jUNz708BRhu-43" value="work" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3650" y="-423" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Eu9N0RKJ_jUNz708BRhu-44" value="&quot;A compilation of descriptions, results, and, potentially, data, claims, and a rule of inference that relate to each other.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3640" y="-313" width="140" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="Eu9N0RKJ_jUNz708BRhu-51" value="&quot;a particular work&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3440" y="-1180" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="work" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-43">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3650" y="-423" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;A compilation of descriptions, results, and, potentially, data, claims, and a rule of inference that relate to each other.&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-44">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3640" y="-313" width="140" height="83" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;a particular work&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-51">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="3440" y="-1180" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="AND" tags="02-original_author 05-reproducer" id="sYx0vKv8xSGesNFBUbZD-3">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3012" y="-406.5" width="33" height="33" as="geometry" />

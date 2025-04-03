@@ -1351,7 +1351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="toKlXgSBRFOgYpURWRct" name="article-landing">
-    <mxGraphModel dx="259" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1409,7 +1409,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="not &lt;i&gt;in silico&lt;/i&gt;" link="data:action/json,{&quot;title&quot;: &quot;Show not in silico&quot;,&quot;actions&quot;:[{&quot;open&quot;: &quot;data:page/id,FSWbtChAd458mGodHTpa&quot;},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;10-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-not_in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-10&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="J56sj-_mJXOEr0rNIcKR-1">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
             <mxGeometry x="3620" y="-1080" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1417,7 +1417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="09-article">
-    <mxGraphModel dx="259" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1436,27 +1436,27 @@
             <mxGeometry x="3620" y="-1130" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Reproducer" link="data:action/json,{&quot;title&quot;: &quot;Show Reproducer&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-9">
+        <UserObject label="Reproducer" link="data:action/json,{&quot;title&quot;: &quot;Show Reproducer&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-9">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-980" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Type 1" link="data:action/json,{&quot;title&quot;: &quot;Show Type 1&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-11">
+        <UserObject label="Type 1" link="data:action/json,{&quot;title&quot;: &quot;Show Type 1&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;06-type_1&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-11">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-930" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Type 2" link="data:action/json,{&quot;title&quot;: &quot;Show Type 2&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-13">
+        <UserObject label="Type 2" link="data:action/json,{&quot;title&quot;: &quot;Show Type 2&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;07-type_2&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-13">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-880" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Faults" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Faults&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-15">
+        <UserObject label="Faults" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Faults&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;09-faults&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-15">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-780" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Error" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Error&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-17">
+        <UserObject label="Error" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Error&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;10-error&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-10&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-17">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-730" width="150" height="40" as="geometry" />
           </mxCell>
@@ -1471,77 +1471,77 @@
             <mxGeometry x="3620" y="-1130" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Reproducer" tags="05-reproducer" link="data:action/json,{&quot;title&quot;: &quot;Hide Reproducer&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-4">
+        <UserObject label="Reproducer" tags="05-reproducer" link="data:action/json,{&quot;title&quot;: &quot;Hide Reproducer&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-4">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-980" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Type 1&lt;/div&gt;" tags="06-type_1" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 1&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-10">
+        <UserObject label="&lt;div&gt;Type 1&lt;/div&gt;" tags="06-type_1" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 1&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-10">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-930" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Type 2" tags="07-type_2" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 2&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-12">
+        <UserObject label="Type 2" tags="07-type_2" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 2&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-12">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-880" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Faults" tags="09-faults" link="data:action/json,{&quot;title&quot;: &quot;Hide Faults&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-14">
+        <UserObject label="Faults" tags="09-faults" link="data:action/json,{&quot;title&quot;: &quot;Hide Faults&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-14">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-780" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Error" tags="10-error" link="data:action/json,{&quot;title&quot;: &quot;Hide Error&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-16">
+        <UserObject label="Error" tags="10-error" link="data:action/json,{&quot;title&quot;: &quot;Hide Error&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;10-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-10&quot;]}}]}" id="RbWnNl_EBE8M3rkuY90v-16">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-730" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-2">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-1184" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-11">
+        <UserObject label="" tags="disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-1134" width="170" height="49" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-12">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-12">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-984" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-13">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-07 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-934" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-06 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-14">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-08 disable-if-06 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-884" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-15">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-784" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04" id="QUoOZGlp5lnhboiUv0TK-16">
+        <UserObject label="" tags="disable-if-02 disable-if-09 disable-if-08 disable-if-07 disable-if-06 disable-if-05 disable-if-04 disable-if-03" id="QUoOZGlp5lnhboiUv0TK-16">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-734" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-re-execution&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-re-implementation&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-03&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-04&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-08&quot;]}}]}" id="svjLb76wFN5MYeLJTsbR-1">
+        <UserObject label="Clear" link="data:action/json,{&quot;title&quot;: &quot;Clear&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;06-type_1&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_2&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;09-faults&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;10-error&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-01&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-06&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-09&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-10&quot;]}}]}" id="svjLb76wFN5MYeLJTsbR-1">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3630" y="-190" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="in silico" link="data:action/json,{&quot;title&quot;: &quot;Show in silico&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-6">
+        <UserObject label="in silico" link="data:action/json,{&quot;title&quot;: &quot;Show in silico&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-in_silico&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-6">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=2;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="in silico" tags="04-in_silico" link="data:action/json,{&quot;title&quot;: &quot;Hide in silico&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;03-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-03&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-5">
+        <UserObject label="in silico" tags="04-in_silico" link="data:action/json,{&quot;title&quot;: &quot;Hide in silico&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;04-in_silico&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;02-original_author&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-02&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-5">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=2;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-1030" width="150" height="40" as="geometry" />
           </mxCell>
@@ -1551,17 +1551,17 @@
             <mxGeometry x="3610" y="-1034" width="170" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Type 3" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Type 3&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-3">
+        <UserObject label="Type 3" tags="" link="data:action/json,{&quot;title&quot;: &quot;Show Type 3&quot;,&quot;actions&quot;:[{&quot;show&quot;: {&quot;tags&quot;: [&quot;01-original_work&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;08-type_3&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-3">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-830" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Type 3" tags="08-type_3" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 3&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;07-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-07&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;04-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-04&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-2">
+        <UserObject label="Type 3" tags="08-type_3" link="data:action/json,{&quot;title&quot;: &quot;Hide Type 3&quot;,&quot;actions&quot;:[{&quot;hide&quot;: {&quot;tags&quot;: [&quot;08-type_3&quot;]}},{&quot;hide&quot;: {&quot;tags&quot;: [&quot;disable-if-08&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;05-reproducer&quot;]}},{&quot;show&quot;: {&quot;tags&quot;: [&quot;disable-if-05&quot;]}}]}" id="-voySNhSQHpRNIaE9XI9-2">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3620" y="-830" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-07 disable-if-06 disable-if-04" id="-voySNhSQHpRNIaE9XI9-1">
+        <UserObject label="" tags="disable-if-02 disable-if-10 disable-if-09 disable-if-07 disable-if-06 disable-if-04 disable-if-03" id="-voySNhSQHpRNIaE9XI9-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=75;" parent="ZI1ZATeKlaFyE5eDUnda-2" vertex="1">
             <mxGeometry x="3610" y="-834" width="170" height="48" as="geometry" />
           </mxCell>
@@ -1735,11 +1735,6 @@
                 <mxPoint x="2860" y="-640" />
               </Array>
             </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="Note: This is one configuration of a work, not all works involve code, data, or a preregistration." tags="01-original_work" id="yrJLzXoseopjtiNfFKk5-41">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
-            <mxGeometry x="3410" y="-1330" width="175" height="56.94" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s6wDxaXQtTVFRyTiy3fm-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-110" target="s6wDxaXQtTVFRyTiy3fm-5" edge="1">

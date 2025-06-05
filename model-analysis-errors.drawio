@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.5" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -717,7 +717,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n4-cPGc8KIIeVT6Bk1gN" name="03-choices">
-    <mxGraphModel dx="1541" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1532" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -811,8 +811,8 @@
         <mxCell id="7uMynjpYxRg0fBStoFp5-9" value="&quot;Computational choices that are mentioned in a description in the scope.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-11" value="&quot;Computational choices that are at odds with the descriptions in the scope.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-11" value="&quot;Computational choices that are at odds with the descriptions in the scope, possibly as a result of missing coherence.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="180" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1006,7 +1006,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KPMlPtTYA3X9ogOWpVQX" name="06-data">
-    <mxGraphModel dx="5581" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4199" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1072,7 +1072,7 @@
         <mxCell id="5etu7LoMtXVBNzSus7yz-18" value="n₃" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-11" target="5etu7LoMtXVBNzSus7yz-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-19" value="&quot;(Empirical) Data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-19" value="&quot;(Analysis) Data&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3296" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-20" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-5" target="5etu7LoMtXVBNzSus7yz-19" edge="1">
@@ -1147,7 +1147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-36" value="&quot;Records obtained from a measurement process.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-36" value="&quot;Measured records&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2809.75" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-37" value="n₁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5etu7LoMtXVBNzSus7yz-5" target="5etu7LoMtXVBNzSus7yz-36" edge="1">
@@ -1183,7 +1183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XwKYzEd_BNxRyWKxryBO" name="07-computation">
-    <mxGraphModel dx="2843" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1196,7 +1196,7 @@
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-710" y="-529.94" width="473" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="f6yL-t6cbpQuHvvc1sfa-4" value="&quot;A particular calculation of one or multiple results that is (if applicable) dependent on (1) specific data, (2) a specific computational environment, and (3) specific code.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="f6yL-t6cbpQuHvvc1sfa-4" value="&quot;A particular calculation of one or multiple results that can be dependent on (1) specific data, (2) a specific computational environment, and (3) specific code.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-440.00000000000006" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f6yL-t6cbpQuHvvc1sfa-5" value="n₁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f6yL-t6cbpQuHvvc1sfa-1" target="f6yL-t6cbpQuHvvc1sfa-4" edge="1">
@@ -1417,7 +1417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="09-article">
-    <mxGraphModel dx="899" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="257" dy="2441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -2258,7 +2258,7 @@
             <mxGeometry x="2679.5" y="-670" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation of results corresponds to its descriptions in the scope. It entails (1) checking whether all descriptions in the scope are coherent, (2) performing a second computation inferred from the descriptions in the description scope, using data in the data scope (if applicable), and from unspecified and conflicting choices, and (3) comparing the results. Optionally, reproductions can also assess (4) whether the original claim is supported.&quot;" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
+        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation on data corresponds to its descriptions in the description scope. At its core, it involves performing a second computation inferred from the descriptions in the scope, from unspecified and conflicting choices, and using data in the data scope (possibly generated by re-executing data generating source code). Then, the results are compared and (optionally) the support for the claims is evaluated.&quot;" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2120" y="-870" width="310" height="180" as="geometry" />
           </mxCell>
@@ -2547,7 +2547,7 @@
             <mxGeometry x="3120" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Data sets commonly go through multiple preprocessing stages. The data scope describes which of these stages are considered during the reproduction. If all stages are considered, this means one has obtained the primary data.&quot;" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="ybp3HSN7aaGsiSIPHLm5-3">
+        <UserObject label="&quot;Data sets commonly go through multiple preprocessing stages. The data scope describes which of these stages are considered (i.e., redone) during the reproduction. If all stages are considered, one works with the primary data.&quot;" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="ybp3HSN7aaGsiSIPHLm5-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3280" y="-240" width="190" height="100" as="geometry" />
           </mxCell>

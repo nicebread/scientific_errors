@@ -2576,7 +2576,7 @@
         <mxCell id="ybp3HSN7aaGsiSIPHLm5-5" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="ybp3HSN7aaGsiSIPHLm5-2" target="ybp3HSN7aaGsiSIPHLm5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="data_scope" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error 05-reproducer" id="ybp3HSN7aaGsiSIPHLm5-2">
+        <UserObject label="data_scope" tags="03-not_in_silico 06-type_1 07-type_2 09-faults 10-error" id="ybp3HSN7aaGsiSIPHLm5-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3120" y="-220" width="120" height="60" as="geometry" />
           </mxCell>

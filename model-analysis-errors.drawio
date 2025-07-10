@@ -1668,7 +1668,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="09-faults" id="ieUmPJHAyN4LwZxal7T--2">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.21,0],[0.43,0],[0.43,0.12],[1,0.12],[1,1],[0.21,1],[0.21,0.53],[0.21,0.25]];polyline=0;fillColor=none;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.21,0],[0.43,0],[0.43,0.1],[1,0.1],[1,1],[0.21,1],[0.21,0.53],[0.21,0.25]];polyline=0;fillColor=none;" vertex="1" parent="1">
             <mxGeometry x="2270" y="-1190" width="1000" height="830" as="geometry" />
           </mxCell>
         </UserObject>
@@ -3327,7 +3327,7 @@
         </mxCell>
         <UserObject label="unspecified_choices0" tags="11-in_silico" id="ieUmPJHAyN4LwZxal7T--43">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="2720" y="-1080" width="120" height="40" as="geometry" />
+            <mxGeometry x="2720" y="-1090" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

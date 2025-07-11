@@ -2420,7 +2420,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="i 1" tags="08-type_3" id="dvjK3pkZ67rfnZWP6vGj-10">
+        <UserObject label="i 1" tags="08-type_3 09-faults" id="dvjK3pkZ67rfnZWP6vGj-10">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="d64iukOMIbFN8zlV8vSq-3" target="dvjK3pkZ67rfnZWP6vGj-3" edge="1">
             <mxGeometry x="0.7647" relative="1" as="geometry">
               <mxPoint x="2891.75" y="-840" as="sourcePoint" />

@@ -2506,7 +2506,7 @@
             <mxGeometry x="3110" y="-500" width="140" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The data analysis source code reported by authors may differ from the one that was executed to obtain the result.&quot;" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-10">
+        <UserObject label="&quot;The data analysis source code reported by authors may differ from the one executed to obtain the result.&quot;" tags="09-faults" id="fw9Gai0r77NJk9W2MTuy-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3110" y="-677.5" width="140" height="81" as="geometry" />
           </mxCell>
@@ -3248,7 +3248,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The simulation source code reported by authors may differ from the one that was executed to obtain the primary data.&quot;" tags="11-in_silico" id="ieUmPJHAyN4LwZxal7T--10">
+        <UserObject label="&quot;The simulation source code reported by authors may differ from the one executed to obtain the primary data.&quot;" tags="11-in_silico" id="ieUmPJHAyN4LwZxal7T--10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2518" y="-1180" width="144" height="100" as="geometry" />
           </mxCell>

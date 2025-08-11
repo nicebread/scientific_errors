@@ -2705,7 +2705,7 @@
             <mxGeometry x="3120" y="-220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Analysis data sets commonly go through multiple preprocessing stages. The analysis data scope describes which of these stages are considered (i.e., redone) during the reproduction. If all stages are considered, one works with the primary analysis data.&quot;" tags="06-type_1 07-type_2 09-faults 12-error 03-in_natura" id="ybp3HSN7aaGsiSIPHLm5-3">
+        <UserObject label="&quot;Analysis data sets commonly go through multiple computational stages. The analysis data scope describes which of these stages are considered (i.e., redone) during the reproduction. If all stages are considered, one works with the primary analysis data.&quot;" tags="06-type_1 07-type_2 09-faults 12-error 03-in_natura" id="ybp3HSN7aaGsiSIPHLm5-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="3280" y="-240" width="210" height="100" as="geometry" />
           </mxCell>

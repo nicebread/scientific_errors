@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.7" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.9" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5181" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1462,7 +1462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSWbtChAd458mGodHTpa" name="09-article">
-    <mxGraphModel dx="257" dy="2443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="245" dy="2518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Interface" id="ZI1ZATeKlaFyE5eDUnda-2">
@@ -1706,11 +1706,11 @@
             <mxPoint x="3500" y="-1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6meHIMFjqJ7mQNxPPm8-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="_6meHIMFjqJ7mQNxPPm8-1" edge="1">
+        <mxCell id="_6meHIMFjqJ7mQNxPPm8-2" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yrJLzXoseopjtiNfFKk5-4" target="_6meHIMFjqJ7mQNxPPm8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3030" y="-1100" />
-              <mxPoint x="3310" y="-1100" />
+              <mxPoint x="3340" y="-1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2475,9 +2475,9 @@
             <mxGeometry x="2740" y="-1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The set of descriptions used during a reproduction.&quot;" tags="09-faults 07-type_2 06-type_1 08-type_3 12-error" id="dvjK3pkZ67rfnZWP6vGj-6">
+        <UserObject label="&quot;The set of descriptions that during a reproduction (a) informs a computation, (b) is checked for coherence, and/or (c) is re-executed (in the case of source code).&quot;" tags="09-faults 07-type_2 06-type_1 08-type_3 12-error" id="dvjK3pkZ67rfnZWP6vGj-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3090" y="-1180" width="120" height="60" as="geometry" />
+            <mxGeometry x="3070" y="-1190" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="fw9Gai0r77NJk9W2MTuy-3" value="n₂₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="fw9Gai0r77NJk9W2MTuy-1" target="fw9Gai0r77NJk9W2MTuy-2" edge="1">
@@ -2815,7 +2815,7 @@
         </UserObject>
         <UserObject label="work" tags="01-original_work" id="_6meHIMFjqJ7mQNxPPm8-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="3250" y="-1180" width="120" height="60" as="geometry" />
+            <mxGeometry x="3280" y="-1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2uAIWrSbU8UR2QMJDXSW-3" style="rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uAIWrSbU8UR2QMJDXSW-2" target="L-pPdsTP5N5naby_bBEN-1" edge="1">

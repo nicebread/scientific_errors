@@ -1006,7 +1006,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KPMlPtTYA3X9ogOWpVQX" name="06-data">
-    <mxGraphModel dx="5172" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4933" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1046,7 +1046,7 @@
             <mxPoint x="-2791.5" y="-470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;(Measured) Data&quot;" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Collected data&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="-3296" y="-770" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-20" edge="1" parent="1" source="IZw9x-B17nGilb_vbZB0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5etu7LoMtXVBNzSus7yz-19" value="n">
@@ -1055,13 +1055,13 @@
             <mxPoint x="-3046.5" y="-740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Original records, that is the first non-volatile form of measured data.&quot;" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Original records, that is the first non-volatile form of collected data.&quot;" vertex="1">
           <mxGeometry height="70" width="140" x="-3140" y="-1060" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-23" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="149" x="-2989" y="-930" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-24" parent="5etu7LoMtXVBNzSus7yz-23" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" value="primary_measured_data" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-24" parent="5etu7LoMtXVBNzSus7yz-23" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" value="primary_collected_data" vertex="1">
           <mxGeometry height="60" width="149" x="4.966666666666667" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-25" edge="1" parent="5etu7LoMtXVBNzSus7yz-23" source="5etu7LoMtXVBNzSus7yz-24" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" target="5etu7LoMtXVBNzSus7yz-24" value="">
@@ -1078,13 +1078,13 @@
             <mxPoint x="-3070" y="-870" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;First digital representation of the raw measured data.&quot;" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;First digital representation of the raw collected data.&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="-2970" y="-1060" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-30" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="128" x="-3138" y="-930" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-31" parent="5etu7LoMtXVBNzSus7yz-30" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" value="raw_measured_data" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-31" parent="5etu7LoMtXVBNzSus7yz-30" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" value="raw_collected_data" vertex="1">
           <mxGeometry height="60" width="128" x="4.266666666666667" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-32" edge="1" parent="5etu7LoMtXVBNzSus7yz-30" source="5etu7LoMtXVBNzSus7yz-31" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" target="5etu7LoMtXVBNzSus7yz-31" value="">
@@ -1104,8 +1104,8 @@
             <mxPoint x="-3130" y="-440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Measured data&quot;" vertex="1">
-          <mxGeometry height="60" width="120" x="-2809.75" y="-770" as="geometry" />
+        <mxCell id="5etu7LoMtXVBNzSus7yz-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;The product of the data collection phase, potentially preprocessed&quot;" vertex="1">
+          <mxGeometry height="60" width="159.5" x="-2829.5" y="-770" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-37" edge="1" parent="1" source="IZw9x-B17nGilb_vbZB0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5etu7LoMtXVBNzSus7yz-36" value="n₁">
           <mxGeometry relative="1" as="geometry">
@@ -1113,13 +1113,13 @@
             <mxPoint x="-2926.5" y="-740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Raw measured data&quot;" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Raw collected data&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="-3324.88" y="-930" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-39" edge="1" parent="1" source="5etu7LoMtXVBNzSus7yz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5etu7LoMtXVBNzSus7yz-38" value="n">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5etu7LoMtXVBNzSus7yz-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Primary measured&amp;nbsp; data&quot;" vertex="1">
+        <mxCell id="5etu7LoMtXVBNzSus7yz-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Primary collected&amp;nbsp; data&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="-2779.75" y="-930" as="geometry" />
         </mxCell>
         <mxCell id="5etu7LoMtXVBNzSus7yz-41" edge="1" parent="1" source="5etu7LoMtXVBNzSus7yz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5etu7LoMtXVBNzSus7yz-40" value="n">
@@ -1171,7 +1171,7 @@
         <mxCell id="IZw9x-B17nGilb_vbZB0-3" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="120" x="-3042" y="-770" as="geometry" />
         </mxCell>
-        <mxCell id="IZw9x-B17nGilb_vbZB0-4" parent="IZw9x-B17nGilb_vbZB0-3" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" value="measured_data" vertex="1">
+        <mxCell id="IZw9x-B17nGilb_vbZB0-4" parent="IZw9x-B17nGilb_vbZB0-3" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" value="collected_data" vertex="1">
           <mxGeometry height="60" width="120" as="geometry" />
         </mxCell>
         <mxCell id="IZw9x-B17nGilb_vbZB0-5" edge="1" parent="IZw9x-B17nGilb_vbZB0-3" source="IZw9x-B17nGilb_vbZB0-4" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=6;" target="IZw9x-B17nGilb_vbZB0-4" value="">
@@ -1840,7 +1840,7 @@
             <mxGeometry height="105" width="530" x="2900" y="-600" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="measured_data_scope" tags="06-type_1 07-type_2 12-error 03-in_natura 10-in_natura" id="g_vOlQZT4Bbi9FkSCruG-1">
+        <UserObject label="collected_data_scope" tags="06-type_1 07-type_2 12-error 03-in_natura 10-in_natura" id="g_vOlQZT4Bbi9FkSCruG-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" vertex="1">
             <mxGeometry height="89" width="145" x="2905" y="-590" as="geometry" />
           </mxCell>
@@ -1948,7 +1948,7 @@
             <mxGeometry height="60" width="160" x="2510" y="-820" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="primary_measured_data1" tags="" id="yrJLzXoseopjtiNfFKk5-36">
+        <UserObject label="primary_collected_data1" tags="" id="yrJLzXoseopjtiNfFKk5-36">
           <mxCell parent="yrJLzXoseopjtiNfFKk5-35" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" vertex="1">
             <mxGeometry height="60" width="160" as="geometry" />
           </mxCell>
@@ -2074,7 +2074,7 @@
             <mxPoint x="3270" y="-670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&quot;The computation may not correspond to the reported descriptions, measured data (or simulation source code, in the case of in silico works), or results.&quot;" tags="09-faults" id="0fMEboVt1tomcqNoBkXh-23">
+        <UserObject label="&quot;The computation may not correspond to the reported descriptions, collected data (or simulation source code, in the case of in silico works), or results.&quot;" tags="09-faults" id="0fMEboVt1tomcqNoBkXh-23">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="80" width="190" x="3360" y="-710" as="geometry" />
           </mxCell>
@@ -2408,7 +2408,7 @@
             <mxGeometry height="60" width="120" x="2679.5" y="-670" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation on measured data corresponds to the reported descriptions, measured data (or simulation source code, in the case of in silico works), and results. At its core, it involves performing a second computation inferred from the descriptions in the scope, from unspecified and conflicting choices, and using measured data in the scope (possibly generated by re-executing simulation source code). Then, the results are compared and (optionally) the support for the claims is evaluated.&quot;" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
+        <UserObject label="&quot;A reproduction is a research activity with the goal of verifying that a computation on collected data corresponds to the reported descriptions, collected data (or simulation source code, in the case of in silico works), and results. At its core, it involves performing a second computation inferred from the descriptions in the scope, from unspecified and conflicting choices, and using collected data in the scope (possibly generated by re-executing simulation source code). Then, the results are compared and (optionally) the support for the claims is evaluated.&quot;" tags="05-reproducer" id="Kn93jugu7rp3fwJ-fj6_-3">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="180" width="310" x="2120" y="-870" as="geometry" />
           </mxCell>
@@ -2475,7 +2475,7 @@
         <mxCell id="fw9Gai0r77NJk9W2MTuy-3" edge="1" parent="1" source="fw9Gai0r77NJk9W2MTuy-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="fw9Gai0r77NJk9W2MTuy-2" value="n₂₂">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;The measured data reported by authors may differ from the measured data utilized to obtain the result.&quot;" tags="10-in_natura" id="fw9Gai0r77NJk9W2MTuy-2">
+        <UserObject label="&quot;The collected data reported by authors may differ from the collected data utilized to obtain the result.&quot;" tags="10-in_natura" id="fw9Gai0r77NJk9W2MTuy-2">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="90" width="140" x="2490" y="-581.5" as="geometry" />
           </mxCell>
@@ -2697,12 +2697,12 @@
         <mxCell id="ybp3HSN7aaGsiSIPHLm5-5" edge="1" parent="1" source="ybp3HSN7aaGsiSIPHLm5-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="ybp3HSN7aaGsiSIPHLm5-1" value="n">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="measured_data_scope" tags="06-type_1 07-type_2 09-faults 12-error 03-in_natura" id="ybp3HSN7aaGsiSIPHLm5-2">
+        <UserObject label="collected_data_scope" tags="06-type_1 07-type_2 09-faults 12-error 03-in_natura" id="ybp3HSN7aaGsiSIPHLm5-2">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="140" x="3090" y="-220" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;Measured data commonly go through multiple computational stages. The measured data scope describes which of these stages are considered (i.e., redone) during the reproduction. If all stages are considered, one works with the primary measured data.&quot;" tags="06-type_1 07-type_2 09-faults 12-error 03-in_natura" id="ybp3HSN7aaGsiSIPHLm5-3">
+        <UserObject label="&quot;Collected data commonly go through multiple computational stages. The collected data scope describes which of these stages are considered (i.e., redone) during the reproduction. If all stages are considered, one works with the primary collected data.&quot;" tags="06-type_1 07-type_2 09-faults 12-error 03-in_natura" id="ybp3HSN7aaGsiSIPHLm5-3">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="100" width="210" x="3260" y="-240" as="geometry" />
           </mxCell>
@@ -3019,7 +3019,7 @@
             <mxGeometry height="40" width="150" x="3250" y="-1010" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="primary_measured_data5" tags="" id="1wvx0eJ7fTUcXRKeURI4-3">
+        <UserObject label="primary_collected_data5" tags="" id="1wvx0eJ7fTUcXRKeURI4-3">
           <mxCell parent="1wvx0eJ7fTUcXRKeURI4-2" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" vertex="1">
             <mxGeometry height="40" width="150" as="geometry" />
           </mxCell>
@@ -3127,7 +3127,7 @@
             <mxPoint x="2110" y="-280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&quot;particular primary measured data&quot;" tags="02-original_author 05-reproducer 12-error" id="Eu9N0RKJ_jUNz708BRhu-13">
+        <UserObject label="&quot;particular primary collected data&quot;" tags="02-original_author 05-reproducer 12-error" id="Eu9N0RKJ_jUNz708BRhu-13">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="1950" y="-310" as="geometry" />
           </mxCell>
@@ -3238,7 +3238,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;The simulation source code reported by authors may differ from the one executed to obtain the primary measured data.&quot;" tags="11-in_silico" id="ieUmPJHAyN4LwZxal7T--10">
+        <UserObject label="&quot;The simulation source code reported by authors may differ from the one executed to obtain the primary collected data.&quot;" tags="11-in_silico" id="ieUmPJHAyN4LwZxal7T--10">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="100" width="144" x="2518" y="-1180" as="geometry" />
           </mxCell>
@@ -3346,7 +3346,7 @@
             <mxGeometry height="60" width="140" x="2320" y="-310" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="primary_measured_data" tags="" id="UuuXop9312dr11Q0Xa_h-2">
+        <UserObject label="primary_collected_data" tags="" id="UuuXop9312dr11Q0Xa_h-2">
           <mxCell parent="UuuXop9312dr11Q0Xa_h-1" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" vertex="1">
             <mxGeometry height="60" width="140" as="geometry" />
           </mxCell>
@@ -3364,7 +3364,7 @@
             <mxGeometry height="60" width="170" x="2110" y="-310" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="primary_measured_data&amp;lt;N&amp;gt;" tags="" id="UuuXop9312dr11Q0Xa_h-5">
+        <UserObject label="primary_collected_data&amp;lt;N&amp;gt;" tags="" id="UuuXop9312dr11Q0Xa_h-5">
           <mxCell parent="UuuXop9312dr11Q0Xa_h-4" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=0;" vertex="1">
             <mxGeometry height="60" width="170" as="geometry" />
           </mxCell>

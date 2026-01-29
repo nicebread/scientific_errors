@@ -2114,7 +2114,7 @@
             <mxGeometry height="60" width="120" x="2680.25" y="-490" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="coherent_descriptions" tags="09-faults 08-type_3 07-type_2 06-type_1 12-error" id="nq-KhNVbIXnM8uOJQNoF-2">
+        <UserObject label="coherent_descriptions" tags="09-faults 08-type_3 07-type_2 12-error" id="nq-KhNVbIXnM8uOJQNoF-2">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="130" x="3120" y="-890" as="geometry" />
           </mxCell>
@@ -2147,13 +2147,6 @@
             <Array as="points">
               <mxPoint x="3130" y="-800" />
               <mxPoint x="3130" y="-800" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="skEnqM8bomvaakLA3nwP-2" edge="1" parent="1" source="d64iukOMIbFN8zlV8vSq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="nq-KhNVbIXnM8uOJQNoF-2" value="i ?">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3010" y="-860" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" pages="11">
   <diagram name="scratchpad" id="51PEagXw1sYwZtZuC4bm">
     <mxGraphModel dx="5172" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -717,102 +717,102 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n4-cPGc8KIIeVT6Bk1gN" name="03-choices">
-    <mxGraphModel dx="1532" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S04_w-M0vRDrfWub4jQF-5" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-1" target="S04_w-M0vRDrfWub4jQF-4" edge="1">
+        <mxCell id="S04_w-M0vRDrfWub4jQF-5" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="S04_w-M0vRDrfWub4jQF-4" value="i 1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-8" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-1" target="7uMynjpYxRg0fBStoFp5-7" edge="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-8" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="7uMynjpYxRg0fBStoFp5-7" value="n">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-10" value="n₂" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-1" target="7uMynjpYxRg0fBStoFp5-9" edge="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-10" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="7uMynjpYxRg0fBStoFp5-9" value="n₂">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-1" value="specified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="S04_w-M0vRDrfWub4jQF-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="specified_choices" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-6" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-2" target="S04_w-M0vRDrfWub4jQF-4" edge="1">
+        <mxCell id="S04_w-M0vRDrfWub4jQF-6" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="S04_w-M0vRDrfWub4jQF-4" value="i 1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-3" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-2" target="7uMynjpYxRg0fBStoFp5-2" edge="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-3" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="7uMynjpYxRg0fBStoFp5-2" value="n">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-4" value="n₃" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-2" target="7uMynjpYxRg0fBStoFp5-1" edge="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-4" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="7uMynjpYxRg0fBStoFp5-1" value="n₃">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="428" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-2" value="unspecified_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="S04_w-M0vRDrfWub4jQF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="unspecified_choices" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-7" value="i 1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-3" target="S04_w-M0vRDrfWub4jQF-4" edge="1">
+        <mxCell id="S04_w-M0vRDrfWub4jQF-7" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="S04_w-M0vRDrfWub4jQF-4" value="i 1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-6" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-3" target="7uMynjpYxRg0fBStoFp5-5" edge="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-6" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="7uMynjpYxRg0fBStoFp5-5" value="n">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-12" value="n₄" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" parent="1" source="S04_w-M0vRDrfWub4jQF-3" target="7uMynjpYxRg0fBStoFp5-11" edge="1">
+        <mxCell id="7uMynjpYxRg0fBStoFp5-12" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;" target="7uMynjpYxRg0fBStoFp5-11" value="n₄">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-3" value="conflicting_choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="S04_w-M0vRDrfWub4jQF-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="conflicting_choices" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-10" value="n" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="S04_w-M0vRDrfWub4jQF-4" target="S04_w-M0vRDrfWub4jQF-8" edge="1">
+        <mxCell id="S04_w-M0vRDrfWub4jQF-10" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="S04_w-M0vRDrfWub4jQF-8" value="n">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-11" value="n₁" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="S04_w-M0vRDrfWub4jQF-4" target="S04_w-M0vRDrfWub4jQF-9" edge="1">
+        <mxCell id="S04_w-M0vRDrfWub4jQF-11" edge="1" parent="1" source="S04_w-M0vRDrfWub4jQF-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="S04_w-M0vRDrfWub4jQF-9" value="n₁">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-4" value="choices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="S04_w-M0vRDrfWub4jQF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="choices" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-8" value="&quot;(Computational) Choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-30" width="120" height="60" as="geometry" />
+        <mxCell id="S04_w-M0vRDrfWub4jQF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;(Computational) Choices&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="-30" as="geometry" />
         </mxCell>
-        <mxCell id="S04_w-M0vRDrfWub4jQF-9" value="&quot;Decisions related to a computation.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-30" width="120" height="60" as="geometry" />
+        <mxCell id="S04_w-M0vRDrfWub4jQF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Decisions related to a computation.&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="-30" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-1" value="&quot;Computational choices not prescribed by the descriptions in the scope, filling gaps due to underspecification.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350.00000000000006" y="360" width="155.12" height="82" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Computational choices not prescribed by the descriptions in the scope, filling gaps due to underspecification.&quot;" vertex="1">
+          <mxGeometry height="82" width="155.12" x="350.00000000000006" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-2" value="&quot;Unspecified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="371" width="120" height="60" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Unspecified choices&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="371" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-5" value="&quot;Conflicting choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Conflicting choices&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-7" value="&quot;Specified choices&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Specified choices&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-9" value="&quot;Computational choices that are mentioned in a description in the scope.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Computational choices that are mentioned in a description in the scope.&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="-120" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-11" value="&quot;Computational choices that are at odds with the descriptions in the scope, possibly as a result of missing coherence.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="180" width="140" height="100" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Computational choices that are at odds with the descriptions in the scope, possibly because of missing coherence.&quot;" vertex="1">
+          <mxGeometry height="100" width="140" x="680" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

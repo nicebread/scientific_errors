@@ -3204,7 +3204,7 @@
             <mxGeometry height="60" width="120" x="3650" y="-423" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&quot;A compilation of descriptions, results, and, potentially, data, claims, and a rule of inference that relate to each other.&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-44">
+        <UserObject label="&quot;A compilation of descriptions, results, and, potentially, data, claims, and rules of inference that relate to each other.&quot;" tags="01-original_work" id="Eu9N0RKJ_jUNz708BRhu-44">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="83" width="140" x="3640" y="-313" as="geometry" />
           </mxCell>

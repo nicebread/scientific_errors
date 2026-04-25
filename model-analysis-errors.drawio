@@ -811,8 +811,8 @@
         <mxCell id="7uMynjpYxRg0fBStoFp5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Computational choices that are mentioned in a description in the scope.&quot;" vertex="1">
           <mxGeometry height="80" width="120" x="-120" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="7uMynjpYxRg0fBStoFp5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Computational choices that are at odds with the descriptions in the scope, possibly because of missing coherence.&quot;" vertex="1">
-          <mxGeometry height="100" width="140" x="680" y="180" as="geometry" />
+        <mxCell id="7uMynjpYxRg0fBStoFp5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&quot;Computational choices that are at odds with the descriptions in the scope.&quot;" vertex="1">
+          <mxGeometry height="80" width="140" x="680" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
